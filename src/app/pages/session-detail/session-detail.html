@@ -29,18 +29,11 @@
   </div>
 
   <ion-list>
-    <ion-item (click)="sessionClick('watch')" button>
-      <ion-label color="primary">Watch</ion-label>
-    </ion-item>
+      <ion-item (click)="sessionClick('add to calendar')" button>
+          <ion-label color="danger">Register For Workshop</ion-label>
+        </ion-item>
     <ion-item (click)="sessionClick('add to calendar')" button>
       <ion-label color="primary">Add to Calendar</ion-label>
-    </ion-item>
-    <ion-item (click)="sessionClick('mark as unwatched')" button>
-      <ion-label color="primary">Mark as Unwatched</ion-label>
-    </ion-item>
-    <ion-item (click)="sessionClick('download video')" button>
-      <ion-label color="primary">Download Video</ion-label>
-      <ion-icon slot="end" color="primary" size="small" name="cloud-download"></ion-icon>
     </ion-item>
     <ion-item (click)="sessionClick('leave feedback')" button>
       <ion-label color="primary">Leave Feedback</ion-label>
