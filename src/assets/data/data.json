@@ -3,40 +3,30 @@
   "schedule": [{
     "date": "2047-05-17",
     "groups": [{
-      "time": "8:00 am",
-      "sessions": [{
-        "name": "Breakfast",
-        "timeStart": "8:00 am",
-        "timeEnd": "9:00 am",
-        "location": "Dining Hall",
-        "tracks": ["Food"],
-        "id": "1"
-      }]
-    }, {
       "time": "9:15 am",
       "sessions": [{
-        "name": "Getting Started with Ionic",
-        "location": "Hall 2",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Ted Turtle"],
+        "name": "Game Development",
+        "location": "CS department",
+        "description": "Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.",
+        "speakerNames": ["Nadeem Bhati"],
         "timeStart": "9:30 am",
         "timeEnd": "9:45 am",
         "tracks": ["Ionic"],
         "id": "2"
       }, {
-        "name": "Ionic Tooling",
-        "location": "Executive Ballroom",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Rachel Rabbit"],
+        "name": "Internet Of Things",
+        "location": "CS department",
+        "description": "Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.",
+        "speakerNames": ["Nadeem Bhati"],
         "timeStart": "9:45 am",
         "timeEnd": "10:00 am",
         "tracks": ["Tooling"],
         "id": "3"
       }, {
-        "name": "University of Ionic",
-        "location": "Hall 3",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Ellie Elephant"],
+        "name": "PCB Designing",
+        "location": "CS department",
+        "description": "Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.",
+        "speakerNames": ["Nadeem Bhati"],
         "timeStart": "9:15 am",
         "timeEnd": "9:30 am",
         "tracks": ["Ionic"],
@@ -45,18 +35,18 @@
     }, {
       "time": "10:00 am",
       "sessions": [{
-        "name": "Migrating to Ionic",
-        "location": "Hall 1",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+        "name": "PTC CREO 3.0 (Parametric)",
+        "location": "CS Department",
+        "description": "Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.",
         "speakerNames": ["Eva Eagle", "Lionel Lion"],
         "timeStart": "10:00 am",
         "timeEnd": "10:15 am",
         "tracks": ["Ionic"],
         "id": "5"
       }, {
-        "name": "What's New in Angular",
-        "location": "Hall 3",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+        "name": "Cyber Security",
+        "location": "CS Department",
+        "description": "Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.Long Description of this Workshop.",
         "speakerNames": ["Rachel Rabbit"],
         "timeStart": "10:15 am",
         "timeEnd": "10:30 am",
@@ -208,118 +198,199 @@
 
 
   "speakers": [{
-    "name": "Burt Bear",
+    "name": "Andromaster",
     "profilePic": "/assets/img/speakers/bear.jpg",
     "twitter": "ionicframework",
-    "about": "Burt is a Bear.",
+    "about": "Description of Andromaster",
     "location": "Everywhere",
     "email": "burt@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "+917083974131",
     "id": "1"
   }, {
-    "name": "Charlie Cheetah",
+    "name": "Angry Birds",
     "profilePic": "/assets/img/speakers/cheetah.jpg",
     "twitter": "ionicframework",
-    "about": "Charlie is a Cheetah.",
+    "about": "Description of Angry Birds",
     "location": "Everywhere",
     "email": "charlie@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "",
     "id": "2"
   }, {
-    "name": "Donald Duck",
+    "name": "Box Cricket",
     "profilePic": "/assets/img/speakers/duck.jpg",
     "twitter": "ionicframework",
-    "about": "Donald is a Duck.",
+    "about": "Description",
     "location": "Everywhere",
     "email": "donald@example.com",
     "phone": "+1-541-754-3010",
     "id": "3"
   }, {
-    "name": "Eva Eagle",
+    "name": "CAD Strife",
     "profilePic": "/assets/img/speakers/eagle.jpg",
     "twitter": "ionicframework",
-    "about": "Eva is an Eagle.",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "eva@example.com",
     "phone": "+1-541-754-3010",
     "id": "4"
   }, {
-    "name": "Ellie Elephant",
+    "name": "Chanakya",
     "profilePic": "/assets/img/speakers/elephant.jpg",
     "twitter": "ionicframework",
-    "about": "Ellie is an Elephant.",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "ellie@example.com",
     "phone": "+1-541-754-3010",
     "id": "5"
   }, {
-    "name": "Gino Giraffe",
+    "name": "Ciruit Mania",
     "profilePic": "/assets/img/speakers/giraffe.jpg",
     "twitter": "ionicframework",
-    "about": "Gino is a Giraffe.",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "gino@example.com",
     "phone": "+1-541-754-3010",
     "id": "6"
   }, {
-    "name": "Isabella Iguana",
+    "name": "Contraption",
     "profilePic": "/assets/img/speakers/iguana.jpg",
     "twitter": "ionicframework",
-    "about": "Isabella is an Iguana.",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "isabella@example.com",
     "phone": "+1-541-754-3010",
     "id": "7"
   }, {
-    "name": "Karl Kitten",
+    "name": "Encipher",
     "profilePic": "/assets/img/speakers/kitten.jpg",
     "twitter": "ionicframework",
-    "about": "Karl is a Kitten.",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "karl@example.com",
     "phone": "+1-541-754-3010",
     "id": "8"
   }, {
-    "name": "Lionel Lion",
+    "name": "Googler",
     "profilePic": "/assets/img/speakers/lion.jpg",
     "twitter": "ionicframework",
-    "about": "Lionel is a Lion.",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "lionel@example.com",
     "phone": "+1-541-754-3010",
     "id": "9"
   }, {
-    "name": "Molly Mouse",
+    "name": "Junk Art",
     "profilePic": "/assets/img/speakers/mouse.jpg",
     "twitter": "ionicframework",
-    "about": "Molly is a Mouse.",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "molly@example.com",
     "phone": "+1-541-754-3010",
     "id": "10"
   }, {
-    "name": "Paul Puppy",
+    "name": "LAN Battle",
     "profilePic": "/assets/img/speakers/puppy.jpg",
     "twitter": "ionicframework",
-    "about": "Paul is a Puppy.",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "paul@example.com",
     "phone": "+1-541-754-3010",
     "id": "11"
   }, {
-    "name": "Rachel Rabbit",
+    "name": "Mastermind",
     "profilePic": "/assets/img/speakers/rabbit.jpg",
     "twitter": "ionicframework",
-    "about": "Rachel is a Rabbit.",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "rachel@example.com",
     "phone": "+1-541-754-3010",
     "id": "12"
   }, {
-    "name": "Ted Turtle",
+    "name": "Model Exhibition",
     "profilePic": "/assets/img/speakers/turtle.jpg",
     "twitter": "ionicframework",
-    "about": "Ted is a Turtle.",
+    "about": "Description.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "id": "13"
+  }, {
+    "name": "Mystery Hunt",
+    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Description.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "id": "13"
+  }, {
+    "name": "Paper Presentation",
+    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Description.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "id": "13"
+  }, {
+    "name": "Robotics",
+    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Description.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "id": "13"
+  }, {
+    "name": "Rubics Cube",
+    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Description.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "id": "13"
+  }, {
+    "name": "Sci-Lab",
+    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Description.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "id": "13"
+  }, {
+    "name": "Truss-A-Maze",
+    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Description.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "id": "13"
+  }, {
+    "name": "Virtual Placement",
+    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Description.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "id": "13"
+  }, {
+    "name": "Web-Einstein",
+    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Description.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "id": "13"
+  }, {
+    "name": "My Idea My Event",
+    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Description.",
     "location": "Everywhere",
     "email": "ted@example.com",
     "phone": "+1-541-754-3010",
