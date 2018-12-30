@@ -1,7 +1,7 @@
 {
-  "name": "ionic-conference-app",
+  "name": "Prajwalan 19 App",
   "version": "0.0.0",
-  "description": "Ionic Conference App",
+  "description": "Official App of Prajwalan 19 - Central India's Biggest Technical Festival",
   "license": "Apache-2.0",
   "scripts": {
     "ng": "ng",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/ionic-conference-app.git"
+    "url": "https://github.com/nadeemb53/prajwalan19.git"
   },
   "private": true,
   "dependencies": {
@@ -32,15 +32,15 @@
     "@ionic-native/status-bar": "5.0.0-beta.15",
     "@ionic/angular": "4.0.0-beta.19",
     "@ionic/storage": "^2.1.3",
-    "cordova-android": "^7.1.4",
+    "cordova-android": "7.1.4",
     "cordova-ios": "^4.5.5",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-inappbrowser": "^3.0.0",
-    "cordova-plugin-ionic-keyboard": "^2.1.2",
-    "cordova-plugin-ionic-webview": "^2.0.0",
+    "cordova-plugin-ionic-keyboard": "^2.1.3",
+    "cordova-plugin-ionic-webview": "^2.3.1",
     "cordova-plugin-splashscreen": "^5.0.2",
     "cordova-plugin-statusbar": "^2.4.2",
-    "cordova-plugin-whitelist": "^1.3.2",
+    "cordova-plugin-whitelist": "^1.3.3",
     "core-js": "^2.5.7",
     "rxjs": "6.3.3",
     "sw-toolbox": "3.6.0",
@@ -85,7 +85,9 @@
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-whitelist": {},
-      "cordova-plugin-ionic-webview": {},
+      "cordova-plugin-ionic-webview": {
+        "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+"
+      },
       "cordova-plugin-statusbar": {},
       "cordova-plugin-ionic-keyboard": {}
     }
