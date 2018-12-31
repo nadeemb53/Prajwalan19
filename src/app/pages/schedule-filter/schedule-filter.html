@@ -5,7 +5,7 @@
     </ion-buttons>
 
     <ion-title>
-      Filter Sessions
+      Settings
     </ion-title>
 
     <ion-buttons slot="end">
@@ -16,7 +16,7 @@
 
 <ion-content class="outer-content">
 
-  <ion-list>
+  <!--<ion-list>
     <ion-list-header>Tracks</ion-list-header>
 
     <ion-item *ngFor="let track of tracks" [attr.track]="track.name | lowercase">
@@ -31,6 +31,10 @@
     <ion-item (click)="resetFilters()" detail="false" class="reset-filters">
       Reset All Filters
     </ion-item>
-  </ion-list>
+  </ion-list>-->
 
+  <ion-card>
+      <ion-label>Dark Theme</ion-label>
+      <ion-toggle></ion-toggle>
+  </ion-card>
 </ion-content>

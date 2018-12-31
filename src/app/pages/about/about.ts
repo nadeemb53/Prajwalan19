@@ -26,7 +26,7 @@ export class AboutPage {
     await popover.present();
   }*/
 
-  speakers: any[] = [];
+  committees: any[] = [];
 
   constructor(
     public actionSheetCtrl: ActionSheetController,
@@ -36,19 +36,19 @@ export class AboutPage {
   ) {}
 
   ionViewDidEnter() {
-    this.confData.getSpeakers().subscribe((speakers: any[]) => {
-      this.speakers = speakers;
+    this.confData.getCommittees().subscribe((committees: any[]) => {
+      this.committees = committees;
     });
   }
 
-  goToSpeakerTwitter(speaker: any) {
+  /*goToSpeakerTwitter(speaker: any) {
     this.inAppBrowser.create(
       `https://twitter.com/${speaker.twitter}`,
       '_blank'
     );
-  }
+  }*/
 
-  async openSpeakerShare(speaker: any) {
+  /*async openSpeakerShare(speaker: any) {
     const actionSheet = await this.actionSheetCtrl.create({
       header: 'Share ' + speaker.name,
       buttons: [
@@ -105,6 +105,6 @@ export class AboutPage {
     });
 
     await actionSheet.present();
-  }
+  }*/
 }
 

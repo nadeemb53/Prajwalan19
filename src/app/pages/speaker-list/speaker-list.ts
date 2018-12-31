@@ -26,12 +26,12 @@ export class SpeakerListPage {
     });
   }
 
-  goToSpeakerTwitter(speaker: any) {
+  /*goToSpeakerTwitter(speaker: any) {
     this.inAppBrowser.create(
       `https://twitter.com/${speaker.twitter}`,
       '_blank'
     );
-  }
+  }*/
 
   async openSpeakerShare(speaker: any) {
     const actionSheet = await this.actionSheetCtrl.create({

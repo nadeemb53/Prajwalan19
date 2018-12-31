@@ -153,6 +153,18 @@ export class ConferenceData {
     );
   }
 
+  getCommittees() {
+    return this.load().pipe(
+      map((data: any) => {
+        return data.committees.sort((a: any, b: any) => {
+          const aName = a.name.split(' ').pop();
+          const bName = b.name.split(' ').pop();
+          return aName.localeCompare(bName);
+        });
+      })
+    );
+  }
+
   getTracks() {
     return this.load().pipe(
       map((data: any) => {

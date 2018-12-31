@@ -403,6 +403,134 @@
     "lat": 20.958703,
     "lng": 77.755472,
     "center": true
+  }],
+
+  "committees": [{
+    "name": "Faculty Incharge",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "1"
+  },{
+    "name": "Overall",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "2"
+  },{
+    "name": "Core Supporting",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "3"
+  },{
+    "name": "Core Sponsorship",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "4"
+  },{
+    "name": "Event Sponsorship",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "5"
+  },{
+    "name": "Outreach",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "6"
+  },{
+    "name": "Publicity",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "7"
+  },{
+    "name": "Web & App Development",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "8"
+  },{
+    "name": "Core Editing",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "9"
+  },{
+    "name": "Core Designing",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "10"
+  },{
+    "name": "Networking",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "11"
+  },{
+    "name": "Infrastructure Designing",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "12"
+  },{
+    "name": "Audit",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "13"
+  },{
+    "name": "Alumni Sponsorship",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+917083974131",
+    "id": "14"
   }]
 
 }
