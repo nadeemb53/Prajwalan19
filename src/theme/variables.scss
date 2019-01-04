@@ -19,8 +19,12 @@
 // check out our color generator:
 // https://beta.ionicframework.com/docs/theming/color-generator
 
+//$font-path: "../assets/fonts";
+//$app-direction: ltr;
+
+
 :root {
-  --ion-color-primary: #3880ff;
+  --ion-color-primary: #550669;
   --ion-color-primary-rgb: 56, 128, 255;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
@@ -127,6 +131,11 @@
   --ion-color-shade: #1fa0ce;
   --ion-color-tint: #39bdec;
 }
+
+//$app-background: linear-gradient(to bottom, color($colors, light) 0%, color($colors, dark) 100%);
+$background-color: transparent;
+$toolbar-background: transparent;
+$app-background: purple;
 
 .ion-color-facebook {
   --ion-color-base: #3b5998;

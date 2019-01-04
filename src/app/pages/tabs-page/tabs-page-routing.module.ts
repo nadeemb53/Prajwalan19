@@ -40,6 +40,15 @@ const routes: Routes = [
         ]
       },
       {
+        path: 'home',
+        children: [
+          {
+            path: '',
+            loadChildren: '../home/home.module#HomeModule'
+          }
+        ]
+      },
+      {
         path: 'map',
         children: [
           {
