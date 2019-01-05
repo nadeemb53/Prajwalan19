@@ -1,5 +1,5 @@
 {
-  "name": "Prajwalan 19 App",
+  "name": "prajwalan",
   "version": "0.0.0",
   "description": "Official App of Prajwalan 19 - Central India's Biggest Technical Festival",
   "license": "Apache-2.0",
@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@angular-devkit/architect": "0.11.0",
-    "@angular-devkit/build-angular": "0.11.0",
+    "@angular-devkit/build-angular": "^0.11.4",
     "@angular-devkit/core": "7.1.2",
     "@angular-devkit/schematics": "7.1.2",
     "@angular/cli": "7.1.0",
