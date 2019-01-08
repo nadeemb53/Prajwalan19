@@ -4,6 +4,7 @@ import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { Events, MenuController, Platform } from '@ionic/angular';
 import { Storage } from '@ionic/storage';
+import { OneSignal } from '@ionic-native/onesignal/ngx';
 
 import { UserData } from './providers/user-data';
 
@@ -46,6 +47,7 @@ export class AppComponent implements OnInit {
     private splashScreen: SplashScreen,
     private statusBar: StatusBar,
     private storage: Storage,
+    public oneSignal: OneSignal,
     private userData: UserData
   ) {
     this.initializeApp();
@@ -60,7 +62,25 @@ export class AppComponent implements OnInit {
     this.platform.ready().then(() => {
       this.statusBar.styleDefault();
       this.splashScreen.hide();
+      this.initializeOneSignal();
     });
+  }
+
+  initializeOneSignal() {
+    this.oneSignal.startInit('148543bb-d4c6-4fe7-8ef4-4c6f21f0df86', '268887942654');
+
+    this.oneSignal.inFocusDisplaying(this.oneSignal.OSInFocusDisplayOption.InAppAlert);
+
+    this.oneSignal.handleNotificationReceived().subscribe(() => {
+    // do something when notification is received
+    });
+
+    this.oneSignal.handleNotificationOpened().subscribe((jsonData) => {
+
+    });
+
+    this.oneSignal.endInit();
+
   }
 
   checkLoginStatus() {

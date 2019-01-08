@@ -4,11 +4,11 @@
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
     <ion-title>Contact</ion-title>
-    <ion-buttons slot="end">
+    <!--<ion-buttons slot="end">
       <ion-button (click)="presentPopover($event)">
         <ion-icon slot="icon-only" name="more"></ion-icon>
       </ion-button>
-    </ion-buttons>
+    </ion-buttons>-->
   </ion-toolbar>
 </ion-header>
 
@@ -52,8 +52,11 @@
       <ion-grid fixed>
         <ion-row align-items-stretch>
           <ion-col size="12" size-md="3" *ngFor="let committee of committees">
-            <ion-card>
+            <ion-card class="speaker-card">
               <ion-card-header>
+                  <!--<ion-avatar slot="start">
+                      <img [src]="speaker.profilePic" alt="Speaker profile pic">
+                  </ion-avatar>-->
                 <ion-item detail="false" lines="none">
                   {{committee.name}}
                 </ion-item>

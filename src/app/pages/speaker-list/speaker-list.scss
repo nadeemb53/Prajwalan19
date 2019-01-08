@@ -6,6 +6,8 @@
   height: 100%;
   display: flex;
   flex-direction: column;
+  border-top: 3px solid #F89321;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 }
 
 .speaker-card ion-card-header {
@@ -13,11 +15,10 @@
 }
 
 .speaker-card ion-card-header .item {
-  padding: 4px 16px;
+  padding: 4px 10px;
 }
 
 .speaker-card ion-card-content {
   flex: 1 1 auto;
-
-  padding: 0;
+  color: grey;
 }

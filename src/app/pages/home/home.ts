@@ -26,7 +26,7 @@ export class HomePage {
     await popover.present();
   }*/
 
-  committees: any[] = [];
+  updates: any[] = [];
 
   constructor(
     public actionSheetCtrl: ActionSheetController,
@@ -36,6 +36,9 @@ export class HomePage {
   ) {}
 
   ionViewDidEnter() {
+    this.confData.getUpdates().subscribe((updates: any[]) => {
+      this.updates = updates;
+    });
   }
 
 }

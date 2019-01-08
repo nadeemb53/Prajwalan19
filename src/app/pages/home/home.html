@@ -12,18 +12,35 @@
   </ion-toolbar>
 </ion-header>-->
 
-<ion-header>
+<ion-header no-border>
   <ion-toolbar>
     <ion-buttons slot="start">
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
-    <ion-title> Prajwalan '19 </ion-title>
   </ion-toolbar>
   
 </ion-header>
 
-<ion-content class='home'>
-  <ion-label>Prajwalan LOGO, Updates and Feed</ion-label>
+<ion-content class="outer-content">
+  <img class="banner" src="../../../assets/img/bannerhome.png">
+    <ion-list>
+      <ion-grid fixed>
+        <ion-row align-items-stretch>
+          <ion-col size="12" size-md="3" *ngFor="let update of updates">
+            <ion-card class="speaker-card">
+              <ion-card-header>
+          <!--<ion-avatar slot="start">
+              <img [src]="speaker.profilePic" alt="Speaker profile pic">
+          </ion-avatar>-->
+                <ion-item detail="false" lines="none">
+                  {{update.update}}
+                </ion-item>
+              </ion-card-header>
+            </ion-card>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+    </ion-list>
 </ion-content>
 
 

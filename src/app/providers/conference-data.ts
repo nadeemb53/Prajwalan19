@@ -153,6 +153,22 @@ export class ConferenceData {
     );
   }
 
+  getEventNames() {
+    return this.load().pipe(
+      map((data: any) => {
+        return data.speakers.name;
+      })
+    );
+  }
+
+  getUpdates() {
+    return this.load().pipe(
+      map((data: any) => {
+        return data.feed;
+      })
+    );
+  }
+
   getCommittees() {
     return this.load().pipe(
       map((data: any) => {

@@ -12,6 +12,7 @@ import { ConferenceData } from '../../providers/conference-data';
 })
 export class SpeakerListPage {
   speakers: any[] = [];
+  names: any[] = [];
 
   constructor(
     public actionSheetCtrl: ActionSheetController,
@@ -32,6 +33,8 @@ export class SpeakerListPage {
       '_blank'
     );
   }*/
+
+
 
   async openSpeakerShare(speaker: any) {
     const actionSheet = await this.actionSheetCtrl.create({
