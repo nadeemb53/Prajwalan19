@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/app/tabs/about"></ion-back-button>
+    </ion-buttons>
+    <ion-title>{{committee?.committee}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding class="speaker-detail" *ngIf="committee">
+  <div text-center *ngFor="let name of committee.names" >
+    <!--<img [src]="profilePic" [alt]="name">-->
+    <ion-label>{{name}}</ion-label>
+    <ion-label></ion-label>
+    <br>
+  </div>
+</ion-content>

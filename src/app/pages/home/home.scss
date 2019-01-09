@@ -43,7 +43,7 @@
   display: flex;
   flex-direction: column;
   border-top: 3px solid #F89321;
-  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  box-shadow: 0 0px 0px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 }
 
 .speaker-card ion-card-header {
@@ -59,7 +59,9 @@
   color: grey;
 }
 
-.banner {
-  box-shadow: 0 0 0 19px rgba(0,0,0,0.30);
+.update-line {
+  margin-left: 100px;
+  font-size: 20px;
+  color: #F89321;
 }
 

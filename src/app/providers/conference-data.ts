@@ -18,7 +18,8 @@ export class ConferenceData {
       return of(this.data);
     } else {
       return this.http
-        .get('https://nadeemb53.github.io/Prajwalan19/src/assets/data/data.json')
+        // .get('https://nadeemb53.github.io/Prajwalan19/src/assets/data/data.json')
+        .get('assets/data/data.json')
         .pipe(map(this.processData, this));
     }
   }
@@ -170,13 +171,18 @@ export class ConferenceData {
   }
 
   getCommittees() {
-    return this.load().pipe(
+    /*return this.load().pipe(
       map((data: any) => {
         return data.committees.sort((a: any, b: any) => {
           const aName = a.name.split(' ').pop();
           const bName = b.name.split(' ').pop();
           return aName.localeCompare(bName);
         });
+      })
+    );*/
+    return this.load().pipe(
+      map((data: any) => {
+        return data.committees;
       })
     );
   }

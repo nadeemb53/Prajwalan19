@@ -57,8 +57,8 @@
                   <!--<ion-avatar slot="start">
                       <img [src]="speaker.profilePic" alt="Speaker profile pic">
                   </ion-avatar>-->
-                <ion-item detail="false" lines="none">
-                  {{committee.name}}
+                <ion-item detail="false" lines="none" routerLink="/app/tabs/about/contact-details/{{committee.id}}">
+                  {{committee.committee}}
                 </ion-item>
               </ion-card-header>
             </ion-card>

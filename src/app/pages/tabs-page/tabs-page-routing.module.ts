@@ -63,6 +63,10 @@ const routes: Routes = [
           {
             path: '',
             loadChildren: '../about/about.module#AboutModule'
+          },
+          {
+            path: 'contact-details/:committeeId',
+            loadChildren: '../contact-detail/contact-detail.module#ContactDetailModule'
           }
         ]
       },

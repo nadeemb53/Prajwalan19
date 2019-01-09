@@ -3,10 +3,9 @@
     <ion-buttons slot="start">
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
-    <ion-title>Events</ion-title>
+    <ion-title>Speakers</ion-title>
   </ion-toolbar>
 </ion-header>
-
 
 <ion-content class="outer-content">
   <ion-list>
@@ -30,18 +29,12 @@
                 </ion-item>
 
                 <ion-item routerLink="/app/tabs/speakers/speaker-details/{{speaker.id}}">
-                  <h3>About {{speaker.name}}</h3>
+                  <h3>Short Description {{speaker.name}}</h3>
                 </ion-item>
               </ion-list>
             </ion-card-content>
 
             <ion-row no-padding justify-content-center>
-              <!--<ion-col text-left size="4">
-                <ion-button fill="clear" size="small" color="primary" (click)="goToSpeakerTwitter(speaker)">
-                  <ion-icon name="logo-twitter" slot="start"></ion-icon>
-                  Tweet
-                </ion-button>
-              </ion-col>-->
               <ion-col text-center size="6">
                 <ion-button fill="clear" size="small" color="primary" (click)="openSpeakerShare(speaker)">
                   <ion-icon name="share-alt" slot="start"></ion-icon>
