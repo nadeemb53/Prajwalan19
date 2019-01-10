@@ -10,6 +10,15 @@ const routes: Routes = [
     component: TabsPage,
     children: [
       {
+        path: 'home',
+        children: [
+          {
+            path: '',
+            loadChildren: '../home/home.module#HomeModule'
+          }
+        ]
+      },
+      {
         path: 'schedule',
         children: [
           {
@@ -36,15 +45,6 @@ const routes: Routes = [
           {
             path: 'speaker-details/:speakerId',
             loadChildren: '../speaker-detail/speaker-detail.module#SpeakerDetailModule'
-          }
-        ]
-      },
-      {
-        path: 'home',
-        children: [
-          {
-            path: '',
-            loadChildren: '../home/home.module#HomeModule'
           }
         ]
       },
