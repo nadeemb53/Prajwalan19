@@ -647,7 +647,7 @@
     "about8": "Round 2: PPDT",
     "about9": "Time: 10 to 15 min/ Group",
     "about10": "A candidate need to write a story on the picture shown, narrate it and then discuss among group members(5 to 10) to make a common story",
-    "about11": "Round 3: Personal Interviewr.",
+    "about11": "Round 3: Personal Interviewer.",
     "about12": "Time: Decided by interviwer.",
     "about13": "Candidates will be required to carry the printed report(1st round) along with their Resume",
     "about14": "Fees: EVENT REGISTRATION FEES: Rs. 100/- per head.",
@@ -807,9 +807,123 @@
     "picture":""
   }],
 
-  "sponsors":[{
-    "picture":"/assets/img/speakers/bear.jpg",
-    "name":"Sponsor"
-  }]
+  "sponsors":[
+    {
+      "picture":"/assets/img/sponsorimg/cogni_as_title.png",
+      "name":"Cognizant"
+    },
+    {
+      "picture":"/assets/img/sponsorimg/logo.png",
+      "name":"Fiat"
+    },
+    {
+      "picture":"/assets/img/sponsorimg/ie.jpg",
+      "name":"The Institution Of Engineers"
+    },
+    {
+      "picture":"/assets/img/sponsorimg/iste.jpg",
+      "name":"Indian Society For Technical Education"
+    },
+    {
+    "picture":"/assets/img/sponsorimg/persi.jpg",
+    "name":"Persistent"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/alumni.jpg",
+    "name":"Alumni Assosciation"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/gateAcademy.jpg",
+    "name":"The Gate Academy"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/ola.png",
+    "name":"Ola"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/ebay.png",
+    "name":"Ebay"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/snp.jpg",
+    "name":"S&P Banking Institute"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/bulk24sms.png",
+    "name":"C2 SMS.com"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/amigo.jpg",
+    "name":"Amigos Toit"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/domino.jpg",
+    "name":"Domino's"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/rcn.jpg",
+    "name":"RCN"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/Dainik-Bhaskar.jpg",
+    "name":"Dainik Bhaskar"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/Deshonnati.jpg",
+    "name":"Deshonnati"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/unique.jpg",
+    "name":"Unique Academy"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/sbi.jpg",
+    "name":"State Bank Of India"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/infi-zeal_.png",
+    "name":"Infi-Zeal Technologies"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/embed.jpg",
+    "name":"Embed Gallery"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/shikhar.jpg",
+    "name":"Shikhar Educare"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/dcs.jpg",
+    "name":"DCS"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/desi.jpg",
+    "name":"Desi Vilayati"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/knowfest.jpg",
+    "name":"KnowAFest.com"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/la.jpg",
+    "name":"Living Amravati"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/sellad.jpg",
+    "name":"Sell Ads"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/gauri.png",
+    "name":"Gouri Inn"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/topcon.png",
+    "name":"Topcon"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/makhija.jpg",
+    "name":"Bharat Makhija's Coaching Classes"
+  }
+]
 
 }
