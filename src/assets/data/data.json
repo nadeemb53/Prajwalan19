@@ -782,6 +782,11 @@
   },{
     "update":"Prajwalan received patronage from Digital India",
     "picture":""
+  }],
+
+  "sponsors":[{
+    "picture":"/assets/img/speakers/bear.jpg",
+    "name":"Sponsor"
   }]
 
 }
