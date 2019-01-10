@@ -688,13 +688,19 @@
     "name": "",
     "committee": "Faculty Incharge",
     "profilePic":"/assets/img/speakers/bear.jpg",
-    
     "id": "1"
   },{
     "committee": "Overall",
-    "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
-    "names": ["john doe","john doe","john doe"],
-    "posts": ["covenor","covenor","covenor"],
+    "profilePics": ["/assets/img/speakers/bear.jpg"],
+    "cards": [{
+      "name":"Rohit Jamnare",
+      "profilePic": "/assets/img/speakers/bear.jpg",
+      "post": "Convenor"
+    }, {
+      "name": "Suved Ghanmode",
+      "profilePic": "/assets/img/speakers/bear.jpg",
+      "post": "Organising Secretary"
+    }],
     "id": "2"
   },{
     "committee": "Core Supporting",

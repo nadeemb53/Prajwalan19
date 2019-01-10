@@ -8,10 +8,21 @@
 </ion-header>
 
 <ion-content padding class="speaker-detail" *ngIf="committee">
-  <div text-center *ngFor="let name of committee.names" >
-    <!--<img [src]="profilePic" [alt]="name">-->
+  <div text-center *ngFor="let card of committee.cards" >
+    <!--<img [src]="profilePic" [alt]="name">
     <ion-label>{{name}}</ion-label>
     <ion-label></ion-label>
-    <br>
+    <br>-->
+    <ion-card>
+        <img [src]="card.profilePic"/>
+        <ion-card-content>
+          <ion-card-title>
+            {{card.name}}
+            </ion-card-title>
+          <p>
+            {{card.post}}
+          </p>
+        </ion-card-content>
+      </ion-card>
   </div>
 </ion-content>
