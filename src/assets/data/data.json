@@ -199,12 +199,8 @@
 
   "speakers": [{
     "name": "Andromaster",
-<<<<<<< HEAD
     "desc": "Are you an android expert? Paticipate in AndroMaster and win prizes! ",
-    "profilePic": "/assets/img/speakers/bear.jpg",
-=======
     "profilePic": "/assets/img/Events icon/andromaster.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "Phase 1     ",
     "about2": "1.phase 1 consists of android quiz competition.",
@@ -226,12 +222,8 @@
     "id": "1"
   }, {
     "name": "Angry Birds",
-<<<<<<< HEAD
     "desc":"Think you can hit the bull's eye? Smash the boxes and win prizes! ",
-    "profilePic": "/assets/img/speakers/cheetah.jpg",
-=======
     "profilePic": "/assets/img/Events icon/angrybirds.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "We will arrange a setup for the angry birds where you have to just smash the boxes with the birds.",
     "about2": "Six chances.",
@@ -253,12 +245,8 @@
     "id": "2"
   }, {
     "name": "Box Cricket",
-<<<<<<< HEAD
     "desc":"Love playing gully? Love the one tip one hand out? Play Box Cricket but for prizes this time!",
-    "profilePic": "/assets/img/speakers/duck.jpg",
-=======
     "profilePic": "/assets/img/Events icon/boxcricket.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "Criteria:",
     "about2": "1) Each match will be knock-out match.",
@@ -280,12 +268,8 @@
     "id": "3"
   }, {
     "name": "CAD Strife",
-<<<<<<< HEAD
     "desc":"Show off your designing skills with CAD softwares and win amazing prizes!",
-    "profilePic": "/assets/img/speakers/eagle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "The most eminent position in design world can be achieved through the integration of various CAD software. Engineers are most welcomed to sustain the designed era of THE CAD COMBAT CADSTRIFE ",
     "about2": "Information: Team consists of max 2 members and min 1 member",
@@ -304,12 +288,8 @@
     "id": "4"
   }, {
     "name": "Chanakya",
-<<<<<<< HEAD
     "desc":"Have a great G.K.? Want to be the new age Chanakya? Then this is the event for you.",
-    "profilePic": "/assets/img/speakers/elephant.jpg",
-=======
     "profilePic": "/assets/img/Events icon/chankankya.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "1. This event is basically a technical quiz competition which will be played in form of teams whose stength will vary will respect to give round. Initially the maximum strength of the team wil be 2 members.",
     "about2": "2. The interesting part about the event is that the maximum part will be played on the pc and visual screen.",
@@ -330,12 +310,8 @@
     "id": "5"
   }, {
     "name": "Ciruit Mania",
-<<<<<<< HEAD
     "desc":"Passionate about electronics?Play around with electronic components,build circuits and win prizes.",
-    "profilePic": "/assets/img/speakers/giraffe.jpg",
-=======
     "profilePic": "/assets/img/Events icon/circuitmania.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "Information:",
     "about2": "1. Participants- Each team with 2 members.",
@@ -372,12 +348,8 @@
     "id": "6"
   }, {
     "name": "Contraption",
-<<<<<<< HEAD
     "desc":"Feel you can make the laws of physics do your bidding? Perform simple physical tasks and win prizes.",
-    "profilePic": "/assets/img/speakers/iguana.jpg",
-=======
     "profilePic": "/assets/img/Events icon/contaption.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1":"CONTRAPTION is one of its kind event which puts your basic engineering skills like mechanics, electronics and physics to perform a task.",
     "about2":"Tasks:",
@@ -417,12 +389,8 @@
     "id": "7"
   }, {
     "name": "Encipher",
-<<<<<<< HEAD
     "desc": "Grab the opportunity to show off your coding skills in Enchiper and win great prizes!",
-    "profilePic": "/assets/img/speakers/kitten.jpg",
-=======
     "profilePic": "/assets/img/Events icon/enchiper.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "ENCIPHER means to convert plain text into coded format.",
     "about2": "ENCIPHER is a programming event in which programmer gets an opportunity to show their coding skills.",
@@ -438,12 +406,8 @@
     "id": "8"
   }, {
     "name": "Googler",
-<<<<<<< HEAD
     "desc": "In a habit of googling it? Just google 10 simple questions in googler and win exciting prizes!",
-    "profilePic": "/assets/img/speakers/lion.jpg",
-=======
     "profilePic": "/assets/img/Events icon/googler.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "Each team will consists of maximum 2 members. ",
     "about2": "This event is distributed in two rounds.Top 20 team:s are selected for Round 2.",
@@ -463,12 +427,8 @@
     "id": "9"
   }, {
     "name": "Junk Art",
-<<<<<<< HEAD
     "desc":"Create the best out of waste and win exciting prizes!",
-    "profilePic": "/assets/img/speakers/mouse.jpg",
-=======
     "profilePic": "/assets/img/Events icon/junkart.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "In this event we will conduct three rounds.",
     "about2": "Round 1: Participants will be provided with certain junks and they have to create no. of models in a specified time. The model will be shown prior to the event.",
@@ -487,12 +447,8 @@
     "id": "10"
   }, {
     "name": "LAN Battle",
-<<<<<<< HEAD
     "desc":"Brace yourself to rule the world of PC gaming!",
-    "profilePic": "/assets/img/speakers/puppy.jpg",
-=======
     "profilePic": "/assets/img/Events icon/lan game.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about": "Description.",
     "location": "Everywhere",
@@ -501,12 +457,8 @@
     "id": "11"
   }, {
     "name": "Mastermind",
-<<<<<<< HEAD
     "desc":"Think you can outwit them all? Find the treasure fast and become the MasterMind.",
-    "profilePic": "/assets/img/speakers/rabbit.jpg",
-=======
     "profilePic": "/assets/img/Events icon/mastermind.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "The concept is like a treasure hunt. Finding objects hidden by others. Originally an outdoor activity for children to find objects hidden by others. Innovation- this time it is indoor and that of specially in PC. PC based (at most two players game). Finding some hidden treasure among fake treasure with given clues. Round 1:DECRYPT THE PASSWORD The PC will be locked with some password, the participants will be given the clues of password and they have to unlock the PC. Round 2:FIND THE HIDDEN TREASURE Some files or folders will be hidden at some particular location in the PC .Participants will be provided with the clues of the location where they are hidden and they have to search them (Treasure). Round 3:OBSERVE, THINK AND SEARCH Participants will be given some images (may be of any person or monuments or structures etc) on the PC. Firstly, they have to recognize the image and then they have to search the same image with the same dimensions on the internet. In case, if there is a TIE between any of the participants then there will be a surprise round conducted for them.1st Prize: 2000/-(cash)",
     "about2":"Fees: EVENT REGISTRATION FEES: Rs. 100/-(for a team of 2 members)",
@@ -522,12 +474,8 @@
     "id": "12"
   }, {
     "name": "Model Exhibition",
-<<<<<<< HEAD
     "desc":"Got the high-tech vision? Create innovative models and win prizes.",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/modelexibitionn.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "There will be four groups in the event-",
     "about2": "1) Group A (Electronics, Electrical and Instrumentation",
@@ -550,12 +498,8 @@
     "id": "13"
   }, {
     "name": "Mystery Hunt",
-<<<<<<< HEAD
     "desc":"Hurry up, Mr.Sherlock! Solve the mysteries to win prizes. ",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/mystryhunt.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "No Description.",
     "location": "Everywhere",
@@ -564,12 +508,8 @@
     "id": "14"
   }, {
     "name": "Paper Presentation",
-<<<<<<< HEAD
     "desc":"Pull up your socks and gather all your research work to win exciting prizes! ",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/paperpresentation.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "Research work should be written and presented effectively by covering all the engineering aspects of the topic chosen. Paper will be judged on the context and its originality, flow of presentation, communication skill and coordination among team members. ",
     "about2": "Number of rounds:- 2",
@@ -598,12 +538,8 @@
     "id": "15"
   }, {
     "name": "Robotics",
-<<<<<<< HEAD
     "desc":"Explode into the world of humanoids and bots and compete to be the best.",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/robotics.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about": "Description.",
     "location": "Everywhere",
@@ -612,12 +548,8 @@
     "id": "16"
   }, {
     "name": "Rubik's Cube",
-<<<<<<< HEAD
     "desc":"Put on your game face and solve the cube as fast as possible.",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/rubicscube.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "Ever thought of solving a cube in less than 15 seconds? Ever dared to attempt that one handed or blind-folded? We here offer that to you to learn and the perfect your skills.",
     "about2": "Very rare and unique opportunity for your child to participate in Rubik's cube workshop.",
@@ -655,12 +587,8 @@
     "id": "17"
   }, {
     "name": "Sci-Lab",
-<<<<<<< HEAD
     "desc":"Attention Mech-Geeks! Sci-Lab is here to test your MATLAB skills.",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/sci-lab.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "Participants:Teams consisting of Maximum 2 Members.",
     "about2": "Level 1: Elimination Round",
@@ -688,12 +616,8 @@
     "id": "18"
   }, {
     "name": "Truss-A-Maze",
-<<<<<<< HEAD
     "desc":"All the civil engineers in the house! Build the best truss you can and win amazing prizes!",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/trussmaze.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "No Description.",
     "rules0":"RULES",
@@ -709,12 +633,8 @@
     "id": "19"
   }, {
     "name": "Virtual Placement",
-<<<<<<< HEAD
     "desc":"Ready for the corporate world ? Participate and find out.",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/virtualplacement.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "Virtual Placement is an event which is same as actual placement stages.",
     "about2": "DAY 1",
@@ -726,7 +646,7 @@
     "about8": "Round 2: PPDT",
     "about9": "Time: 10 to 15 min/ Group",
     "about10": "A candidate need to write a story on the picture shown, narrate it and then discuss among group members(5 to 10) to make a common story",
-    "about11": "Round 3: Personal Interviewr.",
+    "about11": "Round 3: Personal Interviewer.",
     "about12": "Time: Decided by interviwer.",
     "about13": "Candidates will be required to carry the printed report(1st round) along with their Resume",
     "about14": "Fees: EVENT REGISTRATION FEES: Rs. 100/- per head.",
@@ -736,12 +656,8 @@
     "id": "20"
   }, {
     "name": "Web-Einstein",
-<<<<<<< HEAD
     "desc":"Brush up your coding skills and bring out the designer in you. ",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-=======
     "profilePic": "/assets/img/Events icon/webenstenin.png",
->>>>>>> 8aaf2a09ebc6f44d04f95a650758d9ca81668051
     "twitter": "ionicframework",
     "about1": "Webeinstein",
     "about2": "Webeinstein is an event of web designing. This is an event in which participants gets an opportunity to showcase their web designing skills. This year we have focused on 360-degree approach for our event to ensure a complete success and a great participetion of participants in prajwalan 2k18.",
@@ -890,9 +806,123 @@
     "picture":""
   }],
 
-  "sponsors":[{
-    "picture":"/assets/img/speakers/bear.jpg",
-    "name":"Sponsor"
-  }]
+  "sponsors":[
+    {
+      "picture":"/assets/img/sponsorimg/cogni_as_title.png",
+      "name":"Cognizant"
+    },
+    {
+      "picture":"/assets/img/sponsorimg/logo.png",
+      "name":"Fiat"
+    },
+    {
+      "picture":"/assets/img/sponsorimg/ie.jpg",
+      "name":"The Institution Of Engineers"
+    },
+    {
+      "picture":"/assets/img/sponsorimg/iste.jpg",
+      "name":"Indian Society For Technical Education"
+    },
+    {
+    "picture":"/assets/img/sponsorimg/persi.jpg",
+    "name":"Persistent"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/alumni.jpg",
+    "name":"Alumni Assosciation"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/gateAcademy.jpg",
+    "name":"The Gate Academy"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/ola.png",
+    "name":"Ola"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/ebay.png",
+    "name":"Ebay"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/snp.jpg",
+    "name":"S&P Banking Institute"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/bulk24sms.png",
+    "name":"C2 SMS.com"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/amigo.jpg",
+    "name":"Amigos Toit"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/domino.jpg",
+    "name":"Domino's"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/rcn.jpg",
+    "name":"RCN"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/Dainik-Bhaskar.jpg",
+    "name":"Dainik Bhaskar"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/Deshonnati.jpg",
+    "name":"Deshonnati"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/unique.jpg",
+    "name":"Unique Academy"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/sbi.jpg",
+    "name":"State Bank Of India"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/infi-zeal_.png",
+    "name":"Infi-Zeal Technologies"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/embed.jpg",
+    "name":"Embed Gallery"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/shikhar.jpg",
+    "name":"Shikhar Educare"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/dcs.jpg",
+    "name":"DCS"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/desi.jpg",
+    "name":"Desi Vilayati"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/knowfest.jpg",
+    "name":"KnowAFest.com"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/la.jpg",
+    "name":"Living Amravati"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/sellad.jpg",
+    "name":"Sell Ads"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/gauri.png",
+    "name":"Gouri Inn"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/topcon.png",
+    "name":"Topcon"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/makhija.jpg",
+    "name":"Bharat Makhija's Coaching Classes"
+  }
+]
 
 }
