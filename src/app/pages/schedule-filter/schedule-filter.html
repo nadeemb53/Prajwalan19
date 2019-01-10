@@ -1,40 +1,24 @@
 <ion-header>
   <ion-toolbar>
     <ion-buttons slot="start">
-      <ion-button (click)="dismiss()">Cancel</ion-button>
+      <ion-back-button defaultHref="/app/tabs/schedule"></ion-back-button>
     </ion-buttons>
 
     <ion-title>
-      Settings
+      Sponsors
     </ion-title>
-
-    <ion-buttons slot="end">
-      <ion-button (click)="applyFilters()" strong>Done</ion-button>
-    </ion-buttons>
   </ion-toolbar>
-</ion-header>
+  </ion-header>
 
-<ion-content class="outer-content">
-
-  <!--<ion-list>
-    <ion-list-header>Tracks</ion-list-header>
-
-    <ion-item *ngFor="let track of tracks" [attr.track]="track.name | lowercase">
-      <span slot="start" class="dot"></span>
-      <ion-label>{{track.name}}</ion-label>
-      <ion-toggle [(ngModel)]="track.isChecked" color="success"></ion-toggle>
-    </ion-item>
-
-  </ion-list>
-
-  <ion-list>
-    <ion-item (click)="resetFilters()" detail="false" class="reset-filters">
-      Reset All Filters
-    </ion-item>
-  </ion-list>-->
-
-  <ion-card>
-      <ion-label>Dark Theme</ion-label>
-      <ion-toggle></ion-toggle>
-  </ion-card>
+<ion-content padding class="speaker-detail">
+  <div text-center *ngFor="let sponsor of sponsors" >
+    <ion-card class="card">
+        <img [src]="sponsor.picture"/>
+        <ion-card-content>
+          <ion-card-title>
+            {{sponsor.name}}
+          </ion-card-title>
+        </ion-card-content>
+      </ion-card>
+  </div>
 </ion-content>

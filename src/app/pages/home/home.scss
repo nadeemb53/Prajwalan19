@@ -48,10 +48,12 @@
 
 .speaker-card ion-card-header {
   padding: 0;
+  text-align: center;
 }
 
 .speaker-card ion-card-header .item {
   padding: 4px 10px;
+  text-align: center;
 }
 
 .speaker-card ion-card-content {
@@ -60,9 +62,7 @@
 }
 
 .update-line {
-  margin-left: 120px;
-  margin-top: -20px;
+  text-align: center;
   font-size: 20px;
-  color: #F89321;
+  color: #F89321; 
 }
-
