@@ -5,8 +5,9 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { Events, MenuController, Platform } from '@ionic/angular';
 import { Storage } from '@ionic/storage';
 import { OneSignal } from '@ionic-native/onesignal/ngx';
-
 import { UserData } from './providers/user-data';
+import { AppRate } from '@ionic-native/app-rate/ngx';
+
 
 @Component({
   selector: 'app-root',
@@ -48,9 +49,26 @@ export class AppComponent implements OnInit {
     private statusBar: StatusBar,
     private storage: Storage,
     public oneSignal: OneSignal,
+    private appRate: AppRate,
     private userData: UserData
   ) {
     this.initializeApp();
+    this.statusBar.overlaysWebView(true);
+    this.statusBar.backgroundColorByHexString('#F89321');
+    this.appRate.preferences = {
+      usesUntilPrompt: 2,
+      storeAppURL: {
+       android: 'market://details?id=com.nadeem.prajwalan'
+      },
+      customLocale: {
+        title: 'Are you enjoying our App?',
+        message: 'If you enjoy using Prajwalan 19 App, would you mind taking a moment to rate it? Thanks so much!',
+        cancelButtonLabel: 'No, Thanks',
+        laterButtonLabel: 'Remind Me Later',
+        rateButtonLabel: 'Rate It Now'
+      }
+    };
+    this.appRate.promptForRating(false);
   }
 
   ngOnInit() {

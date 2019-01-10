@@ -1,5 +1,6 @@
 .speaker-detail img {
   max-width: 140px;
+<<<<<<< HEAD
   border-radius: 50%;
   border-collapse: separate;
   perspective: 1px;
@@ -7,6 +8,9 @@
   margin-left: auto;
   margin-right: auto;
   display: block;
+=======
+ // border-radius: 50%;
+>>>>>>> e14be4b1a3c3ecc54ffa940936d4183e7ee9f3f2
 }
 
 .speaker-detail {
@@ -15,4 +19,5 @@
 
 .card {
   box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  align-content: center;
 }
