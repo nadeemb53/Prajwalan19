@@ -199,7 +199,7 @@
 
   "speakers": [{
     "name": "Andromaster",
-    "profilePic": "/assets/img/speakers/bear.jpg",
+    "profilePic": "/assets/img/Events icon/andromaster.png",
     "twitter": "ionicframework",
     "about1": "Phase 1     ",
     "about2": "1.phase 1 consists of android quiz competition.",
@@ -221,7 +221,7 @@
     "id": "1"
   }, {
     "name": "Angry Birds",
-    "profilePic": "/assets/img/speakers/cheetah.jpg",
+    "profilePic": "/assets/img/Events icon/angrybirds.png",
     "twitter": "ionicframework",
     "about1": "We will arrange a setup for the angry birds where you have to just smash the boxes with the birds.",
     "about2": "Six chances.",
@@ -243,7 +243,7 @@
     "id": "2"
   }, {
     "name": "Box Cricket",
-    "profilePic": "/assets/img/speakers/duck.jpg",
+    "profilePic": "/assets/img/Events icon/boxcricket.png",
     "twitter": "ionicframework",
     "about1": "Criteria:",
     "about2": "1) Each match will be knock-out match.",
@@ -265,7 +265,7 @@
     "id": "3"
   }, {
     "name": "CAD Strife",
-    "profilePic": "/assets/img/speakers/eagle.jpg",
+    "profilePic": "/assets/img/Events icon/",
     "twitter": "ionicframework",
     "about1": "The most eminent position is design world can be achieved through the integration of various CAD software. Engineers are most welcomed to sustain the designed era of THE CAD COMBAT CADSTRIFE ",
     "about2": "Information: Team consists of max 2 members and min 1 member",
@@ -284,7 +284,7 @@
     "id": "4"
   }, {
     "name": "Chanakya",
-    "profilePic": "/assets/img/speakers/elephant.jpg",
+    "profilePic": "/assets/img/Events icon/chankankya.png",
     "twitter": "ionicframework",
     "about1": "1. This event is basically a technical quiz competition which will be played in form of teams whose stength will vary will respect to give round. Initially the maximum strength of the team wil be 2 members.",
     "about2": "2. The interesting part about the event is that the maximum part will be played on the pc and visual screen.",
@@ -305,7 +305,7 @@
     "id": "5"
   }, {
     "name": "Ciruit Mania",
-    "profilePic": "/assets/img/speakers/giraffe.jpg",
+    "profilePic": "/assets/img/Events icon/circuitmania.png",
     "twitter": "ionicframework",
     "about1": "Information:",
     "about2": "1. Participants- Each team with 2 members.",
@@ -342,7 +342,7 @@
     "id": "6"
   }, {
     "name": "Contraption",
-    "profilePic": "/assets/img/speakers/iguana.jpg",
+    "profilePic": "/assets/img/Events icon/contaption.png",
     "twitter": "ionicframework",
     "about1":"CONTRAPTION is one of its kind event which puts your basic engineering skills like mechanics, electronics and physics to perform a task.",
     "about2":"Tasks:",
@@ -382,7 +382,7 @@
     "id": "7"
   }, {
     "name": "Encipher",
-    "profilePic": "/assets/img/speakers/kitten.jpg",
+    "profilePic": "/assets/img/Events icon/enchiper.png",
     "twitter": "ionicframework",
     "about1": "ENCIPHER means to convert plain text into coded format.",
     "about2": "ENCIPHER is a programming event in which programmer gets an opportunity to show their coding skills.",
@@ -398,7 +398,7 @@
     "id": "8"
   }, {
     "name": "Googler",
-    "profilePic": "/assets/img/speakers/lion.jpg",
+    "profilePic": "/assets/img/Events icon/googler.png",
     "twitter": "ionicframework",
     "about1": "Each team will consists of maximum 2 members. ",
     "about2": "This event is distributed in two rounds.Top 20 team:s are selected for Round 2.",
@@ -418,7 +418,7 @@
     "id": "9"
   }, {
     "name": "Junk Art",
-    "profilePic": "/assets/img/speakers/mouse.jpg",
+    "profilePic": "/assets/img/Events icon/junkart.png",
     "twitter": "ionicframework",
     "about1": "In this event we will conduct three rounds.",
     "about2": "Round 1: Participants will be provided with certain junks and they have to create no. of models in a specified time. The model will be shown prior to the event.",
@@ -437,7 +437,7 @@
     "id": "10"
   }, {
     "name": "LAN Battle",
-    "profilePic": "/assets/img/speakers/puppy.jpg",
+    "profilePic": "/assets/img/Events icon/lan game.png",
     "twitter": "ionicframework",
     "about": "Description.",
     "location": "Everywhere",
@@ -446,7 +446,7 @@
     "id": "11"
   }, {
     "name": "Mastermind",
-    "profilePic": "/assets/img/speakers/rabbit.jpg",
+    "profilePic": "/assets/img/Events icon/mastermind.png",
     "twitter": "ionicframework",
     "about1": "The concept is like a treasure hunt. Finding objects hidden by others. Originally an outdoor activity for children to find objects hidden by others. Innovation- this time it is indoor and that of specially in PC. PC based (at most two players game). Finding some hidden treasure among fake treasure with given clues. Round 1:DECRYPT THE PASSWORD The PC will be locked with some password, the participants will be given the clues of password and they have to unlock the PC. Round 2:FIND THE HIDDEN TREASURE Some files or folders will be hidden at some particular location in the PC .Participants will be provided with the clues of the location where they are hidden and they have to search them (Treasure). Round 3:OBSERVE, THINK AND SEARCH Participants will be given some images (may be of any person or monuments or structures etc) on the PC. Firstly, they have to recognize the image and then they have to search the same image with the same dimensions on the internet. In case, if there is a TIE between any of the participants then there will be a surprise round conducted for them.1st Prize: 2000/-(cash)",
     "about2":"Fees: EVENT REGISTRATION FEES: Rs. 100/-(for a team of 2 members)",
@@ -462,7 +462,7 @@
     "id": "12"
   }, {
     "name": "Model Exhibition",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "profilePic": "/assets/img/Events icon/modelexibitionn.png",
     "twitter": "ionicframework",
     "about1": "There will be four groups in the event-",
     "about2": "1) Group A (Electronics, Electrical and Instrumentation",
@@ -485,7 +485,7 @@
     "id": "13"
   }, {
     "name": "Mystery Hunt",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "profilePic": "/assets/img/Events icon/mystryhunt.png",
     "twitter": "ionicframework",
     "about1": "No Description.",
     "location": "Everywhere",
@@ -494,7 +494,7 @@
     "id": "14"
   }, {
     "name": "Paper Presentation",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "profilePic": "/assets/img/Events icon/paperpresentation.png",
     "twitter": "ionicframework",
     "about1": "Research work should be written and presented effectively by covering all the engineering aspects of the topic chosen. Paper will be judged on the context and its originality, flow of presentation, communication skill and coordination among team members. ",
     "about2": "Number of rounds:- 2",
@@ -523,7 +523,7 @@
     "id": "15"
   }, {
     "name": "Robotics",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "profilePic": "/assets/img/Events icon/robotics.png",
     "twitter": "ionicframework",
     "about": "Description.",
     "location": "Everywhere",
@@ -532,7 +532,7 @@
     "id": "16"
   }, {
     "name": "Rubik's Cube",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "profilePic": "/assets/img/Events icon/rubicscube.png",
     "twitter": "ionicframework",
     "about1": "Ever thought of solving a cube in less than 15 seconds? Ever dared to attempt that one handed or blind-folded? We here offer that to you to learn and the perfect your skills.",
     "about2": "Very rare and unique opportunity for your child to participate in Rubik's cube workshop.",
@@ -570,7 +570,7 @@
     "id": "17"
   }, {
     "name": "Sci-Lab",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "profilePic": "/assets/img/Events icon/sci-lab.png",
     "twitter": "ionicframework",
     "about1": "Participants:Teams consisting of Maximum 2 Members.",
     "about2": "Level 1: Elimination Round",
@@ -598,7 +598,7 @@
     "id": "18"
   }, {
     "name": "Truss-A-Maze",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "profilePic": "/assets/img/Events icon/trussmaze.png",
     "twitter": "ionicframework",
     "about1": "No Description.",
     "rules0":"RULES",
@@ -614,7 +614,7 @@
     "id": "19"
   }, {
     "name": "Virtual Placement",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "profilePic": "/assets/img/Events icon/virtualplacement.png",
     "twitter": "ionicframework",
     "about1": "Virtual Placement is an event which is same as actual placement stages.",
     "about2": "DAY 1",
@@ -636,7 +636,7 @@
     "id": "20"
   }, {
     "name": "Web-Einstein",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
+    "profilePic": "/assets/img/Events icon/webenstenin.png",
     "twitter": "ionicframework",
     "about1": "Webeinstein",
     "about2": "Webeinstein is an event of web designing. This is an event in which participants gets an opportunity to showcase their web designing skills. This year we have focused on 360-degree approach for our event to ensure a complete success and a great participetion of participants in prajwalan 2k18.",
