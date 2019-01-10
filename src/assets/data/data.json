@@ -876,7 +876,7 @@
 
     },{
       "name": "Nadeem Bhati",
-      "profilePic":"/assets/img/contact/WebApp/me_pic.jpg",
+      "profilePic":"/assets/img/contact/WebApp/me_pic.jpeg",
       "post":"Co-Convenor"
 
     },{
@@ -917,7 +917,7 @@
       "post":"Co-Convenor"
     },{
       "name": "Aniket Itankar",
-      "profilePic":"/assets/img/contact/designing/aniket.jpg",
+      "profilePic":"",
       "post":"Co-Convenor"
     },{
       "name": "Pallavi Meshram",
@@ -934,40 +934,84 @@
       "profilePic":"/assets/img/contact/networking/ankit.jpg",
       "post":"Convenor"
     },{
-      "name": "",
+      "name": "Namrata Gajbhiye",
       "profilePic":"",
-      "post":""
+      "post":"Convenor"
     },{
-      "name": "",
+      "name": "Chetan Sharma",
       "profilePic":"",
-      "post":""
+      "post":"Co-Convenor"
     },{
-      "name": "",
+      "name": "Moiz Essaji",
       "profilePic":"",
-      "post":""
+      "post":"Co-COnvenor"
     },{
-      "name": "",
-      "profilePic":"",
-      "post":""
+      "name": "Pragati Bub",
+      "profilePic":"/assets/img/contact/networking/pragati.jpeg",
+      "post":"Co-Convenor"
     }],
     "id": "11"
   },{
     "committee": "Infrastructure Designing",
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
-    "names": ["john doe","john doe","john doe"],
-    "posts": ["covenor","covenor","covenor"],
-    "id": "12"
+    "cards":[{
+      "name": "Lankesh Purekar",
+      "profilePic":"/assets/img/contact/infra/lankesh.jpg",
+      "post":"Convenor"
+    },{
+      "name": "Sharayu Dahake",
+      "profilePic":"/asstes/img/contact/infra/sharayu.jpeg",
+      "post":"Convenor"
+    },{
+      "name": "Sangal Sahare",
+      "profilePic":"/assets/img/contact/infra/sangal.jpg",
+      "post":"Convenor"
+    },{
+      "name": "Chetan Kshirsagar",
+      "profilePic":"",
+      "post":"Co-COnvenor"
+    },{
+      "name": "Sumedha Deshmukh",
+      "profilePic":"",
+      "post":"Co-Convenor"
+    },{
+      "name": "Kajal Agrawal",
+      "profilePic":"",
+      "post":"Co-Convenor"
+    }]
   },{
     "committee": "Audit",
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
-    "names": ["john doe","john doe","john doe"],
-    "posts": ["covenor","covenor","covenor"],
+    "cards":[{
+      "name": "Pratiksha Parashar",
+      "profilePic":"/assets/img/contact/audit/pratiksha.jpg",
+      "post":"Convenor"
+    },{
+      "name": "Niket Lekariya",
+      "profilePic":"/assets/img/contact/audit/niket.jpeg",
+      "post":"Co-Convenor"
+    },{
+      "name": "Abhishek Selokar",
+      "profilePic":"",
+      "post":"Co-Convenor"
+    }],
     "id": "13"
   },{
     "committee": "Alumni Sponsorship",
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
-    "names": ["john doe","john doe","john doe"],
-    "posts": ["covenor","covenor","covenor"],
+    "cards":[{
+      "name": "Shweta Joshi",
+      "profilePic":"/assets/img/contact/alumni/shweta.jpg",
+      "post":"Convenor"
+    },{
+      "name": "Akansha Baheti",
+      "profilePic":"",
+      "post":"Co-Convenor"
+    },{
+      "name": "Kartik Ingale",
+      "profilePic":"",
+      "post":"Co-Convenor"
+    }],
     "id": "14"
   }],
 
