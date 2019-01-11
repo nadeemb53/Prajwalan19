@@ -56,19 +56,29 @@ export class AppComponent implements OnInit {
     this.statusBar.overlaysWebView(true);
     this.statusBar.backgroundColorByHexString('#F89321');
     this.appRate.preferences = {
-      usesUntilPrompt: 2,
-      storeAppURL: {
-       android: 'market://details?id=com.nadeem.prajwalan'
-      },
-      customLocale: {
-        title: 'Are you enjoying our App?',
-        message: 'If you enjoy using Prajwalan 19 App, would you mind taking a moment to rate it? Thanks so much!',
-        cancelButtonLabel: 'No, Thanks',
-        laterButtonLabel: 'Remind Me Later',
-        rateButtonLabel: 'Rate It Now'
-      }
+        displayAppName: 'Prajwalan App',
+        usesUntilPrompt: 2,
+        promptAgainForEachNewVersion: false,
+        storeAppURL: {
+          android: 'market://details?id=com.nadeem.prajwalan'
+        },
+        customLocale: {
+          title: 'Are you enjoying Prajwalan App?',
+          message: 'If you enjoy using Prajwalan App, would you mind taking a moment to rate it? Thanks so much!',
+          cancelButtonLabel: 'No, Thanks',
+          laterButtonLabel: 'Remind Me Later',
+          rateButtonLabel: 'Rate It Now'
+        },
+        callbacks: {
+          onRateDialogShow: function(callback) {
+            console.log('rate dialog shown!');
+          },
+          onButtonClicked: function(buttonIndex) {
+            console.log('Selected index: -> ' + buttonIndex);
+          }
+        }
     };
-    this.appRate.promptForRating(false);
+    this.appRate.promptForRating(true);
   }
 
   ngOnInit() {
@@ -137,5 +147,13 @@ export class AppComponent implements OnInit {
     this.menu.enable(false);
     this.storage.set('ion_did_tutorial', false);
     this.router.navigateByUrl('/tutorial');
+  }
+
+  openDevelopers() {
+    this.router.navigateByUrl('/developers');
+  }
+
+  openAboutus() {
+    this.router.navigateByUrl('/aboutus');
   }
 }

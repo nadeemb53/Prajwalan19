@@ -170,6 +170,14 @@ export class ConferenceData {
     );
   }
 
+  getDevelopers() {
+    return this.load().pipe(
+      map((data: any) => {
+        return data.developers;
+      })
+    );
+  }
+
   getSponsors() {
     return this.load().pipe(
       map((data: any) => {

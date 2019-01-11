@@ -24,7 +24,7 @@
           </ion-menu-toggle>
         </ion-list>
 
-        <ion-list *ngIf="loggedIn">
+        <!--<ion-list *ngIf="loggedIn">
           <ion-list-header>
             Account
           </ion-list-header>
@@ -87,6 +87,19 @@
               <ion-label>
                 Signup
               </ion-label>
+            </ion-item>
+          </ion-menu-toggle>
+        </ion-list>-->
+
+        <ion-list>
+          <ion-menu-toggle auto-hide="false">
+            <ion-item button (click)="openDevelopers()">
+              <ion-icon slot="start" name="code"></ion-icon>
+              <ion-label>Developers</ion-label>
+            </ion-item>
+            <ion-item button (click)="openAboutus()">
+              <ion-icon slot="start" name="bonfire"></ion-icon>
+              <ion-label>About Prajwalan</ion-label>
             </ion-item>
           </ion-menu-toggle>
         </ion-list>

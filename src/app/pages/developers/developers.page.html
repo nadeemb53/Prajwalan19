@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>developers</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding class="speaker-detail">
+  <div text-center *ngFor="let card of developers.app" >
+    <ion-card>
+        <img [src]="card.picture"/>
+        <ion-card-content>
+          <ion-card-title>
+            {{card.name}}
+          </ion-card-title>
+        </ion-card-content>
+      </ion-card>
+  </div>
+  <div text-center *ngFor="let card of developers.web" >
+    <ion-card>
+        <img [src]="card.picture"/>
+        <ion-card-content>
+          <ion-card-title>
+            {{card.name}}
+          </ion-card-title>
+        </ion-card-content>
+      </ion-card>
+  </div>
+</ion-content>

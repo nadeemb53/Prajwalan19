@@ -1,6 +1,6 @@
 import { AfterViewInit, Component, ViewEncapsulation } from '@angular/core';
 import { ModalController } from '@ionic/angular';
-
+import { Router } from '@angular/router';
 import { ConferenceData } from '../../providers/conference-data';
 
 
@@ -15,7 +15,8 @@ export class ScheduleFilterPage {
 
   constructor(
     public confData: ConferenceData,
-    public modalCtrl: ModalController
+    public modalCtrl: ModalController,
+    private router: Router
   ) { }
 
   // TODO use the ionViewDidEnter event

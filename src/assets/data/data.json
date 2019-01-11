@@ -17,6 +17,17 @@
     }]
   }],
 
+  "developers": [{
+    "app": [{
+      "name":"Nadeem Bhati",
+      "picture":"/assets/img/contact/WebApp/me_pic.jpeg"
+    }],
+    "web": [{
+      "name": "Sumit Kumar Jangir",
+      "picture": "/assets/img/contact/WebApp/sumit.jpg"
+    }]
+  }],
+
    "speakers": [{
     "name": "Andromaster",
     "desc": "Are you an android expert? Paticipate in AndroMaster and win prizes! ",
