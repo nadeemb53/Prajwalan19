@@ -53,7 +53,7 @@ export class AppComponent implements OnInit {
     private userData: UserData
   ) {
     this.initializeApp();
-    this.statusBar.overlaysWebView(true);
+    // this.statusBar.overlaysWebView(true);
     this.statusBar.backgroundColorByHexString('#F89321');
     this.appRate.preferences = {
         displayAppName: 'Prajwalan App',
