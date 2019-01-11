@@ -9,6 +9,7 @@
 
 <ion-content padding class="speaker-detail" *ngIf="committee">
   <div text-center *ngFor="let card of committee.cards" >
+    <ion-card class="card">
     <ion-card>
         <img [src]="card.profilePic"/>
         <ion-card-content>
@@ -19,6 +20,7 @@
             {{card.post}}
           </p>
         </ion-card-content>
+      </ion-card>
       </ion-card>
   </div>
 </ion-content>

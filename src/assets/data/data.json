@@ -531,6 +531,9 @@
     "committee": "Faculty Incharge",
     "profilePic":"/assets/img/speakers/bear.jpg",
     "cards":[{
+      "name": "Dr. B. R. Sharma",
+      "profilePic":"",
+      "post":"Faculty Incharge"
 
     }],
     "id": "1"
