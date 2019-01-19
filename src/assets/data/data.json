@@ -713,7 +713,7 @@
 
     },{
       "name": "Pooja Karangale",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/WebApp/poojak.jpg",
       "post":"Co-Convenor"
 
     }],
@@ -734,7 +734,7 @@
       "profilePic":"/assets/img/contact/designing/yash.jpg",
       "post":"Convenor"
     },{
-      "name": "Sumit Shegokar",
+      "name": "Sushmit Shegokar",
       "profilePic":"",
       "post":"Co-Convenor"
     },{
@@ -800,7 +800,8 @@
       "name": "Kajal Agrawal",
       "profilePic":"",
       "post":"Co-Convenor"
-    }]
+    }],
+    "id": "12"
   },{
     "committee": "Audit",
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
