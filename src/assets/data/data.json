@@ -559,7 +559,7 @@
     
     },{
       "name": "Kshitija Maye",
-      "profilePic": "",
+      "profilePic": "/assets/img/contact/kshitija_overall.jpg",
       "post": "Overall Co-Convener"
     }],
     "id": "2"
@@ -576,7 +576,7 @@
       "post":"Convenor"
     },{
       "name":"Shreyash Chavda ",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/core-support/shreyash_coreSupport.jpg",
       "post":"Co-Convenor"
     },{
       "name":"Khushal Khotale",
@@ -584,7 +584,7 @@
       "post":"Co-Convenor"
     },{
       "name":"Ganesh Dutare",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/core-support/ganesh_coreSuppor",
       "post":"Co-Convenor"
     },{
       "name":"Radhika Patharkar",
@@ -614,7 +614,7 @@
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
     "cards":[{
       "name": "Bhushan Agrawal",
-      "profilePic":"/assets/img/contact/event-sponsorship/bhushan.jpg",
+      "profilePic":"/assets/img/contact/event-sponsorship/bhushan_EventSponsorship (1).jpg",
       "post":"Convenor"
     },{
       "name": "Subodh Wasekar",
@@ -622,7 +622,7 @@
       "post":"Co-Convenor"
     },{
       "name": "Shruti Tarale",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/event-sponsorship/shruti_Event.jpg",
       "post":"Co-Convenor"
     },{
       "name": "B. Rampurwala",
@@ -630,7 +630,7 @@
       "post":"Co-Convenor"
       },{
         "name": "Sushmita Khadse",
-        "profilePic":"",
+        "profilePic":"/assets/img/contact/event-sponsorship/sush_eventSponsorship.jpg",
         "post":"Co-Convenor"
       }],
 
@@ -645,7 +645,7 @@
         "post":"Convenor"
     },{
       "name": "Kiran Sakhare",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/Outreach/kiran.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Vaishnav Vaidya",
@@ -658,27 +658,27 @@
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
     "cards":[{
       "name": "Harshada Ingole",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/publicity/harshada_pub.jpg",
       "post":"Convenor"
     },{
       "name": "Shyam Kulkarni",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/publicity/shyam_pub.jpg",
       "post":"Convenor"
     },{
       "name": "Palak Katira",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/publicity/palak_pub.jpg",
       "post":"Convenor"
     },{
       "name": "Ashlesh Waghmare",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/publicity/ashlesh_waghmare_publicity.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Khushal Sadafale",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/publicity/kushal_pub.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Deepam Chandak",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/publicity/Deepam_publicity.jpg",
       "post":"Co-Convenor"
 
     }],
@@ -708,7 +708,7 @@
 
     },{
       "name": "Charu Vidhani",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/WebApp/Co-convener(Web n App)Charulata_Vidhani.jpg",
       "post":"Co-Convenor"
 
     },{
@@ -734,7 +734,7 @@
       "profilePic":"/assets/img/contact/designing/yash.jpg",
       "post":"Convenor"
     },{
-      "name": "Sushmit Shegokar",
+      "name": "Susmit Shegokar",
       "profilePic":"",
       "post":"Co-Convenor"
     },{
@@ -743,7 +743,7 @@
       "post":"Co-Convenor"
     },{
       "name": "Pallavi Meshram",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/designing/Co-Convener(core designing n editing)Pallavi_Meshram.jpg",
       "post":"Co-Convenor"
     }
     ],
@@ -761,7 +761,7 @@
       "post":"Convenor"
     },{
       "name": "Chetan Sharma",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/networking/chetan_networing.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Moiz Essaji",
@@ -798,7 +798,7 @@
       "post":"Co-Convenor"
     },{
       "name": "Kajal Agrawal",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/infra/kajal_infra.jpg",
       "post":"Co-Convenor"
     }],
     "id": "12"
@@ -828,7 +828,7 @@
       "post":"Convenor"
     },{
       "name": "Akansha Baheti",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/alumni/akaksha_AlumniSponsorship.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Kartik Ingale",
@@ -836,6 +836,24 @@
       "post":"Co-Convenor"
     }],
     "id": "14"
+  },
+  {
+    "committee": "Prajwalan Publication",
+    "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
+    "cards":[{
+      "name": "Padmini Shinde",
+      "profilePic":"",
+      "post":"Convenor"
+    },{
+      "name": "Sarthak Shrivastav",
+      "profilePic":"",
+      "post":"Co-Convenor"
+    },{
+      "name": "Prathamesh Khuje",
+      "profilePic":"/assets/img/contact/publication/Prajwalan_Publication_Co-convenor_Prathamesh_Khuje.jpg",
+      "post":"Co-Convenor"
+    }],
+    "id": "15"
   }],
 
   "feed":[{
