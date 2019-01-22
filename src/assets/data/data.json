@@ -38,7 +38,7 @@
     "rules2": "No Data Found For This Event",
     "location": "Everywhere",
     "email": "burt@example.com",
-    "phone": "+917083974131",
+    "phone": "+919000000000",
     "id": "1"
   }, {
     "name": "Angry Birds",
@@ -531,9 +531,6 @@
     "committee": "Faculty Incharge",
     "profilePic":"/assets/img/speakers/bear.jpg",
     "cards":[{
-      "name": "Dr. B. R. Sharma",
-      "profilePic":"",
-      "post":"Faculty Incharge"
 
     }],
     "id": "1"
