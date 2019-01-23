@@ -705,12 +705,12 @@
 
     },{
       "name": "Charu Vidhani",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/WebApp/charu.jpg",
       "post":"Co-Convenor"
 
     },{
       "name": "Pooja Karangale",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/WebApp/pooja.jpg",
       "post":"Co-Convenor"
 
     }],
@@ -732,7 +732,7 @@
       "post":"Convenor"
     },{
       "name": "Sumit Shegokar",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/designing/susmit.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Aniket Itankar",
