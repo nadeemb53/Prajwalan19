@@ -542,7 +542,7 @@
     "profilePics": ["/assets/img/speakers/bear.jpg"],
     "cards": [{
       "name":"Rohit Jamnare",
-      "profilePic": "/assets/img/contact/rohit_j.jpg",
+      "profilePic": "/assets/img/contact/IMG_20180221_131323.jpg",
       "post": "Convenor"
     }, {
       "name": "Suved Ghanmode",
@@ -559,7 +559,7 @@
     
     },{
       "name": "Kshitija Maye",
-      "profilePic": "",
+      "profilePic": "/assets/img/contact/k.jpg",
       "post": "Overall Co-Convener"
     }],
     "id": "2"
@@ -576,7 +576,7 @@
       "post":"Convenor"
     },{
       "name":"Shreyash Chavda ",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/SAVE_20190113_195726.jpeg",
       "post":"Co-Convenor"
     },{
       "name":"Khushal Khotale",
@@ -584,7 +584,7 @@
       "post":"Co-Convenor"
     },{
       "name":"Ganesh Dutare",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/IMG20181201144329.jpg",
       "post":"Co-Convenor"
     },{
       "name":"Radhika Patharkar",
@@ -614,7 +614,7 @@
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
     "cards":[{
       "name": "Bhushan Agrawal",
-      "profilePic":"/assets/img/contact/event-sponsorship/bhushan.jpg",
+      "profilePic":"/assets/img/contact/event-sponsorship/WhatsApp Image 2019-01-23 at 20.46.08jpeg",
       "post":"Convenor"
     },{
       "name": "Subodh Wasekar",
@@ -622,7 +622,7 @@
       "post":"Co-Convenor"
     },{
       "name": "Shruti Tarale",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/WhatsApp Image.jpeg",
       "post":"Co-Convenor"
     },{
       "name": "B. Rampurwala",
@@ -630,7 +630,7 @@
       "post":"Co-Convenor"
       },{
         "name": "Sushmita Khadse",
-        "profilePic":"",
+        "profilePic":"/assets/img/contact/IMG-20181216-WA0047.jpg",
         "post":"Co-Convenor"
       }],
 
@@ -645,7 +645,7 @@
         "post":"Convenor"
     },{
       "name": "Kiran Sakhare",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/WhatsApp Image1.jpeg",
       "post":"Co-Convenor"
     },{
       "name": "Vaishnav Vaidya",
@@ -658,27 +658,27 @@
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
     "cards":[{
       "name": "Harshada Ingole",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/IMG-20190109-WA0042.jpg",
       "post":"Convenor"
     },{
       "name": "Shyam Kulkarni",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/IMG-20190119-WA0020.jpg",
       "post":"Convenor"
     },{
       "name": "Palak Katira",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/IMG-20190119-WA0017.jpg",
       "post":"Convenor"
     },{
       "name": "Ashlesh Waghmare",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/975554ce5eadc1b20c7bf6430f80ad99.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Khushal Sadafale",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/IMG_20190119_211228.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Deepam Chandak",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/a.jpg",
       "post":"Co-Convenor"
 
     }],
@@ -708,7 +708,7 @@
 
     },{
       "name": "Charu Vidhani",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/Co-convener(Web n App)Charulata_Vidhani.jpg",
       "post":"Co-Convenor"
 
     },{
@@ -743,7 +743,7 @@
       "post":"Co-Convenor"
     },{
       "name": "Pallavi Meshram",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/Co-Convener(core designing n editing)Pallavi_Meshram.jpg",
       "post":"Co-Convenor"
     }
     ],
@@ -761,12 +761,12 @@
       "post":"Convenor"
     },{
       "name": "Chetan Sharma",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/FB_IMG_1546878165405.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Moiz Essaji",
       "profilePic":"",
-      "post":"Co-COnvenor"
+      "post":"Co-Convenor"
     },{
       "name": "Pragati Bub",
       "profilePic":"/assets/img/contact/networking/pragati.jpeg",
@@ -798,7 +798,7 @@
       "post":"Co-Convenor"
     },{
       "name": "Kajal Agrawal",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/IMG-20190120-WA0001.jpg",
       "post":"Co-Convenor"
     }]
   },{
@@ -827,7 +827,7 @@
       "post":"Convenor"
     },{
       "name": "Akansha Baheti",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/IMG-20180107-WA0239.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Kartik Ingale",
