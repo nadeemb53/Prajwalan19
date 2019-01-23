@@ -710,7 +710,11 @@
 
     },{
       "name": "Pooja Karangale",
+<<<<<<< HEAD
       "profilePic":"/assets/img/contact/WebApp/pooja.jpg",
+=======
+      "profilePic":"/assets/img/contact/WebApp/poojak.jpg",
+>>>>>>> 19d92accf82c6fe985c61ff8a4aba2882f4ac313
       "post":"Co-Convenor"
 
     }],
@@ -731,8 +735,13 @@
       "profilePic":"/assets/img/contact/designing/yash.jpg",
       "post":"Convenor"
     },{
+<<<<<<< HEAD
       "name": "Sumit Shegokar",
       "profilePic":"/assets/img/contact/designing/susmit.jpg",
+=======
+      "name": "Sushmit Shegokar",
+      "profilePic":"",
+>>>>>>> 19d92accf82c6fe985c61ff8a4aba2882f4ac313
       "post":"Co-Convenor"
     },{
       "name": "Aniket Itankar",
@@ -797,7 +806,8 @@
       "name": "Kajal Agrawal",
       "profilePic":"",
       "post":"Co-Convenor"
-    }]
+    }],
+    "id": "12"
   },{
     "committee": "Audit",
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
