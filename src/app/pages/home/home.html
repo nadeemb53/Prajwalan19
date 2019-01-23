@@ -15,16 +15,29 @@
       <ion-grid fixed>
         <ion-row align-items-stretch>
           <ion-col size="12" size-md="3" *ngFor="let update of updates">
-            <ion-card class="speaker-card">
+            <!--<ion-card class="speaker-card">
               <ion-card-header>
-          <!--<ion-avatar slot="start">
-              <img [src]="speaker.profilePic" alt="Speaker profile pic">
-          </ion-avatar>-->
+          <ion-avatar slot="start">
+              <img [src]="update.picture" alt="../../../assets/img/icon.png">
+          </ion-avatar>
                 <ion-item detail="false" lines="none">
                   {{update.update}}
                 </ion-item>
               </ion-card-header>
-            </ion-card>
+            </ion-card>-->
+            <ion-card class="card">
+              <ion-card>
+                  <img [src]="update.picture" alt="icon.png"/>
+                  <ion-card-content>
+                    <ion-card-title>
+                      {{update.update}}
+                      </ion-card-title>
+                    <p>
+                      {{update.desc}}
+                    </p>
+                  </ion-card-content>
+                </ion-card>
+                </ion-card>
           </ion-col>
         </ion-row>
       </ion-grid>
