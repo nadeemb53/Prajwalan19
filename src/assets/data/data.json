@@ -38,7 +38,7 @@
     "rules2": "No Data Found For This Event",
     "location": "Everywhere",
     "email": "burt@example.com",
-    "phone": "+917083974131",
+    "phone": "+919000000000",
     "id": "1"
   }, {
     "name": "Angry Birds",
@@ -531,9 +531,6 @@
     "committee": "Faculty Incharge",
     "profilePic":"/assets/img/speakers/bear.jpg",
     "cards":[{
-      "name": "Dr. B. R. Sharma",
-      "profilePic":"",
-      "post":"Faculty Incharge"
 
     }],
     "id": "1"
@@ -625,10 +622,6 @@
       "profilePic":"/assets/img/contact/WhatsApp Image.jpeg",
       "post":"Co-Convenor"
     },{
-      "name": "B. Rampurwala",
-      "profilePic":"",
-      "post":"Co-Convenor"
-      },{
         "name": "Sushmita Khadse",
         "profilePic":"/assets/img/contact/IMG-20181216-WA0047.jpg",
         "post":"Co-Convenor"
@@ -708,12 +701,16 @@
 
     },{
       "name": "Charu Vidhani",
+<<<<<<< HEAD
       "profilePic":"/assets/img/contact/Co-convener(Web n App)Charulata_Vidhani.jpg",
+=======
+      "profilePic":"/assets/img/contact/WebApp/charu.jpg",
+>>>>>>> 07e040c00bac92cf0bdebf0260042945a85c6b67
       "post":"Co-Convenor"
 
     },{
       "name": "Pooja Karangale",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/WebApp/pooja.jpg",
       "post":"Co-Convenor"
 
     }],
@@ -735,7 +732,7 @@
       "post":"Convenor"
     },{
       "name": "Sumit Shegokar",
-      "profilePic":"",
+      "profilePic":"/assets/img/contact/designing/susmit.jpg",
       "post":"Co-Convenor"
     },{
       "name": "Aniket Itankar",
@@ -793,14 +790,11 @@
       "profilePic":"",
       "post":"Co-COnvenor"
     },{
-      "name": "Sumedha Deshmukh",
-      "profilePic":"",
-      "post":"Co-Convenor"
-    },{
       "name": "Kajal Agrawal",
       "profilePic":"/assets/img/contact/IMG-20190120-WA0001.jpg",
       "post":"Co-Convenor"
-    }]
+    }],
+    "id": "12"
   },{
     "committee": "Audit",
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
@@ -838,14 +832,17 @@
   }],
 
   "feed":[{
-    "update":"Prajwalan received patronage from Make in India",
-    "picture":""
+    "update":"Make in India",
+    "desc": "Prajwalan received patronage from Make in India",
+    "picture":"/assets/img/feed/makeinindia.jpg"
   },{
-    "update":"Prajwalan received patronage from Digital India",
-    "picture":""
+    "update":"Digital India",
+    "desc": "Prajwalan received patronage from Digital India",
+    "picture":"/assets/img/feed/digitalindia.png"
   },{
-    "update": "MATLAB workshop is scheduled to be conducted on 12th and 13th Jan 19",
-    "picture":""
+    "update": "MATLAB",
+    "desc": "MATLAB workshop is scheduled to be conducted on 12th and 13th Jan 19",
+    "picture":"/assets/img/speakers/bear.jpg"
   }],
 
   "sponsors":[
