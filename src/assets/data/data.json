@@ -622,10 +622,6 @@
       "profilePic":"",
       "post":"Co-Convenor"
     },{
-      "name": "B. Rampurwala",
-      "profilePic":"",
-      "post":"Co-Convenor"
-      },{
         "name": "Sushmita Khadse",
         "profilePic":"",
         "post":"Co-Convenor"
@@ -710,11 +706,7 @@
 
     },{
       "name": "Pooja Karangale",
-<<<<<<< HEAD
       "profilePic":"/assets/img/contact/WebApp/pooja.jpg",
-=======
-      "profilePic":"/assets/img/contact/WebApp/poojak.jpg",
->>>>>>> 19d92accf82c6fe985c61ff8a4aba2882f4ac313
       "post":"Co-Convenor"
 
     }],
@@ -735,13 +727,8 @@
       "profilePic":"/assets/img/contact/designing/yash.jpg",
       "post":"Convenor"
     },{
-<<<<<<< HEAD
       "name": "Sumit Shegokar",
       "profilePic":"/assets/img/contact/designing/susmit.jpg",
-=======
-      "name": "Sushmit Shegokar",
-      "profilePic":"",
->>>>>>> 19d92accf82c6fe985c61ff8a4aba2882f4ac313
       "post":"Co-Convenor"
     },{
       "name": "Aniket Itankar",
@@ -772,7 +759,7 @@
     },{
       "name": "Moiz Essaji",
       "profilePic":"",
-      "post":"Co-COnvenor"
+      "post":"Co-Convenor"
     },{
       "name": "Pragati Bub",
       "profilePic":"/assets/img/contact/networking/pragati.jpeg",
@@ -798,10 +785,6 @@
       "name": "Chetan Kshirsagar",
       "profilePic":"",
       "post":"Co-COnvenor"
-    },{
-      "name": "Sumedha Deshmukh",
-      "profilePic":"",
-      "post":"Co-Convenor"
     },{
       "name": "Kajal Agrawal",
       "profilePic":"",
