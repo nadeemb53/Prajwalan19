@@ -706,7 +706,7 @@
 
     },{
       "name": "Pooja Karangale",
-      "profilePic":"/assets/img/contact/WebApp/pooja.jpg",
+      "profilePic":"/assets/img/contact/WebApp/poojak.jpg",
       "post":"Co-Convenor"
 
     }],
@@ -727,7 +727,7 @@
       "profilePic":"/assets/img/contact/designing/yash.jpg",
       "post":"Convenor"
     },{
-      "name": "Sumit Shegokar",
+      "name": "Susmit Shegokar",
       "profilePic":"/assets/img/contact/designing/susmit.jpg",
       "post":"Co-Convenor"
     },{
@@ -825,24 +825,41 @@
       "post":"Co-Convenor"
     }],
     "id": "14"
+  },{
+    "committee": "Prajwalan Publication",
+    "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
+    "cards":[{
+      "name": "Padmini Shinde",
+      "profilePic":"",
+      "post":"Convenor"
+    },{
+      "name": "Sarthak Shrivastav",
+      "profilePic":"",
+      "post":"Co-Convenor"
+    },{
+      "name": "Prathmesh Khuje",
+      "profilePic":"/assets/img/contact/publication/Prajwalan_Publication_Co-convenor_Prathamesh_Khuje.jpg",
+      "post":"Co-Convenor"
+    }],
+    "id": "15"
   }],
 
   "feed":[{
+    "update": "UNESCO",
+    "desc": "Prajwalan received patronage from UNESCO",
+    "picture":"/assets/img/feed/unesco.jpeg"
+  },{
     "update":"Make in India",
     "desc": "Prajwalan received patronage from Make in India",
     "picture":"/assets/img/feed/makeinindia.jpeg"
   },{
     "update":"Digital India",
     "desc": "Prajwalan received patronage from Digital India",
-    "picture":"/assets/img/feed/digitalindia.png"
+    "picture":"/assets/img/feed/digitalIndia.jpg"
   },{
     "update": "MATLAB",
     "desc": "MATLAB workshop is scheduled to be conducted on 12th and 13th Jan 19",
     "picture":"/assets/img/feed/matlab.jpg"
-  },{
-    "update": "UNESCO",
-    "desc": "Prajwalan received patronage from UNESCO",
-    "picture":"/assets/img/feed/unesco.jpeg"
   }],
 
   "sponsors":[
