@@ -597,12 +597,12 @@
       "profilePic":"",
       "post":"Convenor"
     },{
-      "name":"Pratik Dhanuka",
-      "profilePic":"",
-      "post":"Co-Convenor"
-    },{
       "name":"Ashwin Ramidhami",
       "profilePic":"/assets/img/contact/core-sponsor/ashwin.jpg",
+      "post":"Co-Convenor"
+    },{
+      "name":"Pratik Dhanuka",
+      "profilePic":"",
       "post":"Co-Convenor"
     }],
     "id": "4"
@@ -701,11 +701,7 @@
 
     },{
       "name": "Charu Vidhani",
-<<<<<<< HEAD
       "profilePic":"/assets/img/contact/Co-convener(Web n App)Charulata_Vidhani.jpg",
-=======
-      "profilePic":"/assets/img/contact/WebApp/charu.jpg",
->>>>>>> 07e040c00bac92cf0bdebf0260042945a85c6b67
       "post":"Co-Convenor"
 
     },{
