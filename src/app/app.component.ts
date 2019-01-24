@@ -55,7 +55,7 @@ export class AppComponent implements OnInit {
     this.initializeApp();
     // this.statusBar.overlaysWebView(true);
     this.statusBar.backgroundColorByHexString('#F89321');
-    this.appRate.preferences = {
+    /*this.appRate.preferences = {
         displayAppName: 'Prajwalan App',
         usesUntilPrompt: 2,
         promptAgainForEachNewVersion: false,
@@ -78,7 +78,7 @@ export class AppComponent implements OnInit {
           }
         }
     };
-    this.appRate.promptForRating(false);
+    this.appRate.promptForRating(false);*/
   }
 
   ngOnInit() {
