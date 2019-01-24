@@ -857,8 +857,11 @@
   }],
 
   "feed":[{
+    "update":"Prajwalan received patronage from UNESCO-Indian National Commission",
+    "picture":"/assets/img/updates/pta_unecs.jpg"
+  },{
     "update":"Prajwalan received patronage from Make in India",
-    "picture":""
+    "picture":"/assets/img/updates/pat_make_india.jpg"
   },{
     "update":"Prajwalan received patronage from Digital India",
     "picture":""
