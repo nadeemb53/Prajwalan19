@@ -830,7 +830,7 @@
   "feed":[{
     "update":"Make in India",
     "desc": "Prajwalan received patronage from Make in India",
-    "picture":"/assets/img/feed/makeinindia.jpg"
+    "picture":"/assets/img/feed/makeinindia.jpeg"
   },{
     "update":"Digital India",
     "desc": "Prajwalan received patronage from Digital India",
@@ -838,7 +838,11 @@
   },{
     "update": "MATLAB",
     "desc": "MATLAB workshop is scheduled to be conducted on 12th and 13th Jan 19",
-    "picture":"/assets/img/speakers/bear.jpg"
+    "picture":"/assets/img/feed/matlab.jpg"
+  },{
+    "update": "UNESCO",
+    "desc": "Prajwalan received patronage from UNESCO",
+    "picture":"/assets/img/feed/unesco.jpeg"
   }],
 
   "sponsors":[

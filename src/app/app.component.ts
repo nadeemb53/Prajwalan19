@@ -78,7 +78,7 @@ export class AppComponent implements OnInit {
           }
         }
     };
-    this.appRate.promptForRating(true);
+    this.appRate.promptForRating(false);
   }
 
   ngOnInit() {
