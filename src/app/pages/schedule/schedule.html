@@ -36,6 +36,9 @@
   
         <ion-item-sliding *ngFor="let session of group.sessions" #slidingItem [attr.track]="session.tracks[0] | lowercase" [hidden]="session.hide">
           <ion-item routerLink="/app/tabs/schedule/session/{{session.id}}">
+            <ion-avatar>
+              <img src="../../../assets/img/icon.png">
+            </ion-avatar>
             <ion-label>
               <h3>{{session.name}}</h3>
               <p>

@@ -597,12 +597,12 @@
       "profilePic":"",
       "post":"Convenor"
     },{
-      "name":"Pratik Dhanuka",
-      "profilePic":"",
-      "post":"Co-Convenor"
-    },{
       "name":"Ashwin Ramidhami",
       "profilePic":"/assets/img/contact/core-sponsor/ashwin.jpg",
+      "post":"Co-Convenor"
+    },{
+      "name":"Pratik Dhanuka",
+      "profilePic":"",
       "post":"Co-Convenor"
     }],
     "id": "4"
@@ -701,12 +701,16 @@
 
     },{
       "name": "Charu Vidhani",
+<<<<<<< HEAD
       "profilePic":"/assets/img/contact/WebApp/charu.jpg",
+=======
+      "profilePic":"/assets/img/contact/Co-convener(Web n App)Charulata_Vidhani.jpg",
+>>>>>>> 1c59551b8eb82ef590994294005cf728f67e44e8
       "post":"Co-Convenor"
 
     },{
       "name": "Pooja Karangale",
-      "profilePic":"/assets/img/contact/WebApp/pooja.jpg",
+      "profilePic":"/assets/img/contact/WebApp/poojak.jpg",
       "post":"Co-Convenor"
 
     }],
@@ -728,7 +732,11 @@
       "post":"Convenor"
     },{
       "name": "Susmit Shegokar",
+<<<<<<< HEAD
       "profilePic":"/assets/img/contact/designing/susmit Shegokar.jpg",
+=======
+      "profilePic":"/assets/img/contact/designing/susmit.jpg",
+>>>>>>> 1c59551b8eb82ef590994294005cf728f67e44e8
       "post":"Co-Convenor"
     },{
       "name": "Aniket Itankar",
@@ -825,20 +833,41 @@
       "post":"Co-Convenor"
     }],
     "id": "14"
+  },{
+    "committee": "Prajwalan Publication",
+    "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
+    "cards":[{
+      "name": "Padmini Shinde",
+      "profilePic":"",
+      "post":"Convenor"
+    },{
+      "name": "Sarthak Shrivastav",
+      "profilePic":"",
+      "post":"Co-Convenor"
+    },{
+      "name": "Prathmesh Khuje",
+      "profilePic":"/assets/img/contact/publication/Prajwalan_Publication_Co-convenor_Prathamesh_Khuje.jpg",
+      "post":"Co-Convenor"
+    }],
+    "id": "15"
   }],
 
   "feed":[{
+    "update": "UNESCO",
+    "desc": "Prajwalan received patronage from UNESCO",
+    "picture":"/assets/img/feed/unesco.jpeg"
+  },{
     "update":"Make in India",
     "desc": "Prajwalan received patronage from Make in India",
-    "picture":"/assets/img/feed/makeinindia.jpg"
+    "picture":"/assets/img/feed/makeinindia.jpeg"
   },{
     "update":"Digital India",
     "desc": "Prajwalan received patronage from Digital India",
-    "picture":"/assets/img/feed/digitalindia.png"
+    "picture":"/assets/img/feed/digitalIndia.jpg"
   },{
     "update": "MATLAB",
     "desc": "MATLAB workshop is scheduled to be conducted on 12th and 13th Jan 19",
-    "picture":"/assets/img/speakers/bear.jpg"
+    "picture":"/assets/img/feed/matlab.jpg"
   }],
 
   "sponsors":[
