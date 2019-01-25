@@ -18,13 +18,8 @@ export class ConferenceData {
       return of(this.data);
     } else {
       return this.http
-<<<<<<< HEAD
-       .get('https://nadeemb53.github.io/Prajwalan19/src/assets/data/data.json')
-        //.get('assets/data/data.json')
-=======
         .get('https://nadeemb53.github.io/Prajwalan19/src/assets/data/data.json')
-       // .get('assets/data/data.json')
->>>>>>> 1c59551b8eb82ef590994294005cf728f67e44e8
+        //.get('assets/data/data.json')
         .pipe(map(this.processData, this));
     }
   }
