@@ -16,6 +16,7 @@
       }]
     }]
   }],
+  
 
    "speakers": [{
     "name": "Andromaster",
@@ -860,124 +861,141 @@
     "update": "MATLAB",
     "desc": "MATLAB workshop is scheduled to be conducted on 12th and 13th Jan 19",
     "picture":"/assets/img/feed/matlab.jpg"
+  },{
+    "update":"Virtual Reality",
+    "desc":"Virtual reality workshop is scheduled to be conducted on 12th and 13th Jan 19",
+    "picture":"/assets/img/feed/vr.jpeg"
   }],
 
   "sponsors":[
-    {
+    { 
       "picture":"/assets/img/sponsorimg/cogni_as_title.png",
-      "name":"Cognizant"
+      "name":"Cognizant",
+      "desc":"Title Sponsor"
     },
     {
       "picture":"/assets/img/sponsorimg/logo.png",
-      "name":"Fiat"
+      "name":"Fiat",
+      "desc":"Title Sponsor"
+
     },
     {
       "picture":"/assets/img/sponsorimg/ie.jpg",
-      "name":"The Institution Of Engineers"
+      "name":"The Institution Of Engineers",
+      "desc":"Associate Sponsor"
     },
     {
       "picture":"/assets/img/sponsorimg/iste.jpg",
-      "name":"Indian Society For Technical Education"
+      "name":"Indian Society For Technical Education",
+      "desc":"Associate Sponsor"
     },
     {
     "picture":"/assets/img/sponsorimg/persi.jpg",
-    "name":"Persistent"
+    "name":"Persistent",
+    "desc":"Associate Sponsor"
   },
   {
     "picture":"/assets/img/sponsorimg/alumni.jpg",
-    "name":"Alumni Assosciation"
+    "name":"Alumni Assosciation",
+    "desc":"Associate Sponsor"
   },
   {
     "picture":"/assets/img/sponsorimg/gateAcademy.jpg",
-    "name":"The Gate Academy"
+    "name":"The Gate Academy",
+    "desc":"Co-sponsor",
+    "desc1":"Technical & Educational Partner"
   },
   {
-    "picture":"/assets/img/sponsorimg/ola.png",
-    "name":"Ola"
+    "picture":"/assets/img/sponsorimg/s&g.jpg",
+    "name":"S&G Mall",
+    "desc":"Co-sponsor",
+    "desc1":"Style Partner"
   },
   {
-    "picture":"/assets/img/sponsorimg/ebay.png",
-    "name":"Ebay"
+    "picture":"/assets/img/sponsorimg/nescafe.png",
+    "name":"Nescafe",
+    "desc":"Event Title Sponsor"
   },
   {
-    "picture":"/assets/img/sponsorimg/snp.jpg",
-    "name":"S&P Banking Institute"
+    "picture":"/assets/img/sponsorimg/tata.jpg",
+    "name":"Tata Consultancy Services",
+    "desc":"Event Title Sponsor"
   },
   {
-    "picture":"/assets/img/sponsorimg/bulk24sms.png",
-    "name":"C2 SMS.com"
+    "picture":"/assets/img/sponsorimg/manbhari.jpg",
+    "name":"ManBhari",
+    "desc":"Event Title Sponsor"
   },
   {
-    "picture":"/assets/img/sponsorimg/amigo.jpg",
-    "name":"Amigos Toit"
+    "picture":"/assets/img/sponsorimg/marasim.jpg",
+    "name":"Marasim",
+    "desc":"Event Co-Sponsor"
   },
   {
-    "picture":"/assets/img/sponsorimg/domino.jpg",
-    "name":"Domino's"
+    "picture":"/assets/img/sponsorimg/palekar.png",
+    "name":"Palekar's",
+    "desc":"Event Co-Sponsor"
   },
   {
     "picture":"/assets/img/sponsorimg/rcn.jpg",
-    "name":"RCN"
+    "name":"RCN",
+    "desc":"Event Co-Sponsor"
   },
   {
-    "picture":"/assets/img/sponsorimg/Dainik-Bhaskar.jpg",
-    "name":"Dainik Bhaskar"
+    "picture":"/assets/img/sponsorimg/amt mandal.jpeg",
+    "name":"Amravati Mandal",
+    "desc":"Event Co-Sponsor"
   },
   {
-    "picture":"/assets/img/sponsorimg/Deshonnati.jpg",
-    "name":"Deshonnati"
+    "picture":"/assets/img/sponsorimg/mht.jpeg",
+    "name":"Malgudi Holiday Tourism",
+    "desc":"Event Sponsor",
+    "desc1":"Prize Partner"
   },
   {
-    "picture":"/assets/img/sponsorimg/unique.jpg",
-    "name":"Unique Academy"
+    "picture":"/assets/img/sponsorimg/titan.png",
+    "name":"Titan",
+    "desc":"Event Co-Sponsor"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/zero.jpeg",
+    "name":"Zero Degree",
+    "desc":"Event Co-Sponsor",
+    "desc1":"Ice-cream Partner"
+  },
+  {
+    "picture":"/assets/img/sponsorimg/gate.jpg",
+    "name":"Gate Forum",
+    "desc":"Event Co-Sponsor"
   },
   {
     "picture":"/assets/img/sponsorimg/sbi.jpg",
-    "name":"State Bank Of India"
-  },
-  {
-    "picture":"/assets/img/sponsorimg/infi-zeal_.png",
-    "name":"Infi-Zeal Technologies"
-  },
-  {
-    "picture":"/assets/img/sponsorimg/embed.jpg",
-    "name":"Embed Gallery"
-  },
-  {
-    "picture":"/assets/img/sponsorimg/shikhar.jpg",
-    "name":"Shikhar Educare"
-  },
-  {
-    "picture":"/assets/img/sponsorimg/dcs.jpg",
-    "name":"DCS"
-  },
-  {
-    "picture":"/assets/img/sponsorimg/desi.jpg",
-    "name":"Desi Vilayati"
-  },
-  {
-    "picture":"/assets/img/sponsorimg/knowfest.jpg",
-    "name":"KnowAFest.com"
-  },
-  {
-    "picture":"/assets/img/sponsorimg/la.jpg",
-    "name":"Living Amravati"
-  },
-  {
-    "picture":"/assets/img/sponsorimg/sellad.jpg",
-    "name":"Sell Ads"
+    "name":"State Bank Of India",
+    "desc":"Event Co-Sponsor"
   },
   {
     "picture":"/assets/img/sponsorimg/gauri.png",
-    "name":"Gouri Inn"
+    "name":"Gouri Inn",
+    "desc":"Event Co-Sponsor",
+    "desc1":"Hospitality Partner"
   },
   {
-    "picture":"/assets/img/sponsorimg/topcon.png",
-    "name":"Topcon"
+    "picture":"/assets/img/sponsorimg/sms.png",
+    "name":"C2 SMS.com",
+    "desc":"Event Co-Sponsor"
+
   },
+  {
+    "picture":"/assets/img/sponsorimg/shikhar.jpg",
+    "name":"Shikhar Educare",
+    "desc":"Event Co-Sponsor",
+    "desc1":"Educational Partner"
+  },
+
   {
     "picture":"/assets/img/sponsorimg/makhija.jpg",
-    "name":"Bharat Makhija's Coaching Classes"
+    "name":"Bharat Makhija's Coaching Classes",
+    "desc":"Event Co-Sponsor"
   }
 ]
 
