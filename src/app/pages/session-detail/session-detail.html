@@ -21,7 +21,7 @@
       </ion-row>
     </ion-grid>
     <h1>{{session.name}}</h1>
-    <img src="../../../assets/img/workshop/matlab.jpg">
+    <img [src]="session.pic"/>
     
     <p>{{session.description}}</p>
   
@@ -31,6 +31,8 @@
       {{session.timeStart}} &ndash; {{session.timeEnd}}
       <br /> 
       {{session.location}}
+      <br/>
+     <pre>{{session.contact}}</pre>
       
 
     </ion-text>
