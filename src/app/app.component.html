@@ -93,6 +93,10 @@
 
         <ion-list>
           <ion-menu-toggle auto-hide="false">
+              <ion-item button (click)="openMusicplayer()">
+                  <ion-icon slot="start" name="musical-notes"></ion-icon>
+                  <ion-label>Music Player</ion-label>
+                </ion-item>
             <ion-item button (click)="openDevelopers()">
               <ion-icon slot="start" name="code"></ion-icon>
               <ion-label>Developers</ion-label>

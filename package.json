@@ -26,6 +26,7 @@
     "@angular/pwa": "0.11.0",
     "@angular/router": "7.1.3",
     "@angular/service-worker": "~7.1.0",
+    "@ionic-native/app-availability": "^5.0.0",
     "@ionic-native/app-rate": "^5.0.0-beta.23",
     "@ionic-native/core": "^5.0.0-beta.23",
     "@ionic-native/in-app-browser": "5.0.0-beta.15",
@@ -36,6 +37,7 @@
     "@ionic/storage": "^2.1.3",
     "cordova-android": "7.1.4",
     "cordova-ios": "^4.5.5",
+    "cordova-plugin-appavailability": "^0.4.2",
     "cordova-plugin-apprate": "^1.4.0",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-dialogs": "^2.0.1",
@@ -48,6 +50,7 @@
     "cordova-plugin-statusbar": "^2.4.2",
     "cordova-plugin-whitelist": "^1.3.3",
     "core-js": "^2.5.7",
+    "ionic": "^4.9.0",
     "onesignal-cordova-plugin": "^2.4.6",
     "rxjs": "6.3.3",
     "sw-toolbox": "3.6.0",
@@ -55,7 +58,7 @@
   },
   "devDependencies": {
     "@angular-devkit/architect": "0.11.0",
-    "@angular-devkit/build-angular": "^0.11.4",
+    "@angular-devkit/build-angular": "^0.12.3",
     "@angular-devkit/core": "7.1.2",
     "@angular-devkit/schematics": "7.1.2",
     "@angular/cli": "7.1.0",
@@ -98,7 +101,8 @@
       "cordova-plugin-statusbar": {},
       "cordova-plugin-ionic-keyboard": {},
       "onesignal-cordova-plugin": {},
-      "cordova-plugin-apprate": {}
+      "cordova-plugin-apprate": {},
+      "cordova-plugin-appavailability": {}
     }
   }
 }

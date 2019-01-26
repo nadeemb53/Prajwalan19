@@ -154,6 +154,10 @@ export class AppComponent implements OnInit {
     this.router.navigateByUrl('/developers');
   }
 
+  openMusicplayer() {
+    this.router.navigateByUrl('/musicplayer');
+  }
+
   openAboutus() {
     this.router.navigateByUrl('/aboutus');
   }
