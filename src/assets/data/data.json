@@ -571,24 +571,24 @@
     "profilePics": ["/assets/img/speakers/bear.jpg"],
     "cards": [{
       "name":"Rohit Jamnare",
-      "profilePic": "/assets/img/contact/IMG_20180221_131323.jpg",
+      "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG_20180221_131323.jpg",
       "post": "Convenor"
     }, {
       "name": "Suved Ghanmode",
-      "profilePic": "/assets/img/contact/suved.jpg",
+      "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/suved.jpg",
       "post": "Organising Secretary"
     }, {
       "name": "Akash Jeswani",
-      "profilePic": "/assets/img/contact/akash.jpeg",
+      "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/akash.jpeg",
       "post": "Overall Co-Convener"
     }, {
       "name":"Shivam Nakod",
-      "profilePic":["/assets/img/contact/nakod.jpeg"],
+      "profilePic":["https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/nakod.jpeg"],
       "post":"Overall Co-Convener"
     
     },{
       "name": "Kshitija Maye",
-      "profilePic": "/assets/img/contact/k.jpg",
+      "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/k.jpg",
       "post": "Overall Co-Convener"
     }],
     "id": "2"
@@ -597,7 +597,7 @@
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
     "cards":[{
       "name":"Ameya Deshpande",
-      "profilePic":"/assets/img/contact/core-support/ameya.jpg",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-support/ameya.jpg",
       "post":"Convenor"
     },{
       "name":"Apurva Bedre",
@@ -605,7 +605,7 @@
       "post":"Convenor"
     },{
       "name":"Shreyash Chavda ",
-      "profilePic":"/assets/img/contact/SAVE_20190113_195726.jpeg",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/SAVE_20190113_195726.jpeg",
       "post":"Co-Convenor"
     },{
       "name":"Khushal Khotale",
@@ -613,7 +613,7 @@
       "post":"Co-Convenor"
     },{
       "name":"Ganesh Dutare",
-      "profilePic":"/assets/img/contact/IMG20181201144329.jpg",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG20181201144329.jpg",
       "post":"Co-Convenor"
     },{
       "name":"Radhika Patharkar",
@@ -630,7 +630,7 @@
       "post":"Convenor"
     },{
       "name":"Ashwin Ramidhami",
-      "profilePic":"/assets/img/contact/core-sponsor/ashwin.jpg",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-sponsor/ashwin.jpg",
       "post":"Co-Convenor"
     },{
       "name":"Pratik Dhanuka",
