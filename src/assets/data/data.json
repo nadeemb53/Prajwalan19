@@ -561,7 +561,7 @@
   "committees": [{
     
     "committee": "Faculty Incharge",
-    "profilePic":"/assets/img/speakers/bear.jpg",
+    "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
     "cards":[{
 
     }],
@@ -807,7 +807,7 @@
       "post":"Convenor"
     },{
       "name": "Sharayu Dahake",
-      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/asstes/img/contact/Infra/sharayu.jpeg",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Infra/sharayu.jpeg",
       "post":"Convenor"
     },{
       "name": "Sangal Sahare",
