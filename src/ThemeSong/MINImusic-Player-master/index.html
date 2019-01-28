@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Script Tutorials" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>HTML5 Audio player with playlist | Script Tutorials</title>
+
+    <!-- add styles and scripts -->
+    <link href="css/styles.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>    
+    <script type="text/javascript" src="js/musicplayer.js"></script>
+</head>
+<body>
+
+    <div class="example">
+
+        <ul class="playlist">
+            <li data-cover="http://digital.akauk.com/utils/musicPlayer/data/epic.jpg" data-artist="John Doe"><a href="http://digital.akauk.com/utils/musicPlayer/data/epic.mp3">Epic</a></li>  
+            <li data-cover="http://digital.akauk.com/utils/musicPlayer/data/acousticbreeze.jpg" data-artist="Sam Doe">
+                <a href="http://digital.akauk.com/utils/musicPlayer/data/acousticbreeze.mp3">Acoustic Breeze</a>
+            </li>
+            <li data-cover="http://digital.akauk.com/utils/musicPlayer/data/dubstep.jpg" data-artist="Jane Doe"><a href="http://digital.akauk.com/utils/musicPlayer/data/dubstep.mp3"></a>Dubstep</li>
+        </ul>
+
+    </div>
+
+    <div class="example2">
+
+        <ul class="playlist">
+            <li data-cover="http://digital.akauk.com/utils/musicPlayer/data/acousticbreeze.jpg" data-artist="Sam Doe">
+                <a href="http://digital.akauk.com/utils/musicPlayer/data/acousticbreeze.mp3">Acoustic Breeze</a>
+            </li>
+            <li data-cover="http://digital.akauk.com/utils/musicPlayer/data/dubstep.jpg" data-artist="Jane Doe"><a href="http://digital.akauk.com/utils/musicPlayer/data/dubstep.mp3"></a>Dubstep</li>
+            
+        </ul>
+
+    </div>
+
+     <script>
+        $(".example").musicPlayer({
+            elements: ['artwork', 'information', 'controls', 'progress', 'time', 'volume'], // ==> This will display in  the order it is inserted
+            //elements: [ 'controls' , 'information', 'artwork', 'progress', 'time', 'volume' ],
+            //controlElements: ['backward', 'play', 'forward', 'stop'],
+            //timeElements: ['current', 'duration'],
+           //timeSeparator: " : ", // ==> Only used if two elements in timeElements option
+            //infoElements: [  'title', 'artist' ],  
+
+            //volume: 10,
+            //autoPlay: true,
+            //loop: true,
+         
+            onPlay: function() {
+               $('body').css('background', 'black');
+            },
+            onPause: function() {
+                $('body').css('background', 'green');
+            },
+            onStop: function() {
+                $('body').css('background', '#141942');
+            },
+            onFwd: function() {
+                $('body').css('background', 'white');
+            },
+            onRew: function() {
+                $('body').css('background', 'blue');
+            },
+            volumeChanged: function() {
+                $('body').css('background', 'red');
+            },
+            seeked: function() {
+               $('body').css('background', 'orange');
+            },
+            trackClicked: function() {
+               $('body').css('background', 'brown');
+            },
+            onMute: function() {
+               $('body').css('background', 'grey');
+            },
+
+
+        });
+
+    $(".example2").musicPlayer({
+         //volume: 10,
+         //elements: ['artwork', 'controls', 'progress', 'time', 'volume'],
+        //playerAbovePlaylist: false,
+        onLoad: function() {
+            //Add Audio player
+            plElem  = "<div class='pl'></div>";
+            $('.example2').find('.player').append(plElem);
+            // show playlist
+            $('.pl').click(function (e) {
+                e.preventDefault();
+
+                $('.example2').find('.playlist').toggleClass("hidden");
+            });
+        },
+
+   });
+
+
+    </script>
+
+   
+</body>
+</html>
+

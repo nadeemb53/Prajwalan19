@@ -1,0 +1,297 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+::-webkit-scrollbar-track
+	{
+		-webkit-box-shadow: inset 0 0 1px #7cc6a1;
+		background-color: #F5F5F5;
+		z-index: 1000;
+		border-radius: 0px;
+	}
+
+::-webkit-scrollbar
+	{
+		width: 0px;
+		background-color: #F5F5F5;
+		z-index: 1000;
+		
+	}
+
+::-webkit-scrollbar-thumb	
+	{
+		background-color: #000009;
+		border: 1px solid #000009;
+		border-radius: 2px;
+		z-index: 1000;
+	}
+.haeder, .mobNav{
+	display: none;
+}
+.logo{
+	position: fixed;
+    z-index: 200;
+    top: 100px;
+    left: 145px;
+    width: 120px;
+}
+a{
+	color: #7b7b7b;
+}
+.back{
+	z-index: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: #2b2b2b;
+	perspective:3000px;
+}
+.mobNav{
+	display: none;
+}
+#menu{
+	position: relative;
+	height:200px;
+	width:100%;
+	top:270px;
+	left: 40px;
+	transform:rotateY(5deg);
+}
+#menu li{
+	list-style-type: none;
+	display: block;
+	padding:7px 0px; 
+}
+.activeli{
+	color:#fff;
+}
+#menu a{
+	text-decoration: none;
+	letter-spacing: 3px;
+	font: 16px 'Exo',monospace;
+	font-weight: bold; 
+}
+#menu span{
+	font-size: 12px;
+}
+.hoveMenu a{
+	font-size: 12px;
+	transition: color .5s;
+}
+.hoveMenu a:hover{
+	color:#fff;
+	transition: color .2s;
+}
+#social{
+	width: 10%;
+	position: fixed;
+	top: 520px;
+	left: 25px;
+	transform:rotateY(5deg);
+}
+#social li{
+	list-style-type: none;
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	background-color: rgba(255,255,255,0.2);
+	margin:5px; 
+	border-radius: 50%;
+	font-size: 20px;
+	text-align: center;
+	transition:0.4s;
+}
+#social a{
+	color:#2b2b2b;
+	text-decoration: none; 
+}
+#social p{
+	font-size: 20px;
+	padding: 2px 0;
+}
+#social li:hover{
+	background-color: rgba(255,255,255,0.5);
+	box-shadow: 0px 0px 5px 1px rgba(255,255,255,0.5);
+	transition:0.3s;
+}
+.upabove{
+	z-index: 10;
+	width: 80%;
+	position: relative;
+	right:0px;
+	background-color: #212121;
+	transform:rotateY(0deg);
+}
+#home{
+	width: 100%;
+}
+.wall{
+	width: 100%;
+}
+.wall img{
+	width:100%;
+}
+.coverMob{
+		display: none;
+	}
+.coverMd{
+		display: block;
+	}
+.space{
+	width: 100%;
+	height: 35px;
+	background-color: #2b2b2b;
+}
+#songs{
+	width: 100%;
+	text-align: left;
+}
+#songs h1, #songs h4{
+	color:rgba(255, 255, 255, 0.78);
+	letter-spacing: 3px;
+	padding-top: 20px;
+}
+ul.playlist li{
+	width: 100%;
+	padding-top: 0;
+	
+}
+.playlistdiv{
+	display: inline-block;
+	width: 19%;
+}
+.playlist img{
+	width: 100%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom: solid white 2px;
+	
+}
+
+
+.playlist li{
+	display: inline-block;
+	width: 19%;
+	margin: auto;
+}
+.playlist .but{
+	margin: auto;
+	color: black;
+	font: 20px 'Verdana';
+	position: relative;
+	left: 85%;
+	top:230px;
+	
+}
+.playlist .down{
+	position: relative;
+	top: 0;
+}
+.playlist .downlnk{
+	position: relative;
+	top: 45px;
+}
+#lyrics{
+	width: 100%;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.78);
+	margin-top: -5px;
+}
+#lyrics h1, #lyrics h4{
+	padding-top: 20px;
+	letter-spacing: 3px;
+}
+#lyrics p{
+	font: 16px 'Open Sans',Arial;
+	text-align: center;
+	position: relative;
+	top: 30px;
+	letter-spacing: 1px;
+	padding-bottom: 30px;
+}
+#artists{
+	width: 100%;
+	background-color: #1e1e1e;
+	position: relative;
+	top: -10px;
+}
+.top{
+	padding-top: 20px;
+	letter-spacing: 3px;
+	text-align: center;
+	color:#fff;
+}
+.box{
+	width: 250px;
+	height: 250px;
+	box-shadow: 2px 2px 7px #afafaf, -2px -2px 7px #afafaf;
+	position: relative;
+	margin: 25px;
+	left: 130px;
+	display: inline-block;
+}
+.box div:first-child{
+	width: 100%;
+	height: 100%;
+}
+.box img{
+	width: 100%;
+}
+.name{
+	width:230px;
+	height:50px;
+	position: absolute;
+	left: 0px;
+	bottom:0px;
+	background-color: rgba(223, 223, 251, 0.89);
+	text-align: center;
+	border-radius: 3px;
+}
+.name h1{
+	font:20px 'Ubuntu',monospace;
+	line-height: 0;
+	position: relative;
+	top:-5px;
+}
+.name h4{
+	font:16px 'Josefin Sans',monospace;
+	position: relative;
+	top:-3px;
+}
+.p h1{
+	font-size: 20px;
+}
+.p1 h4{
+	font-size: 16px;
+}
+#mobNavsocial{
+	display: none;
+}
+.card{
+	width: 100%;
+	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+		border-top: 4px solid #F89321;
+		align-content: center;
+}
+.column{
+    float: left;
+    position: relative;
+    width: 47%;
+    margin: 5px;
+    left: 0;
+}
+.row::after{
+    content: " ";
+    clear: both;
+	margin-left: 0;
+	width: 100%;
+	display: table;
+}
+.image{
+	position: relative;
+	left: 95%;
+	top:30px;
+	
+}

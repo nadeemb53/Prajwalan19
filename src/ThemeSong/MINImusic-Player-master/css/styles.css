@@ -1,0 +1,218 @@
+/*
+    AUTHOR: Sam Johnson
+    MINIMusic Player 
+*/
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #141942;
+}
+
+/* HTML5 Audio player with playlist styles */
+.example, .example2 {
+    margin: 0px auto 0;
+    width: 100%;
+}
+
+.player {
+    background: #212121;
+    height: 220px;
+    position: relative;
+    width: 400px;
+    z-index: 2;
+    margin: auto;
+    box-shadow: 2px 2px 5px #777;
+}
+.title, .artist {
+    font-family: verdana;
+    left: 150px;
+    position: absolute;
+
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+.title {
+    color: #787878;
+    letter-spacing: 1px;
+    font-size: 14px;
+    top: 25px;
+}
+.artist {
+    color: #787878;
+    font-size: 12px;
+    top: 42px;
+}
+.pl {
+    background: url(../images/playlist.png) no-repeat;
+    cursor: pointer;
+    height: 40px;
+    left: 330px;
+    position: absolute;
+    top: 20px;
+    width: 39px;
+}
+.pl:hover {
+    top: 21px;
+}
+.cover {
+    border-radius: 5px 5px 5px 5px;
+    height: 94px;
+    left: 20px;
+    position: absolute;
+    top: 30px;
+    width: 94px;
+}
+.controls {
+    cursor: pointer;
+    position: absolute;
+    display: inline;
+    top: 73px;
+    left: 122px;
+}
+.controls .play, .controls .pause {
+    width: 60px;
+    height: 60px;
+    margin: 0 7px 0px 7px;
+}
+.controls .play, .controls .pause, .controls .rew, .controls .fwd, .controls .stop {
+   text-indent: -10000px;
+    border: none;
+    float: left;
+    padding: 10px;
+}
+.controls .rew, .controls .fwd, .controls .stop {
+    width: 50px;
+    height: 50px;
+    margin: 5px 5px 5px 5px;
+}
+.controls .play {
+    background: url(../images/play.png) no-repeat;
+}
+.controls .pause {
+    background: url(../images/pause.png) no-repeat;
+    display: none;
+}
+.controls .rew {
+    background: url(../images/rewind.png) no-repeat;
+}
+.controls .fwd {
+    background: url(../images/next.png) no-repeat;
+}
+.controls .stop {
+    background: url(../images/stop.png) no-repeat;
+}
+.hidden {
+    display: none;
+}
+.controls .visible {
+    display: block;
+}
+.volume {
+    height: 11px;
+    left: 230px;
+    position: absolute;
+    bottom: 12px;
+    width: 140px;
+}
+.mute  .volume-btn {
+    background: url(../images/volume-off.png) no-repeat;
+}
+.volume-btn {
+    background: url(../images/volume-up.png) no-repeat;
+    height: 20px;
+    width: 20px;
+    float: left;
+    position: relative;
+    top: -4px;
+}
+.volume-adjust {
+    height: 11px;
+    position: relative;
+    width: 80%;
+    background: rgba(255, 255, 255, 0.78);
+    float: right;
+}
+.volume-adjust  > div > div {
+    height: 11px;
+    background: #787878;
+}
+.progressbar
+{
+    background-color: #787878;
+    cursor: pointer;
+    z-index: 1;
+    right: 6.875em; /* 110 */
+     height: 15px;
+    left: 0px;
+    position: absolute;
+    width: 90%;
+    top: 160px;
+    margin: 0px 5%;
+}
+.novolume .progressbar
+{
+    right: 4.375em; /* 70 */
+}
+.progressbar div
+{
+    width: 0%;
+    height: 15px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.bar-loaded
+{
+    background-color: rgba(255, 255, 255, 0.4);
+    z-index: 1;
+}
+.bar-played
+{
+    background: #787878;
+    z-index: 2;
+}
+.timeHolder {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    bottom: 10px;
+    position: absolute;
+    margin: 0px 5%;
+    width: 90%;
+}
+.time-current, .time-duration, .time-separator {
+    color: #787878;
+    font-size: 14px;
+    font-weight: bold;
+    float: left;
+}
+.volume .ui-slider-handle {
+    background: url("../images/spr.png") no-repeat scroll -201px -188px #787878;
+    height: 13px;
+    width: 13px;
+}
+.playlist {
+    list-style-type: none;
+    margin: -10px 0 0 2px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    margin: 0px;
+}
+.playlist li {
+    color: rgba(255, 255, 255, 0.78);
+    cursor: pointer;
+    margin: 0 0 5px 15px;
+}
+.playlist li > a {
+   color: rgba(255, 255, 255, 0.78);
+   text-decoration: none; 
+}
+.playlist li.active {
+    font-weight: bold;
+}
