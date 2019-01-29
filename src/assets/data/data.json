@@ -6,16 +6,6 @@
       "sessions": [{
         "name": "Augmented Reality",
         "pic": "/assets/img/feed/augreal.jpeg",
-<<<<<<< HEAD
-        "location": "New CCC building, Yeshwantrao College of Engineering, Nagpur",
-        "date":"12-01-2019",
-        "description":"The technive season has come back, Prajwalan'19 presents two day Masterclass on Augmented Reality for the first time in Nagpur. This weekend upgrade yourself with the upcoming technology on Augmented Reality. Come and work on Unity Software and develop your own Android app. How to get started? Here is the opportunity for you to learn the basics of the software, which will help you to get acquainted with the software, this software is also used for game development. Get certified with the patronage of Digital India, Make in India and UNESCO. Grab the opportunity!",
-        "speakerNames": ["Nadeem Bhati"],
-        "timeStart": "10:00 am",
-        "timeEnd": "3:00 pm",
-        "contact":"Prachi Thakur:- 8208521288 \nVaishnav Vaidya:- 7709635682 \nKiran Sakhare:- 8669350992",
-        "tracks": ["Ionic"],
-=======
         "location": "Location: New CCC building, YCCE, Nagpur",
         "date":"Date: 01-02-2019",
         "description":"The technive season has come back, Prajwalan'19 presents two day Masterclass on Augmented Reality for the first time in Nagpur. This weekend upgrade yourself with the upcoming technology on Augmented Reality. Come and work on Unity Software and develop your own Android app. How to get started? Here is the opportunity for you to learn the basics of the software, which will help you to get acquainted with the software, this software is also used for game development. Get certified with the patronage of Digital India, Make in India and UNESCO. Grab the opportunity!",
@@ -24,7 +14,6 @@
         "timeEnd": "3 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nVaishnav Vaidya 7709635682 \nKiran Sakhare 8669350992",
         "tracks": ["angular"],
->>>>>>> 74183ef06b117597f9be346e63a1ffeb54fec4d8
         "id": "1"
       }]
     },{
@@ -35,19 +24,11 @@
         "location": "Location: Mechanical Workshop, GCoE, Amravati",
         "date":"Date: 27-01-2019",
         "description":"The technive season has came back, in its most newfangled version, PRAJWALAN'19 presents VIRTUAL REALITY Workshop under the patronage of Make In India, Digital India and UNESCO.Virtual reality is an artificial environment that is created with software and presented to the user in such a way that the user suspends belief and accepts it as a real environment. On a computer, virtual reality is primarily experienced through two of the five senses: sight and sound. Here is the opportunity for you to learn about the VIRTUAL REALITY. Grab the opportunity! NOTE- Partcipants will get certified with Digital India,Make in India,UNESCO & GCoEA collaboration. NOTE- You have to get registered before the day of Workshop. ",
-<<<<<<< HEAD
-        "speakerNames": ["Nadeem Bhati"],
-        "timeStart": "9:30 am",
-        "timeEnd": "9:45 am",
-        "contact":"Prachi Thakur:- 8208521288 \nKiran Sakhare:- 8669350992 \nVaishnav Vaidya:- 7709635682",
-        "tracks": ["Ionic"],
-=======
         "speakerNames": ["Prof.D.V.Shirbhate"],
         "timeStart": "Time: 10 am",
         "timeEnd": "5 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nKiran Sakhare 8669350992 \nVaishnav Vaidya 7709635682",
         "tracks": ["communication"],
->>>>>>> 74183ef06b117597f9be346e63a1ffeb54fec4d8
         "id": "2"
       }]
     },{
@@ -651,7 +632,7 @@
       "post":"Convenor"
     },{
       "name":"Apurva Bedre",
-      "profilePic":"",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-support/",
       "post":"Convenor"
     },{
       "name":"Shreyash Chavda ",
@@ -667,7 +648,7 @@
       "post":"Co-Convenor"
     },{
       "name":"Radhika Patharkar",
-      "profilePic":"",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/radhika.jpg",
       "post":"Co-Convenor"
     }],
     "id": "3"
@@ -928,17 +909,10 @@
 
   "feed":[
   { 
-<<<<<<< HEAD
-    "update":"Bandey",
-    "desc":"",
-    "picture":"/assets/img/feed/bandey.jpeg"
-  },{
-=======
       "update": "Prajwalan Musical \"Bandey\" ",
       "desc": "\"Prajwalan Theme song\" releasing on 30Jan, venue : Electonic Department, time : 5.00 pm",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/bandey.jpg"
   },{ 
->>>>>>> 74183ef06b117597f9be346e63a1ffeb54fec4d8
     "update": "Augmented Reality",
     "desc": "Augmented reality workshop is scheduled to be conducted on 1st and 2nd Feb'19",
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/augreal.jpeg"

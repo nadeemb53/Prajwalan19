@@ -40,7 +40,7 @@
     "cordova-ios": "^4.5.5",
     "cordova-plugin-appavailability": "0.4.2",
     "cordova-plugin-apprate": "^1.4.0",
-    "cordova-plugin-calendar": "^5.1.4",
+    "cordova-plugin-calendar": "5.1.4",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-dialogs": "^2.0.1",
     "cordova-plugin-globalization": "^1.11.0",
