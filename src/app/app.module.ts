@@ -12,6 +12,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
+import { AppAvailability } from '@ionic-native/app-availability/ngx';
+import { Calendar } from '@ionic-native/calendar/ngx';
 
 @NgModule({
   imports: [
@@ -25,7 +27,7 @@ import { environment } from '../environments/environment';
     })
   ],
   declarations: [AppComponent],
-  providers: [InAppBrowser, SplashScreen, StatusBar, OneSignal, AppRate],
+  providers: [InAppBrowser, SplashScreen, StatusBar, OneSignal, AppRate, AppAvailability, Calendar],
   bootstrap: [AppComponent]
 })
 export class AppModule {}

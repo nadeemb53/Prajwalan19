@@ -1,10 +1,12 @@
 import { Component, ViewChild, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { AlertController, IonList, LoadingController, ModalController, ToastController } from '@ionic/angular';
+import { InAppBrowser } from '@ionic-native/in-app-browser/ngx';
 
 import { ScheduleFilterPage } from '../schedule-filter/schedule-filter';
 import { ConferenceData } from '../../providers/conference-data';
 import { UserData } from '../../providers/user-data';
+import { AppAvailability } from '@ionic-native/app-availability/ngx';
 
 @Component({
   selector: 'page-schedule',
@@ -25,6 +27,8 @@ export class SchedulePage implements OnInit {
 
   constructor(
     public alertCtrl: AlertController,
+    public IAB: InAppBrowser,
+    public AppAvail: AppAvailability,
     public confData: ConferenceData,
     public loadingCtrl: LoadingController,
     public modalCtrl: ModalController,
@@ -76,6 +80,7 @@ export class SchedulePage implements OnInit {
       // create an alert instance
       const alert = await this.alertCtrl.create({
         header: 'Favorite Added',
+        cssClass: 'custom-alert-danger',
         buttons: [{
           text: 'OK',
           handler: () => {
@@ -118,6 +123,41 @@ export class SchedulePage implements OnInit {
     });
     // now present the alert on top of all other content
     await alert.present();
+  }
+
+  launchExternalApp(iosSchemaName: string, androidPackageName: string, appUrl: string, httpUrl: string, username: string) {
+    let app: string;
+      app = androidPackageName;
+    this.AppAvail.check(app).then(
+      () => { // success callback
+       this.IAB.create(appUrl + username, '_system');
+       console.log('app opened');
+      },
+      (data) => { // error callback
+
+      this.IAB.create(httpUrl + username, '_system');
+       console.log('ERROR');
+       console.log(data);
+      }
+    );
+  }
+
+  openInstagram(username: string) {
+    this.launchExternalApp('instagram://', 'com.instagram.android', 'instagram://user?username=', 'https://www.instagram.com/', username);
+  }
+
+  openTwitter(username: string) {
+    this.launchExternalApp('twitter://', 'com.twitter.android', 'twitter://user?screen_name=', 'https://twitter.com/', username);
+  }
+
+  openFacebook(username: string) {
+    this.launchExternalApp('fb://', 'com.facebook.orca', 'fb://page/', 'https://www.facebook.com/', username);
+  }
+
+  openwhatsapp(number: string) {
+
+    this.launchExternalApp('whatsapp://', 'com.whatsapp', 'whatsapp://send?phone=', 'https://wa.me/', number);
+
   }
 
   async openSocial(network: string, fab: HTMLIonFabElement) {

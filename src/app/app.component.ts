@@ -40,6 +40,9 @@ export class AppComponent implements OnInit {
   ];
   loggedIn = false;
 
+  public counter = 0;
+  subscription: any;
+
   constructor(
     private events: Events,
     private menu: MenuController,
@@ -85,6 +88,16 @@ export class AppComponent implements OnInit {
     this.checkLoginStatus();
     this.listenForLoginEvents();
   }
+
+  /*ionViewDidEnter() {
+    this.subscription = this.platform.backButton.subscribe(() => {
+      this.router.navigateByUrl('/tabs/home');
+  });
+  }
+
+  ionViewWillLeave() {
+    this.subscription.unsubscribe();
+  }*/
 
   initializeApp() {
     this.platform.ready().then(() => {
@@ -152,6 +165,10 @@ export class AppComponent implements OnInit {
 
   openDevelopers() {
     this.router.navigateByUrl('/developers');
+  }
+
+  openMusicplayer() {
+    this.router.navigateByUrl('/musicplayer');
   }
 
   openAboutus() {

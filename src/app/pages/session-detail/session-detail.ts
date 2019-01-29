@@ -3,6 +3,7 @@ import { Component } from '@angular/core';
 import { ConferenceData } from '../../providers/conference-data';
 import { ActivatedRoute } from '@angular/router';
 import { UserData } from '../../providers/user-data';
+import { Calendar } from '@ionic-native/calendar/ngx';
 
 @Component({
   selector: 'page-session-detail',
@@ -16,6 +17,7 @@ export class SessionDetailPage {
   constructor(
     private dataProvider: ConferenceData,
     private userProvider: UserData,
+    private calendar: Calendar,
     private route: ActivatedRoute
   ) {}
   sessionClick(item: string) {
@@ -58,4 +60,11 @@ export class SessionDetailPage {
   ionViewDidEnter() {
     this.defaultHref = `/app/tabs/home`;
   }
+
+  openCalendar() {
+    this.calendar.openCalendar(new Date()).then(
+        (msg) => { console.log('clicked'); },
+        (err) => { console.log(err); }
+    );
+}
 }
