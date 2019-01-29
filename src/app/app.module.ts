@@ -13,6 +13,7 @@ import { AppComponent } from './app.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { AppAvailability } from '@ionic-native/app-availability/ngx';
+import { Calendar } from '@ionic-native/calendar/ngx';
 
 @NgModule({
   imports: [
@@ -26,7 +27,7 @@ import { AppAvailability } from '@ionic-native/app-availability/ngx';
     })
   ],
   declarations: [AppComponent],
-  providers: [InAppBrowser, SplashScreen, StatusBar, OneSignal, AppRate, AppAvailability],
+  providers: [InAppBrowser, SplashScreen, StatusBar, OneSignal, AppRate, AppAvailability, Calendar],
   bootstrap: [AppComponent]
 })
 export class AppModule {}
