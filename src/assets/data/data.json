@@ -878,6 +878,10 @@
 
   "feed":[
   { 
+    "update":"Bandey",
+    "desc":"",
+    "picture":"/assets/img/feed/bandey.jpeg"
+  },{
     "update": "Augmented Reality",
     "desc": "MATLAB workshop is scheduled to be conducted on 1st and 2nd Feb'19",
     "picture":"/assets/img/feed/augreal.jpeg"
