@@ -26,20 +26,21 @@
     <p>{{session.description}}</p>
   
     <ion-text color="medium">
-      {{session.date}}
+      Date: {{session.date}}
       <br/>
-      {{session.timeStart}} &ndash; {{session.timeEnd}}
+      Time: {{session.timeStart}} &ndash; {{session.timeEnd}}
       <br /> 
-      {{session.location}}
+      Location: {{session.location}}
       <br/>
-     <pre>{{session.contact}}</pre>
+     <pre>Contact: {{session.contact}}</pre>
       
 
     </ion-text>
   </div>
 
   <ion-list>
-    <ion-item (click)="sessionClick('add to calendar')" button>
+    <!--<ion-item (click)="sessionClick('add to calendar')" button>-->
+      <ion-item (click)="openCalendar()" button>
       <ion-label color="primary">Add to Calendar</ion-label>
     </ion-item>
     <ion-item (click)="sessionClick('leave feedback')" button>

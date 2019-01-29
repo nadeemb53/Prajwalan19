@@ -80,6 +80,7 @@ export class SchedulePage implements OnInit {
       // create an alert instance
       const alert = await this.alertCtrl.create({
         header: 'Favorite Added',
+        cssClass: 'custom-alert-danger',
         buttons: [{
           text: 'OK',
           handler: () => {
