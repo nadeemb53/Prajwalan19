@@ -12,4 +12,8 @@ export class MusicplayerPage implements OnInit {
   ngOnInit() {
   }
 
+  onLoad(): void {
+    // do something
+  }
+
 }
