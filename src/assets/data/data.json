@@ -6,11 +6,11 @@
       "sessions": [{
         "name": "Augmented Reality",
         "pic": "/assets/img/feed/augreal.jpeg",
-        "location": "Location: New CCC building, YCCE, Nagpur",
-        "date":"Date: 01-02-2019",
+        "location": " New CCC building, YCCE, Nagpur",
+        "date":" 01-02-2019",
         "description":"The technive season has come back, Prajwalan'19 presents two day Masterclass on Augmented Reality for the first time in Nagpur. This weekend upgrade yourself with the upcoming technology on Augmented Reality. Come and work on Unity Software and develop your own Android app. How to get started? Here is the opportunity for you to learn the basics of the software, which will help you to get acquainted with the software, this software is also used for game development. Get certified with the patronage of Digital India, Make in India and UNESCO. Grab the opportunity!",
         "speakerNames": ["Prof.Anil kumar Alla"],
-        "timeStart": "Time: 10 am",
+        "timeStart": " 10 am",
         "timeEnd": "3 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nVaishnav Vaidya 7709635682 \nKiran Sakhare 8669350992",
         "tracks": ["angular"],
@@ -21,11 +21,11 @@
       "sessions": [{
         "name": "Virtual Reality",
         "pic":"/assets/img/feed/vr.jpeg",
-        "location": "Location: Mechanical Workshop, GCoE, Amravati",
-        "date":"Date: 27-01-2019",
+        "location": " Mechanical Workshop, GCoE, Amravati",
+        "date":" 27-01-2019",
         "description":"The technive season has came back, in its most newfangled version, PRAJWALAN'19 presents VIRTUAL REALITY Workshop under the patronage of Make In India, Digital India and UNESCO.Virtual reality is an artificial environment that is created with software and presented to the user in such a way that the user suspends belief and accepts it as a real environment. On a computer, virtual reality is primarily experienced through two of the five senses: sight and sound. Here is the opportunity for you to learn about the VIRTUAL REALITY. Grab the opportunity! NOTE- Partcipants will get certified with Digital India,Make in India,UNESCO & GCoEA collaboration. NOTE- You have to get registered before the day of Workshop. ",
         "speakerNames": ["Prof.D.V.Shirbhate"],
-        "timeStart": "Time: 10 am",
+        "timeStart": " 10 am",
         "timeEnd": "5 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nKiran Sakhare 8669350992 \nVaishnav Vaidya 7709635682",
         "tracks": ["communication"],
@@ -36,11 +36,11 @@
       "sessions": [{
         "name": "Matlab",
         "pic": "/assets/img/feed/matlab.jpg",
-        "location": "Locatoion: CS department",
-        "date":"Date: 12-01-2019",
+        "location": " CS department",
+        "date":" 12-01-2019",
         "description": "The technive season has came back, in its most newfangled version, Prajwalan'19 presents MATLAB Workshop under the patronage of Make In India and Digital India. MATLAB has wide scope and is essential for all the branches. MATLAB is used to perform virtual simulation, graphical output, complex mathematical calculations, image processing etc. But before all the advance level, how to get started? Here is the opportunity for you to learn the basics of the software, which will help you to get acquainted with the MATLAB software. Grab the opportunity!",
         "speakerNames": ["Nadeem Bhati"],
-        "timeStart": "Time: 9:30 am",
+        "timeStart": " 9:30 am",
         "timeEnd": "4 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nKiran Sakhare 8669350992 \nVaishnav Vaidya 7709635682",
         "tracks": ["Ionic"],
@@ -593,7 +593,7 @@
     "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
     "cards":[{
       "name": "Dr.R.B.Sharma",
-      "profilePic": "/assets/img/Events icon/angrybirds.png",
+      "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/incharge.jpeg",
       "post": "Faculty Incharge"
     }],
     "id": "1"
