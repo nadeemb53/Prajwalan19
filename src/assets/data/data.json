@@ -908,10 +908,18 @@
   }],
 
   "feed":[
-  { 
-      "update": "Prajwalan Musical \"Bandey\" ",
-      "desc": "\"Prajwalan Theme song\" releasing on 30Jan, venue : Electonic Department, time : 5.00 pm",
-      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/bandey.jpg"
+    { 
+      "update": "Media Partner \"RCN\" ",
+      "desc": "Prajwalan made partnership with \"RCN Digital\" ",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/RCN.jpeg"
+    },{ 
+      "update": "Media Partner \"Deshonnati\" ",
+      "desc": "Prajwalan made partnership with \"Deshonnati\" ",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/deshonnati.jpeg"
+    },{ 
+    "update": "Prajwalan Musical \"Bandey\" ",
+    "desc": "\"Prajwalan Theme song\" releasing on 30Jan, venue : Electonic Department, time : 5.00 pm",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/bandey.jpg"
   },{ 
     "update": "Augmented Reality",
     "desc": "Augmented reality workshop is scheduled to be conducted on 1st and 2nd Feb'19",

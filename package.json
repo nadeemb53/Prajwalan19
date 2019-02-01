@@ -36,8 +36,7 @@
     "@ionic-native/status-bar": "^5.0.0-beta.15",
     "@ionic/angular": "4.0.0-beta.19",
     "@ionic/storage": "^2.1.3",
-    "cordova-android": "7.1.4",
-    "cordova-ios": "^4.5.5",
+    "cordova-ios": "4.5.5",
     "cordova-plugin-appavailability": "0.4.2",
     "cordova-plugin-apprate": "^1.4.0",
     "cordova-plugin-calendar": "5.1.4",
@@ -88,10 +87,7 @@
     "typescript": "~3.1.6"
   },
   "cordova": {
-    "platforms": [
-      "ios",
-      "android"
-    ],
+    "platforms": [],
     "plugins": {
       "cordova-plugin-device": {},
       "cordova-plugin-inappbrowser": {},
