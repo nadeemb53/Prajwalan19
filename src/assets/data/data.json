@@ -582,7 +582,7 @@
     "lng": 77.756402, 
     "center": true
   },{
-    "name": "Vollyball Ground \nEvents: ",
+    "name": "Volleyball Ground \nEvents: ",
     "lat": 20.957847, 
     "lng": 77.756900, 
     "center": true
@@ -603,7 +603,7 @@
     "cards": [{
       "name":"Rohit Jamnare",
       "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG_20180221_131323.jpg",
-      "post": "Convenor"
+      "post": "Convener"
     }, {
       "name": "Suved Ghanmode",
       "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/suved.jpg",
@@ -618,7 +618,7 @@
       "post":"Overall Co-Convener"
     
     },{
-      "name": "Kshitija Maye",
+      "name": "Kshitija Mayee",
       "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/k.jpg",
       "post": "Overall Co-Convener"
     }],
@@ -629,27 +629,27 @@
     "cards":[{
       "name":"Ameya Deshpande",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-support/ameya.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name":"Apurva Bedre",
       "profilePic":"",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name":"Shreyash Chavda ",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/SAVE_20190113_195726.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name":"Khushal Khotale",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name":"Ganesh Dutare",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG20181201144329.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name":"Radhika Patharkar",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "3"
   },{
@@ -658,15 +658,15 @@
     "cards":[{
       "name":"Eshwari Shinhwekar",
       "profilePic":"",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name":"Ashwin Ramidhami",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-sponsor/ashwin.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name":"Pratik Dhanuka",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "4"
   },{
@@ -675,19 +675,19 @@
     "cards":[{
       "name": "Bhushan Agrawal",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/event-sponsorship/bhushan.jpeg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Subodh Wasekar",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Shruti Tarale",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WhatsApp_Image.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
         "name": "Sushmita Khadse",
         "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20181216-WA0047.jpg",
-        "post":"Co-Convenor"
+        "post":"Co-Convener"
       }],
 
     "id": "5"
@@ -698,15 +698,15 @@
       
         "name": "Prachi Thakur",
         "profilePic":"",
-        "post":"Convenor"
+        "post":"Convener"
     },{
       "name": "Kiran Sakhare",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WhatsApp_Image1.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Vaishnav Vaidya",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Outreach/vaish.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "6"
   },{
@@ -715,27 +715,27 @@
     "cards":[{
       "name": "Harshada Ingole",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190109-WA0042.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Shyam Kulkarni",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190119-WA0020.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Palak Katira",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190119-WA0017.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Ashlesh Waghmare",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/975554ce5eadc1b20c7bf6430f80ad99.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Khushal Sadafale",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG_20190119_211228.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Deepam Chandak",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/a.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     }],
     "id": "7"
@@ -745,32 +745,32 @@
     "cards":[{
       "name": "Rohit Balage",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/rohitb.jpg",
-      "post":"Convenor"
+      "post":"Convener"
 
     },{
       "name": "Sumit Kumar Jangir",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/sumit.jpg",
-      "post":"Convenor"
+      "post":"Convener"
 
     },{
       "name": "Nadeem Bhati",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/me_pic.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     },{
       "name": "Saurish Darodkar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/saurish.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     },{
       "name": "Charu Vidhani",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/charu1.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     },{
       "name": "Pooja Karangale",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/poojak.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     }],
     "id": "8"
@@ -780,27 +780,27 @@
     "cards":[{
       "name": "Mohit Lalwani",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/mohit.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Pradeep Nokawal",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/pradeep.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Yash Bhandarwar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/yash.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Susmit Shegokar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/susmit1.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Aniket Itankar",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Pallavi Meshram",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Pallavi_Meshram.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }
     ],
     "id": "10"
@@ -810,23 +810,23 @@
     "cards":[{
       "name": "Ankit Warjurkar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/networking/ankit.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Namrata Gajbhiye",
       "profilePic":"",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Chetan Sharma",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/FB_IMG_1546878165405.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Moiz Essaji",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG_20190108_174412.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Pragati Bub",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/networking/pragati.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "11"
   },{
@@ -835,23 +835,23 @@
     "cards":[{
       "name": "Lankesh Purekar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Infra/lankesh.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Sharayu Dahake",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Infra/sharayu.jpeg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Sangal Sahare",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Infra/sanghal.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Chetan Kshirsagar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/chetan.png",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Kajal Agrawal",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190120-WA0001.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "12"
   },{
@@ -860,15 +860,15 @@
     "cards":[{
       "name": "Pratiksha Parashar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/audit/pratiksha.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Niket Lekariya",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/audit/niket.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Abhishek Selokar",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "13"
   },{
@@ -877,15 +877,15 @@
     "cards":[{
       "name": "Shweta Joshi",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190124-WA0014.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Akansha Baheti",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20180107-WA0239.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Kartik Ingale",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "14"
   },{
@@ -894,15 +894,15 @@
     "cards":[{
       "name": "Padmini Shinde",
       "profilePic":"",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Sarthak Shrivastav",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Prathmesh Khuje",
-      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/publication/Prajwalan_Publication_Co-convenor_Prathamesh_Khuje.jpg",
-      "post":"Co-Convenor"
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/publication/Prajwalan_Publication_Co-Convener_Prathamesh_Khuje.jpg",
+      "post":"Co-Convener"
     }],
     "id": "15"
   }],
