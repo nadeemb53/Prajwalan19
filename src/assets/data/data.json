@@ -6,11 +6,11 @@
       "sessions": [{
         "name": "Augmented Reality",
         "pic": "/assets/img/feed/augreal.jpeg",
-        "location": "Location: New CCC building, YCCE, Nagpur",
-        "date":"Date: 01-02-2019",
+        "location": " New CCC building, YCCE, Nagpur",
+        "date":" 01-02-2019",
         "description":"The technive season has come back, Prajwalan'19 presents two day Masterclass on Augmented Reality for the first time in Nagpur. This weekend upgrade yourself with the upcoming technology on Augmented Reality. Come and work on Unity Software and develop your own Android app. How to get started? Here is the opportunity for you to learn the basics of the software, which will help you to get acquainted with the software, this software is also used for game development. Get certified with the patronage of Digital India, Make in India and UNESCO. Grab the opportunity!",
         "speakerNames": ["Prof.Anil kumar Alla"],
-        "timeStart": "Time: 10 am",
+        "timeStart": " 10 am",
         "timeEnd": "3 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nVaishnav Vaidya 7709635682 \nKiran Sakhare 8669350992",
         "tracks": ["angular"],
@@ -21,11 +21,11 @@
       "sessions": [{
         "name": "Virtual Reality",
         "pic":"/assets/img/feed/vr.jpeg",
-        "location": "Location: Mechanical Workshop, GCoE, Amravati",
-        "date":"Date: 27-01-2019",
+        "location": " Mechanical Workshop, GCoE, Amravati",
+        "date":" 27-01-2019",
         "description":"The technive season has came back, in its most newfangled version, PRAJWALAN'19 presents VIRTUAL REALITY Workshop under the patronage of Make In India, Digital India and UNESCO.Virtual reality is an artificial environment that is created with software and presented to the user in such a way that the user suspends belief and accepts it as a real environment. On a computer, virtual reality is primarily experienced through two of the five senses: sight and sound. Here is the opportunity for you to learn about the VIRTUAL REALITY. Grab the opportunity! NOTE- Partcipants will get certified with Digital India,Make in India,UNESCO & GCoEA collaboration. NOTE- You have to get registered before the day of Workshop. ",
         "speakerNames": ["Prof.D.V.Shirbhate"],
-        "timeStart": "Time: 10 am",
+        "timeStart": " 10 am",
         "timeEnd": "5 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nKiran Sakhare 8669350992 \nVaishnav Vaidya 7709635682",
         "tracks": ["communication"],
@@ -36,11 +36,11 @@
       "sessions": [{
         "name": "Matlab",
         "pic": "/assets/img/feed/matlab.jpg",
-        "location": "Locatoion: CS department",
-        "date":"Date: 12-01-2019",
+        "location": " CS department",
+        "date":" 12-01-2019",
         "description": "The technive season has came back, in its most newfangled version, Prajwalan'19 presents MATLAB Workshop under the patronage of Make In India and Digital India. MATLAB has wide scope and is essential for all the branches. MATLAB is used to perform virtual simulation, graphical output, complex mathematical calculations, image processing etc. But before all the advance level, how to get started? Here is the opportunity for you to learn the basics of the software, which will help you to get acquainted with the MATLAB software. Grab the opportunity!",
         "speakerNames": ["Nadeem Bhati"],
-        "timeStart": "Time: 9:30 am",
+        "timeStart": " 9:30 am",
         "timeEnd": "4 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nKiran Sakhare 8669350992 \nVaishnav Vaidya 7709635682",
         "tracks": ["Ionic"],
@@ -582,7 +582,7 @@
     "lng": 77.756402, 
     "center": true
   },{
-    "name": "Vollyball Ground \nEvents: ",
+    "name": "Volleyball Ground \nEvents: ",
     "lat": 20.957847, 
     "lng": 77.756900, 
     "center": true
@@ -593,7 +593,7 @@
     "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
     "cards":[{
       "name": "Dr.R.B.Sharma",
-      "profilePic": "/assets/img/Events icon/angrybirds.png",
+      "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/incharge.jpeg",
       "post": "Faculty Incharge"
     }],
     "id": "1"
@@ -603,7 +603,7 @@
     "cards": [{
       "name":"Rohit Jamnare",
       "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG_20180221_131323.jpg",
-      "post": "Convenor"
+      "post": "Convener"
     }, {
       "name": "Suved Ghanmode",
       "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/suved.jpg",
@@ -618,7 +618,7 @@
       "post":"Overall Co-Convener"
     
     },{
-      "name": "Kshitija Maye",
+      "name": "Kshitija Mayee",
       "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/k.jpg",
       "post": "Overall Co-Convener"
     }],
@@ -629,44 +629,44 @@
     "cards":[{
       "name":"Ameya Deshpande",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-support/ameya.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name":"Apurva Bedre",
-      "profilePic":"",
-      "post":"Convenor"
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-support/apurva.png",
+      "post":"Convener"
     },{
       "name":"Shreyash Chavda ",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/SAVE_20190113_195726.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
-      "name":"Khushal Khotale",
-      "profilePic":"",
-      "post":"Co-Convenor"
+      "name":"Kushal Kothale",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-support/kushal.jpeg",
+      "post":"Co-Convener"
     },{
       "name":"Ganesh Dutare",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG20181201144329.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name":"Radhika Patharkar",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "3"
   },{
     "committee": "Core Sponsorship",
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
     "cards":[{
-      "name":"Eshwari Shinhwekar",
+      "name":"Eshwaree Shingwekar",
       "profilePic":"",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name":"Ashwin Ramidhami",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-sponsor/ashwin.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name":"Pratik Dhanuka",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "4"
   },{
@@ -675,19 +675,19 @@
     "cards":[{
       "name": "Bhushan Agrawal",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/event-sponsorship/bhushan.jpeg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Subodh Wasekar",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Shruti Tarale",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WhatsApp_Image.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
         "name": "Sushmita Khadse",
         "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20181216-WA0047.jpg",
-        "post":"Co-Convenor"
+        "post":"Co-Convener"
       }],
 
     "id": "5"
@@ -698,15 +698,15 @@
       
         "name": "Prachi Thakur",
         "profilePic":"",
-        "post":"Convenor"
+        "post":"Convener"
     },{
       "name": "Kiran Sakhare",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WhatsApp_Image1.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Vaishnav Vaidya",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Outreach/vaish.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "6"
   },{
@@ -715,27 +715,27 @@
     "cards":[{
       "name": "Harshada Ingole",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190109-WA0042.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Shyam Kulkarni",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190119-WA0020.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Palak Katira",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190119-WA0017.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Ashlesh Waghmare",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/975554ce5eadc1b20c7bf6430f80ad99.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Khushal Sadafale",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG_20190119_211228.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Deepam Chandak",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/a.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     }],
     "id": "7"
@@ -745,32 +745,32 @@
     "cards":[{
       "name": "Rohit Balage",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/rohitb.jpg",
-      "post":"Convenor"
+      "post":"Convener"
 
     },{
       "name": "Sumit Kumar Jangir",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/sumit.jpg",
-      "post":"Convenor"
+      "post":"Convener"
 
     },{
       "name": "Nadeem Bhati",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/me_pic.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     },{
       "name": "Saurish Darodkar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/saurish.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     },{
       "name": "Charu Vidhani",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/charu1.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     },{
       "name": "Pooja Karangale",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/WebApp/poojak.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
 
     }],
     "id": "8"
@@ -780,27 +780,27 @@
     "cards":[{
       "name": "Mohit Lalwani",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/mohit.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
-      "name": "Pradeep Nokawal",
-      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/pradeep.jpg",
-      "post":"Convenor"
+      "name": "Pradeep Nokwal",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/pradeep.jpeg",
+      "post":"Convener"
     },{
       "name": "Yash Bhandarwar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/yash.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Susmit Shegokar",
-      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/susmit1.jpg",
-      "post":"Co-Convenor"
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/susmit1.jpg",
+      "post":"Co-Convener"
     },{
       "name": "Aniket Itankar",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Pallavi Meshram",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Pallavi_Meshram.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }
     ],
     "id": "10"
@@ -810,23 +810,23 @@
     "cards":[{
       "name": "Ankit Warjurkar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/networking/ankit.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Namrata Gajbhiye",
       "profilePic":"",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Chetan Sharma",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/FB_IMG_1546878165405.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Moiz Essaji",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG_20190108_174412.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Pragati Bub",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/networking/pragati.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "11"
   },{
@@ -835,23 +835,23 @@
     "cards":[{
       "name": "Lankesh Purekar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Infra/lankesh.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Sharayu Dahake",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Infra/sharayu.jpeg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Sangal Sahare",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/Infra/sanghal.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Chetan Kshirsagar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/chetan.png",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Kajal Agrawal",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190120-WA0001.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "12"
   },{
@@ -860,15 +860,15 @@
     "cards":[{
       "name": "Pratiksha Parashar",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/audit/pratiksha.jpg",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Niket Lekariya",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/audit/niket.jpeg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Abhishek Selokar",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "13"
   },{
@@ -876,16 +876,16 @@
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
     "cards":[{
       "name": "Shweta Joshi",
-      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/alumni/IMG-20190124-WA0014.jpg",
-      "post":"Convenor"
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20190124-WA0014.jpg",
+      "post":"Convener"
     },{
       "name": "Akansha Baheti",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/IMG-20180107-WA0239.jpg",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Kartik Ingale",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     }],
     "id": "14"
   },{
@@ -894,24 +894,36 @@
     "cards":[{
       "name": "Padmini Shinde",
       "profilePic":"",
-      "post":"Convenor"
+      "post":"Convener"
     },{
       "name": "Sarthak Shrivastav",
       "profilePic":"",
-      "post":"Co-Convenor"
+      "post":"Co-Convener"
     },{
       "name": "Prathmesh Khuje",
-      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/publication/Prajwalan_Publication_Co-convenor_Prathamesh_Khuje.jpg",
-      "post":"Co-Convenor"
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/publication/Prajwalan_Publication_Co-Convener_Prathamesh_Khuje.jpg",
+      "post":"Co-Convener"
     }],
     "id": "15"
   }],
 
   "feed":[
-  { 
-      "update": "Prajwalan Musical \"Bandey\" ",
-      "desc": "\"Prajwalan Theme song\" releasing on 30Jan, venue : Electonic Department, time : 5.00 pm",
-      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/bandey.jpg"
+    { 
+      "update": "My Idea My Event Announced!",
+      "desc": "Submit your ideas and become convener of your own event.",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/myidea.jpeg"
+    },{ 
+      "update": "Media Partner \"RCN\" ",
+      "desc": "Prajwalan made partnership with \"RCN Digital\" ",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/RCN.jpeg"
+    },{ 
+      "update": "Media Partner \"Deshonnati\" ",
+      "desc": "Prajwalan made partnership with \"Deshonnati\" ",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/deshonnati.jpeg"
+    },{ 
+    "update": "Prajwalan Musical \"Bandey\" ",
+    "desc": "\"Prajwalan Theme song\" releasing on 30Jan, venue : Electonic Department, time : 5.00 pm",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/bandey.jpg"
   },{ 
     "update": "Augmented Reality",
     "desc": "Augmented reality workshop is scheduled to be conducted on 1st and 2nd Feb'19",
@@ -1067,7 +1079,10 @@
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/makhija.jpg",
     "name":"Bharat Makhija's Coaching Classes",
     "desc":"Event Co-Sponsor"
-  }
-]
+  }],
 
+"gallery":[
+  { 
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/cogni_as_title.png"
+  }]
 }
