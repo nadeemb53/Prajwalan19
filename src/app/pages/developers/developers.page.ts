@@ -42,6 +42,6 @@ export class DevelopersPage {
     }
 
     openLinkedIn(username: string) {
-      this.launchExternalApp('linkedin://', 'com.linkedin.android', 'linkedin://user?username=', 'https://www.linkedin.com/in/', username);
+      this.launchExternalApp('linkedin://', 'com.linkedin.android', 'linkedin://', 'https://www.linkedin.com/in/', username);
     }
   }

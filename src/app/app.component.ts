@@ -174,4 +174,12 @@ export class AppComponent implements OnInit {
   openAboutus() {
     this.router.navigateByUrl('/aboutus');
   }
+
+  openSponsors() {
+    this.router.navigateByUrl('/sponsors');
+  }
+
+  openGallery() {
+    this.router.navigateByUrl('/Gallery');
+  }
 }

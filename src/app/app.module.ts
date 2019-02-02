@@ -14,12 +14,26 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { AppAvailability } from '@ionic-native/app-availability/ngx';
 import { Calendar } from '@ionic-native/calendar/ngx';
+import { AngularFireDatabaseModule } from 'angularfire2/database';
+import { AngularFireModule } from 'angularfire2';
+
+
+const firebaseConfig = {
+  apiKey: 'AIzaSyDrAtwGV_yaqLElIu0Xd-TphHTSjf4a3UY',
+  authDomain: 'prajwalan-2781b.firebaseapp.com',
+  databaseURL: 'https://prajwalan-2781b.firebaseio.com',
+  projectId: 'prajwalan-2781b',
+  storageBucket: 'prajwalan-2781b.appspot.com',
+  messagingSenderId: '268887942654'
+};
 
 @NgModule({
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    AngularFireDatabaseModule,
+    AngularFireModule.initializeApp(firebaseConfig),
     IonicModule.forRoot(),
     IonicStorageModule.forRoot(),
     ServiceWorkerModule.register('ngsw-worker.js', {
