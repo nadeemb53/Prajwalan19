@@ -35,7 +35,11 @@ const routes: Routes = [
   },
   { path: 'developers', loadChildren: './pages/developers/developers.module#DevelopersPageModule' },
   { path: 'aboutus', loadChildren: './pages/aboutus/aboutus.module#AboutusPageModule' },
-  { path: 'musicplayer', loadChildren: './pages/musicplayer/musicplayer.module#MusicplayerPageModule' }
+  { path: 'musicplayer', loadChildren: './pages/musicplayer/musicplayer.module#MusicplayerPageModule' },
+  { path: 'sponsors', loadChildren: './pages/sponsors/sponsors.module#SponsorsPageModule' },
+  { path: 'Gallery', loadChildren: './pages/gallery/gallery.module#GalleryPageModule' }
+
+
 
 
 

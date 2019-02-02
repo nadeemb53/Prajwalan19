@@ -1,0 +1,29 @@
+<ion-header>
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-back-button defaultHref="app/tabs/home" ></ion-back-button>
+      </ion-buttons>
+      <ion-title>
+        Sponsors
+      </ion-title>
+    </ion-toolbar>
+    </ion-header>
+  
+  <ion-content padding class="speaker-detail">
+    <div text-center *ngFor="let sponsor of sponsors" >
+      <div class="card">
+          <img [src]="sponsor.picture"/>
+          <ion-card-content>
+            <ion-card-title>
+              {{sponsor.name}}
+            </ion-card-title>
+            <p>
+              {{sponsor.desc}}
+            </p>
+            <p>
+              {{sponsor.desc1}}
+            </p>
+          </ion-card-content>
+      </div>
+    </div>
+  </ion-content>

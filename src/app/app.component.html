@@ -96,6 +96,10 @@
             Prajwalan    
             </ion-list-header>
           <ion-menu-toggle auto-hide="false">
+              <ion-item button (click)="openSponsors()">
+                  <ion-icon slot="start" name="logo-euro"></ion-icon>
+                  <ion-label>Sponsors</ion-label>
+                </ion-item>
               <ion-item button (click)="openMusicplayer()">
                   <ion-icon slot="start" name="musical-notes"></ion-icon>
                   <ion-label>Theme Songs</ion-label>
@@ -104,6 +108,10 @@
               <ion-icon slot="start" name="code"></ion-icon>
               <ion-label>Developers</ion-label>
             </ion-item>
+            <ion-item button (click)="openGallery()">
+                <ion-icon slot="start" name="images"></ion-icon>
+                <ion-label>Gallery</ion-label>
+              </ion-item>
             <ion-item button (click)="openAboutus()">
               <ion-icon slot="start" name="bonfire"></ion-icon>
               <ion-label>About</ion-label>
@@ -113,12 +121,12 @@
 
         <ion-list>
           <ion-list-header>
-            Tutorial
+            Talk to us!
           </ion-list-header>
           <ion-menu-toggle auto-hide="false">
-            <ion-item button (click)="openTutorial()">
+            <ion-item button routerLink="/support">
               <ion-icon slot="start" name="hammer"></ion-icon>
-              <ion-label>Show Tutorial</ion-label>
+              <ion-label> Send Feedback</ion-label>
             </ion-item>
           </ion-menu-toggle>
         </ion-list>
