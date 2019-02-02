@@ -90,10 +90,7 @@
     "typescript": "~3.1.6"
   },
   "cordova": {
-    "platforms": [
-      "ios",
-      "android"
-    ],
+    "platforms": [],
     "plugins": {
       "cordova-plugin-device": {},
       "cordova-plugin-inappbrowser": {},
