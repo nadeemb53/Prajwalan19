@@ -656,7 +656,7 @@
     "committee": "Core Sponsorship",
     "profilePics": ["/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg","/assets/img/speakers/bear.jpg"],
     "cards":[{
-      "name":"Eshwari Shinhwekar",
+      "name":"Eshwaree Shingwekar",
       "profilePic":"",
       "post":"Convener"
     },{
@@ -1067,7 +1067,10 @@
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/makhija.jpg",
     "name":"Bharat Makhija's Coaching Classes",
     "desc":"Event Co-Sponsor"
-  }
-]
+  }],
 
+"gallery":[
+  { 
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/cogni_as_title.png"
+  }]
 }
