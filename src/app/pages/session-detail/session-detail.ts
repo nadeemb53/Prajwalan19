@@ -66,5 +66,5 @@ export class SessionDetailPage {
         (msg) => { console.log('clicked'); },
         (err) => { console.log(err); }
     );
-}
+    }
 }
