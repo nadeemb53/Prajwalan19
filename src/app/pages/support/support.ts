@@ -1,7 +1,7 @@
 import { Component, ViewEncapsulation } from '@angular/core';
 import { NgForm } from '@angular/forms';
-
 import { AlertController, ToastController } from '@ionic/angular';
+import { ConferenceData } from '../../providers/conference-data';
 
 
 @Component({
@@ -15,23 +15,25 @@ export class SupportPage {
 
   constructor(
     public alertCtrl: AlertController,
-    public toastCtrl: ToastController
+    public toastCtrl: ToastController,
+    public firebaseProvider: ConferenceData
   ) { }
 
-  async ionViewDidEnter() {
+  /*async ionViewDidEnter() {
     const toast = await this.toastCtrl.create({
       message: 'This does not actually send a support request.',
       duration: 3000
     });
     await toast.present();
-  }
+  }*/
 
   async submit(form: NgForm) {
     this.submitted = true;
 
     if (form.valid) {
-      this.supportMessage = '';
       this.submitted = false;
+
+      this.firebaseProvider.addFeedback(this.supportMessage);
 
       const toast = await this.toastCtrl.create({
         message: 'Your support request has been sent.',

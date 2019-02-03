@@ -782,7 +782,7 @@
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/mohit.jpg",
       "post":"Convener"
     },{
-      "name": "Pradeep Nokawal",
+      "name": "Pradeep Nokwal",
       "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/pradeep.jpeg",
       "post":"Convener"
     },{
@@ -795,7 +795,7 @@
       "post":"Co-Convener"
     },{
       "name": "Aniket Itankar",
-      "profilePic":"",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/designing/aniket.jpg",
       "post":"Co-Convener"
     },{
       "name": "Pallavi Meshram",
@@ -909,6 +909,10 @@
 
   "feed":[
     { 
+      "update": "My Idea My Event Announced!",
+      "desc": "Submit your ideas and become convener of your own event.",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/myidea.jpeg"
+    },{ 
       "update": "Media Partner \"RCN\" ",
       "desc": "Prajwalan made partnership with \"RCN Digital\" ",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/RCN.jpeg"
@@ -1078,7 +1082,39 @@
   }],
 
 "gallery":[
-  { 
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/cogni_as_title.png"
+  
+   { "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0000.jpg"}
+  , 
+    {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0002.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0005.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0006.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0008.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0009.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0010.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0011.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0012.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0013.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0014.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0016.jpg"}
+  , 
+  { "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0017.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0018.jpg"}
+  , 
+  {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0019.jpg"}
+  , 
+  { "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0020.jpg"}
+  , 
+    {"picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/gallery/IMG-20190203-WA0022.jpg"
   }]
 }
