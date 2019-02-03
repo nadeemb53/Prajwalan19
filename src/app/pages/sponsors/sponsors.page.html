@@ -9,8 +9,8 @@
     </ion-toolbar>
     </ion-header>
   
-  <ion-content padding class="speaker-detail">
-    <div text-center *ngFor="let sponsor of sponsors" >
+  <ion-content padding>
+    <!--<div text-center *ngFor="let sponsor of sponsors" >
       <div class="card">
           <img [src]="sponsor.picture"/>
           <ion-card-content>
@@ -25,5 +25,30 @@
             </p>
           </ion-card-content>
       </div>
-    </div>
+    </div>-->
+    <ion-list>
+      <ion-grid fixed>
+        <ion-row align-items-stretch>
+          <ion-col size="12" size-md="3" *ngFor="let sponsor of sponsors">
+            <ion-card class="card">
+              <ion-card>
+                  <img [src]="sponsor.picture" alt="icon.png"/>
+                  <ion-card-content>
+                    <ion-card-title>
+                      {{sponsor.name}}
+                      </ion-card-title>
+                    <p>
+                      {{sponsor.desc}}
+                    </p>
+                    <p>
+                      {{sponsor.desc1}}
+                    </p>
+                  </ion-card-content>
+                </ion-card>
+
+                </ion-card>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+    </ion-list>
   </ion-content>
