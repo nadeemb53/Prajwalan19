@@ -2,7 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { of } from 'rxjs';
 import { map } from 'rxjs/operators';
-import { AngularFireDatabase } from 'angularfire2/database';
+
 import { UserData } from './user-data';
 
 @Injectable({
@@ -11,26 +11,17 @@ import { UserData } from './user-data';
 export class ConferenceData {
   data: any;
 
-  constructor(public http: HttpClient, public user: UserData, public afd: AngularFireDatabase) {}
+  constructor(public http: HttpClient, public user: UserData) {}
 
   load(): any {
     if (this.data) {
       return of(this.data);
     } else {
       return this.http
-<<<<<<< HEAD
          .get('https://nadeemb53.github.io/Prajwalan19/src/assets/data/data.json')
         //.get('assets/data/data.json')
-=======
-          .get('https://nadeemb53.github.io/Prajwalan19/src/assets/data/data.json')
-         // .get('assets/data/data.json')
->>>>>>> c9a5bea2cefe6df818cf985ad3b28a81959c34ba
         .pipe(map(this.processData, this));
     }
-  }
-
-  addFeedback(feedback) {
-    this.afd.list('/feedback/').push(feedback);
   }
 
   processData(data: any) {
@@ -175,14 +166,6 @@ export class ConferenceData {
     return this.load().pipe(
       map((data: any) => {
         return data.feed;
-      })
-    );
-  }
-
-  getGallery() {
-    return this.load().pipe(
-      map((data: any) => {
-        return data.gallery;
       })
     );
   }
