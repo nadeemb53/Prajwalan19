@@ -909,6 +909,10 @@
 
   "feed":[
     { 
+      "update": "Prajwalan Events and Workshops",
+      "desc": "Here are the workshops, events and tech-week of Prajwalan'19",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/events.jpeg"
+    },{
       "update": "My Idea My Event Announced!",
       "desc": "Submit your ideas and become convener of your own event.",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/myidea.jpeg"
