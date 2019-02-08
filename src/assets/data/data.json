@@ -2,10 +2,100 @@
   "schedule": [{
     "date": "2047-05-17",
     "groups": [{
+      "time": "12 Feb",
+      "sessions": [{
+        "name": "Automobiles",
+        "pic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/tech.jpg",
+        "location": "Class M1 1st floor Extc Arena, GCoE, Amravati",
+        "date":" 12-02-2019",
+        "description":"FREE OF COST Workshop.",
+        "speakerNames": ["Rahul Kakde \nSaurabh Baghele"],
+        "timeStart": " 8 am ",
+        "timeEnd": "10 am",
+        "contact":"For more Details Contact: \nAkash Jaswani 8855822127 \nShivam Nakod 7030726367",
+        "tracks": ["angular"],
+        "id": "42"
+      }]
+    },{
+      "time": "11 Feb",
+      "sessions": [{
+        "name": "PCB Simulation",
+        "pic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/pcp.jpg",
+        "location": "Class M1 1st floor Extc Arena, GCoE, Amravati",
+        "date":" 11-02-2019",
+        "description":"FREE OF COST Workshop.",
+        "speakerNames": ["Vallabh Walse"],
+        "timeStart": " 8 am ",
+        "timeEnd": "10 am",
+        "contact":"For more Details Contact: \nAkash Jaswani 8855822127 \nShivam Nakod 7030726367",
+        "tracks": ["angular"],
+        "id": "43"
+      }]
+    },{
+      "time": "10 Feb",
+      "sessions": [{
+        "name": "Photoshop Designing",
+        "pic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/photoshop.png",
+        "location": "Class M1 1st floor Extc Arena, GCoE, Amravati",
+        "date":" 10-02-2019",
+        "description":"FREE OF COST Workshop.",
+        "speakerNames": ["Mohit Lalwani \nYash Bhandarwar"],
+        "timeStart": " 8 am ",
+        "timeEnd": "11 am",
+        "contact":"For more Details Contact: \nAkash Jaswani 8855822127 \nShivam Nakod 7030726367",
+        "tracks": ["angular"],
+        "id": "44"
+      }]
+    },{
+      "time": "9 Feb",
+      "sessions": [{
+        "name": "BlockChain",
+        "pic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/block.jpg",
+        "location": "Class M1 1st floor Extc Arena, GCoE, Amravati",
+        "date":" 09-02-2019",
+        "description":"FREE OF COST Workshop.",
+        "speakerNames": ["Nadeem Bhati"],
+        "timeStart": " 8 am - 10.30 am",
+        "timeEnd": "11.15am - 01.30pm",
+        "contact":"For more Details Contact: \nAkash Jaswani 8855822127 \nShivam Nakod 7030726367",
+        "tracks": ["angular"],
+        "id": "45"
+      }]
+    },{
+      "time": "8 Feb",
+      "sessions": [{
+        "name": "AutoCad",
+        "pic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/autojpg.jpg",
+        "location": "Class M1 1st floor Extc Arena, GCoE, Amravati",
+        "date":" 08-02-2019",
+        "description":"",
+        "speakerNames": ["Sumit Ambedkar"],
+        "timeStart": " 8 am",
+        "timeEnd": "10 am",
+        "contact":"For more Details Contact: \nAkash Jaswani 8855822127 \nShivam Nakod 7030726367",
+        "tracks": ["angular"],
+        "id": "46"
+      }]
+    },{
+      "time": "9 Feb",
+      "sessions": [{
+        "name": "Total Station",
+        "pic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/total.jpg",
+        "location": "Civil AV Hall,GCoE, Amravati",
+        "date":" 09-02-2019",
+        "description":"The technive season is on it's full run, in its most newfangled version, Prajwalan'19 presents (Leap of Civil Engg Survey in Digital World) TOTAL STATION Workshop under the patronage of Make In India, Digital India and UNESCO.  A total station (TS) or total station theodolite (TST) is an electronic/optical instrument used for surveying and building construction. It is an electronic transit theodolite integrated with electronic distance measurement (EDM) to measure both vertical and horizontal angles and the slope distance from the instrument to a particular point, and an on-board computer to collect data and perform triangulation calculations.Here is the opportunity for you to learn about the TOTAL STATION. Grab the opportunity! Note-Partcipants will get certified.",
+        "speakerNames": ["Shyam Dhote, Shree Guru Consultancy, Nagpur"],
+        "timeStart": " 9.30 am",
+        "timeEnd": "6 pm",
+        "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nVaishnav Vaidya 7709635682 \nKiran Sakhare 8669350992",
+        "tracks": ["angular"],
+        "id": "47"
+      }]
+    },{
       "time": "1 Feb",
       "sessions": [{
         "name": "Augmented Reality",
-        "pic": "/assets/img/feed/augreal.jpeg",
+        "pic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/augreal.jpeg",
         "location": " New CCC building, YCCE, Nagpur",
         "date":" 01-02-2019",
         "description":"The technive season has come back, Prajwalan'19 presents two day Masterclass on Augmented Reality for the first time in Nagpur. This weekend upgrade yourself with the upcoming technology on Augmented Reality. Come and work on Unity Software and develop your own Android app. How to get started? Here is the opportunity for you to learn the basics of the software, which will help you to get acquainted with the software, this software is also used for game development. Get certified with the patronage of Digital India, Make in India and UNESCO. Grab the opportunity!",
@@ -14,13 +104,13 @@
         "timeEnd": "3 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nVaishnav Vaidya 7709635682 \nKiran Sakhare 8669350992",
         "tracks": ["angular"],
-        "id": "1"
+        "id": "48"
       }]
     },{
       "time": "27 Jan",
       "sessions": [{
         "name": "Virtual Reality",
-        "pic":"/assets/img/feed/vr.jpeg",
+        "pic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/vr.jpeg",
         "location": " Mechanical Workshop, GCoE, Amravati",
         "date":" 27-01-2019",
         "description":"The technive season has came back, in its most newfangled version, PRAJWALAN'19 presents VIRTUAL REALITY Workshop under the patronage of Make In India, Digital India and UNESCO.Virtual reality is an artificial environment that is created with software and presented to the user in such a way that the user suspends belief and accepts it as a real environment. On a computer, virtual reality is primarily experienced through two of the five senses: sight and sound. Here is the opportunity for you to learn about the VIRTUAL REALITY. Grab the opportunity! NOTE- Partcipants will get certified with Digital India,Make in India,UNESCO & GCoEA collaboration. NOTE- You have to get registered before the day of Workshop. ",
@@ -29,13 +119,13 @@
         "timeEnd": "5 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nKiran Sakhare 8669350992 \nVaishnav Vaidya 7709635682",
         "tracks": ["communication"],
-        "id": "2"
+        "id": "49"
       }]
     },{
       "time": "12 Jan",
       "sessions": [{
         "name": "Matlab",
-        "pic": "/assets/img/feed/matlab.jpg",
+        "pic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/matlab.jpg",
         "location": " CS department",
         "date":" 12-01-2019",
         "description": "The technive season has came back, in its most newfangled version, Prajwalan'19 presents MATLAB Workshop under the patronage of Make In India and Digital India. MATLAB has wide scope and is essential for all the branches. MATLAB is used to perform virtual simulation, graphical output, complex mathematical calculations, image processing etc. But before all the advance level, how to get started? Here is the opportunity for you to learn the basics of the software, which will help you to get acquainted with the MATLAB software. Grab the opportunity!",
@@ -44,7 +134,7 @@
         "timeEnd": "4 pm",
         "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nKiran Sakhare 8669350992 \nVaishnav Vaidya 7709635682",
         "tracks": ["Ionic"],
-        "id": "3"
+        "id": "50"
     }]
    }]
   }],
@@ -909,10 +999,14 @@
 
   "feed":[
     { 
-      "update": "Prajwalan Events and Workshops",
-      "desc": "Here are the workshops, events and tech-week of Prajwalan'19",
-      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/events.jpeg"
-    },{
+      "update": "Tech Week, from 8 to 12 Feb",
+      "desc": "The technive season is on it's full run, Prajwalan'19 presents Technical Workshops FREE OF COST",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/tech.jpg"
+    },{ 
+      "update": "Total Station",
+      "desc": "Prajwalan'19 presents Total Station Workshop",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/total.jpg"
+    },{ 
       "update": "My Idea My Event Announced!",
       "desc": "Submit your ideas and become convener of your own event.",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/myidea.jpeg"

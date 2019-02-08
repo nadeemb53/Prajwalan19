@@ -58,7 +58,7 @@
     "firebase": "^5.8.2",
     "ionic": "^4.9.0",
     "onesignal-cordova-plugin": "^2.4.6",
-    "rxjs": "6.3.3",
+    "rxjs": "^6.4.0",
     "sw-toolbox": "3.6.0",
     "zone.js": "^0.8.26"
   },
