@@ -1,4 +1,7 @@
 # Official Prajwalan '19 Mobile App
+
+https://play.google.com/store/apps/details?id=com.nadeem.prajwalan
+
 **Prerequisites:**
 1. npm
 2. ionic, cordova
