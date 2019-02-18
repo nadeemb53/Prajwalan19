@@ -997,13 +997,15 @@
     "id": "15"
   }],
 
-  "feed":[
-    { 
+  "feed":[{ 
+    "update": "Snack Partner \"MotiMahal\" ",
+    "desc": "Prajwalan made partnership with \"MotiMahal\" ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/moti.jpeg"
+  },{ 
       "update": "Title Sponsor \"State Bank of India\" ",
       "desc": "Prajwalan made partnership with \"State Bank of India\" ",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/sbi.jpeg"
-    },
-    { 
+    },{ 
       "update": "Talk with Er. Piyush S. Lalwani",
       "desc": "Prajwalan'19 presents a comic motivational talk on \"Life of an Engineer during and after \" on 18th feb, venue: Admin building, time: 4:00 pm ",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/talk.jpeg"
