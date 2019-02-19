@@ -160,7 +160,7 @@
     "rules5": "REGISTRATION FEE: ",
     "rules6": "• Per member Rs:- 50/- ",
     "location": "Everywhere",
-    "email": "burt@example.com",
+    "email": "andromaster@prajwalan.org",
     "phone": "8007832920",
     "id": "1"
   }, {
@@ -179,7 +179,7 @@
     "rules8": "REGISTRATION FEE: ",
     "rules9": "• Rs. 50/- per group of 2 members ",
     "location": "Everywhere",
-    "email": "charlie@example.com",
+    "email": "angrybirds@prajwalan.org",
     "phone": "9422668737",
     "id": "2"
   }, {
@@ -200,7 +200,7 @@
     "rules9": "• for single participant -30 Rs  ",
     "rules10": "• group for two student -50 Rs ",
     "location": "Everywhere",
-    "email": "donald@example.com",
+    "email": "astroquiz@prajwalan.org",
     "phone": "9421368055",
     "id": "10"
   }, {
@@ -224,7 +224,7 @@
     "about14": "REGISTRATION FEE:",
     "about15": "Rs. 300 per team",
     "location": "Everywhere",
-    "email": "donald@example.com",
+    "email": "boxcricket@prajwalan.org",
     "phone": "9049879802",
     "id": "3"
   }, {
@@ -243,7 +243,7 @@
     "rules4": "REGISTRATION FEE:",
     "rules5": "• Rs 50 per member. ",
     "location": "Everywhere",
-    "email": "eva@example.com",
+    "email": "cadstrife@prajwalan.org",
     "phone": "7350469622",
     "id": "4"
   }, {
@@ -267,7 +267,7 @@
     "rules7": "• 100 per team (2 members)",
     "rules8": "• Single entries are allowed. ",
     "location": "Everywhere",
-    "email": "ellie@example.com",
+    "email": "chanakya@prajwalan.org",
     "phone": "7507916958",
     "id": "5"
   }, {
@@ -301,11 +301,11 @@
     "about26": "REGISTRATION FEE:",
     "about27": "Rs 120/- per team.",
     "location": "Everywhere",
-    "email": "gino@example.com",
+    "email": "circuitmania@prajwalan.org",
     "phone": "8308730051",
     "id": "6"
   },{
-    "name": "Bridge Building",
+    "name": "Bridge-O-Mania",
     "desc": "Merge your ideas and construction skills to build a bridge tower. ",
     "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/Events icon/bridge.png",
     "twitter": "ionicframework",
@@ -325,7 +325,7 @@
     "about14": "ROUNDS: ",
     "about15": "• Their will be only one round. The event will start at 10:30 am till 6:00 pm. Participants can come at any hour of time to participate. ",
     "location": "Everywhere",
-    "email": "karl@example.com",
+    "email": "bridgeomania@prajwalan.org",
     "phone": "8308230073",
     "id": "7"
   },  {
@@ -345,7 +345,7 @@
     "about10": "REGISTARTION FEE:",
     "about11": "Rs 100 /- per team  ",
     "location": "Everywhere",
-    "email": "karl@example.com",
+    "email": "encipher@prajwalan.org",
     "phone": "9921018253",
     "id": "8"
   }, {
@@ -369,7 +369,7 @@
     "rules9":"•Registration Fee per team is 60/- only.     ",
     "rules10":"•Registration Fee for one person is 30/- only. ",
     "location": "Everywhere",
-    "email": "lionel@example.com",
+    "email": "googler@prajwalan.org",
     "phone": "8999651410",
     "id": "9"
   }, {
@@ -435,7 +435,7 @@
     "rules9": "•Only one emulator per team will be allowed.",
     "rules10": "•Any unfair means will result in disqualification.",
     "location": "Everywhere",
-    "email": "paul@example.com",
+    "email": "langaming@prajwalan.org",
     "phone": "9637888440",
     "id": "11"
   }, {
@@ -457,7 +457,7 @@
     "rules1":"Registration Fee:     ",
     "rules2":"Rs. 100/- per Group ( Two members in each group) ",
     "location": "Everywhere",
-    "email": "rachel@example.com",
+    "email": "mastermind@prajwalan.org",
     "phone": "9890239489",
     "id": "12"
   }, {
@@ -474,7 +474,7 @@
     "about7": "•Sector 2:- Agriculture, Education, Environment, Entrepreneurship ,Health Hunger    ",
     "about8": "Entry fee- 60 Rs per member (minimum 3 members in a team). ",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "modexpo@prajwalan.org",
     "phone": "8624011238",
     "id": "13"
   }, {
@@ -493,7 +493,7 @@
     "about9": "REGISTRATION FEE: ",
     "about10": "Rs. 160/- per Group ( 3-4 members) ",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "mysteryhunt@prajwalan.org",
     "phone": "8600047061",
     "id": "14"
   }, {
@@ -535,7 +535,7 @@
     "rules5":"• Rs 50/- for abstract per team. ",
     "rules6":"• Top 25 teams selected for final presentation: Rs 250/-     ",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "ppta@prajwalan.org",
     "phone": "7263804990",
     "id": "15"
   }, {
@@ -546,12 +546,12 @@
     
 
     "about1": "EVENT STRUCTURE:   ",
-    "about2": "1. Sumo wrestling 2. Death race 3. Maze solver 4. Kukabot",
-    "about3": "1.Death Race:",
+    "about2": "1. Sumo wrestling 2. Death race 3. Kukabot  4. Maze solver",
+    "about3": "1) Death Race:",
     "about4": "Simple Manual robots has to complete the race by overcoming the obstacles in minimum time.   Obstacles contain elevations, slopes, section containing water/mud/marbles/stones, zig-zag paths, s-type etc. Path include some bonus zones or danger zones which either improve your performance or make it worst.",
     "about5": "Rules:",
     "about6": " Each team may consist of maximum 4 members with entry fee of 350 Rs. A team may consist of students from different colleges or branch and each member should bring their college ID card.  32 V variable power supply will be provided by organizers.  Robots should have minimum 20 ft. wire for smooth working. Robots may be wire or wireless controlled. The size of robots should be less than 30*30*30 cm and weight should be less than 5 kg. Any sort of weaponry in robots is prohibited, it is purely based on controlling skills of robots.  Organizers may change the rules as per situation. Organizers decision will be the final decision. Any violation to the above mentioned rules will result in disqualification of the team.",
-    "about7": "2. SUMO Wrestling",
+    "about7": "2) SUMO Wrestling",
     "about8": "Like sumo wrestling the manual robots has to push the opponent’s robots out of the circular arena to win the match. Various point schemes are there to decide the winner of the match.",
     "about9": "Rules:",
     "about10": "Each team may consist of maximum 2 members with entry fee of 250 Rs.  A team may consist of students from different colleges or branch and each member should bring their college ID card. Robots should be less than 5 kg. Robots may be wire or wireless controlled. The wrestling between the robots is in the circle of radius 4 ft. The wrestling is within two robots for 5 min. There are various point schemes to decide the winner for match. 32 V variable power supply will be provided by organizers. Any sort of weaponry in the robot is prohibited. It is purely based on power and controlling skills of sumo and the robot is not supposed to damage the arena. Organizers may change the rules as per situation. Organizers decision will be the final decision.",
@@ -565,9 +565,28 @@
     "about18":"Eligibility: All students with a valid identity card of their respective educational institutes are eligible to participate.",
     "about19":"TEAM SPECIFICATIONS: ",
     "about20":"A team may consist of a maximum of 4 members. Students from different educational institutes can form a team. Each team may consist of maximum 4 members with entry fee of 300 Rs.  ",
-    
+    "about21":"4) Maze solver :-  A simple manually controlled maze solving robot",
+    "about22":"TASK:",
+    "about23":"A manually controlled robot is placed in the centre of a large, randomly drawn maze. This central area is positioned in such a way that left-turn only or right-turn only robots can never reach it. The goal is to reach the centre of the maze in the fastest time possible, across several attempts. Each run shall be made from the starting square in centre. The operator may abort the run at any time after time starts. The run timer will start when front edges of the robot crosses the start line and stops when the last edge of the robot crosses the finish line.",
+    "about24":"ARENA:",
+    "about25":"Arena will be displayed only at the run time. Until then no images will be displayed on any sites.",
+    "about26":"BOT SPECIFICATIONS:",
+    "about27":"30 cm x 30 cm Manually controlled robot is appreciated. The bot must be controlled manually. Teams can use both wired as well as wireless control mechanisms. In case of wired bots, the length of wire should be minimum 20 feet so that the wire remains slack at any instant of time. If the participants use wireless mechanism then it is mandatory to use a dual frequency remote. The dimensions of the remote are not included in the size constraint of the bot. Bot must have an on-board power supply in any case. All the members are allowed to enter in the room. Bots will be provided by organisers in case a willing team is unable to present the bot for event. Irrespective of the mechanism used, only one person will be allowed to control the bot. Maximum 300 rpm motors must be used",
+    "about28":"ELIGIBILITY:",
+    "about29":"All students with a valid identity card of their respective educational institutes are eligible to participate.",
+    "about30":"TEAM SPECIFICATIONS:",
+    "about31":"A team may consist of a maximum of 4 members. Students from different educational institutes can form a team.  Each team may consist of maximum 4 members with entry fee of 300 Rs . ",
+    "about32":"RULES:",
+    "about33":"All the teams will be provided 3 min to complete the task. Least time among them will be awarded. Points will be awarded for crossing every checkpoint. Onboard/Offboard   power supply is required.  Power supply should not exceed by 24V.  Only 2 hand touch is allowed to team. Teams will be immediately disqualified if more than 2 hand touch take place.",
+    "about34":"MARKING SCHEME :-",
+    "about35":"For crossing every checkpoint 25 marks will be awarded. Plus 10 will be given to team which finish task in 3 min. 20 points will be deducted for every break of rule.",
+    "about36":"FEES: ",
+    "about37":"1. Sumo wrestling:- 250 for 2 members ",
+    "about38":"2. Death race:- 350 for max 4 members ",
+    "about39":"3. Maze solver:- 300 for max 4 members",
+    "about40":"4. Kukabot:- 300 for max 4 members",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "robotics@prajwalan.org",
     "phone": "9405709774",
     "id": "16"
   }, {
@@ -595,7 +614,7 @@
     "about17":"3*3 Mirror Cube: 80/-",
    
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "rubikscube@prajwalan.org",
     "phone": "8605529324",
     "id": "17"
   }, {
@@ -624,10 +643,32 @@
     "rules4":"• Innovation",
     "rules5":"• Systematic approach towards Problem",
     "location": "2.Execution time",
-    "email": "ted@example.com",
+    "email": "scilab@prajwalan.org",
     "phone": "7588248263",
     "id": "18"
-  }, {
+  }, 
+  {
+    "name": "Town & Layout Planning",
+    "desc":"Think yourself civil engineer? Prove it",
+    "profilePic": "/assets/img/Events icon/virtualplacement.png",
+    "twitter": "ionicframework",
+    "about1": " Technical event for civil engineering students based on concept of layout planning.",
+    "about2": "TASK:",
+    "about3": "To plan the Town with given details. Problem statement will be given to the members and they will have to draw the layout showing respective details within given time. Problem statement will consist of plot size and area distribution under certain heads like roads, residential, commercial, etc.",
+    
+    "rules1": "Event Details:",
+    "rules2": "FEES:",
+    "rules3": "• Rs 200 per team",
+    "rules4": "Participants:",
+    "rules5":"• Each team can have maximum 3 members.",
+   
+    
+    "location": "Everywhere",
+    "email": "virtualplacement@prajwalan.org",
+    "phone": "9403257798",
+    "id": "19"
+  }, 
+  {
     "name": "Virtual Placement",
     "desc":"Ready for the corporate world ? Participate and find out.",
     "profilePic": "/assets/img/Events icon/virtualplacement.png",
@@ -651,7 +692,7 @@
     "rules8":"• Branch wise paper are conducted for Mechanical, Electrical, Electronics, CS, IT. Participant except these branches will have a common paper.",
     
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "virtualplacement@prajwalan.org",
     "phone": "7769988501",
     "id": "20"
   }, 
@@ -681,7 +722,7 @@
     "rules5":"• Team will be provided with 1 pc and with resources for Designing Web Page",
     "rules6":"• Topic will be given on spot. One hour will be provided for Designing Web Page.",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "techkshetra@prajwalan.org",
     "phone": "7219646432",
     "id": "28"
   },
@@ -717,7 +758,7 @@
     "rules5":"• Team will be provided with 1 pc and with resources for Designing Web Page",
     "rules6":"• Topic will be given on spot. One hour will be provided for Designing Web Page.",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "webeinstein@prajwalan.org",
     "phone": "9763661325",
     "id": "21"
   }, {
@@ -747,7 +788,7 @@
     "rules2":"• For abstract - 50 rs ",
     "rules3":"• After selection of abstract - 250 rs ",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "pptb@prajwalan.org",
     "phone": "7721064020",
     "id": "23"
   }, {
@@ -788,7 +829,7 @@
     "rules4":"• Rs 50/- for abstract per team. ",
     "rules5":"• Top 25 teams selected for final presentation: Rs 250/-     ",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "pptc@prajwalan.org",
     "phone": "9673202678",
     "id": "24"
   }, {
@@ -845,7 +886,7 @@
     "rules2": "• Production and rapid manufacturing ",
     "rules3": "• Solar related projects ",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "pptd@prajwalan.org",
     "phone": "9075849909",
     "id": "25"
   }, {
@@ -861,7 +902,7 @@
     "about6": "Entry Fees:     ",
     "about7": "• Registration Fee for one person is 100/- only. ",
     "location": "Everywhere",
-    "email": "ted@example.com",
+    "email": "letstalk@prajwalan.org",
     "phone": "8308409091",
     "id": "26"
   }],
@@ -980,7 +1021,7 @@
       "post":"Co-Convener"
     },{
       "name":"Pratik Dhanuka",
-      "profilePic":"",
+      "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/core-sponsor/dhanuka.jpg",
       "post":"Co-Convener"
     }],
     "id": "4"
