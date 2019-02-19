@@ -161,7 +161,7 @@
     "rules6": "• Per member Rs:- 50/- ",
     "location": "Everywhere",
     "email": "burt@example.com",
-    "phone": "+919000000000",
+    "phone": "8007832920",
     "id": "1"
   }, {
     "name": "Angry Birds",
@@ -180,7 +180,7 @@
     "rules9": "• Rs. 50/- per group of 2 members ",
     "location": "Everywhere",
     "email": "charlie@example.com",
-    "phone": "",
+    "phone": "9422668737",
     "id": "2"
   }, {
     "name": "Astroquiz",
@@ -201,7 +201,7 @@
     "rules10": "• group for two student -50 Rs ",
     "location": "Everywhere",
     "email": "donald@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "9421368055",
     "id": "10"
   }, {
     "name": "Box Cricket",
@@ -225,7 +225,7 @@
     "about15": "Rs. 300 per team",
     "location": "Everywhere",
     "email": "donald@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "9049879802",
     "id": "3"
   }, {
     "name": "CAD Strife",
@@ -244,7 +244,7 @@
     "rules5": "• Rs 50 per member. ",
     "location": "Everywhere",
     "email": "eva@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "7350469622",
     "id": "4"
   }, {
     "name": "Chanakya",
@@ -268,7 +268,7 @@
     "rules8": "• Single entries are allowed. ",
     "location": "Everywhere",
     "email": "ellie@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "7507916958",
     "id": "5"
   }, {
     "name": "Ciruit Mania",
@@ -302,12 +302,12 @@
     "about27": "Rs 120/- per team.",
     "location": "Everywhere",
     "email": "gino@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "8308730051",
     "id": "6"
   },{
     "name": "Bridge Building",
     "desc": "Merge your ideas and construction skills to build a bridge tower ",
-    "profilePic": "/assets/img/icon.png",
+    "profilePic": "/assets/img/Events icon/bridge.png",
     "twitter": "ionicframework",
     "about1": "TASK: ",
     "about2": "Participants have to prepare a bridge using given materials in given duration of 1 hour, with suitable mentioned dimensions in the problem. Participants should tie sticks together by using cello tape only. ",
@@ -326,7 +326,7 @@
     "about15": "• Their will be only one round. The event will start at 10:30 am till 6:00 pm. Participants can come at any hour of time to participate. ",
     "location": "Everywhere",
     "email": "karl@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "8308230073",
     "id": "7"
   },  {
     "name": "Encipher",
@@ -346,7 +346,7 @@
     "about11": "Rs 100 /- per team  ",
     "location": "Everywhere",
     "email": "karl@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "9921018253",
     "id": "8"
   }, {
     "name": "Googler",
@@ -370,28 +370,8 @@
     "rules10":"•Registration Fee for one person is 30/- only. ",
     "location": "Everywhere",
     "email": "lionel@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "8999651410",
     "id": "9"
-  }, {
-    "name": "Junk Art",
-    "desc":"Create the best out of waste and win exciting prizes!",
-    "profilePic": "/assets/img/Events icon/junkart.png",
-    "twitter": "ionicframework",
-    "about1": "In this event we will conduct three rounds.",
-    "about2": "Round 1: Participants will be provided with certain junks and they have to create no. of models in a specified time. The model will be shown prior to the event.",
-    "about3": "Round 2: Participants qualifying the 1st round will be shown a object of larger size as compared to the round1 in a specified time",
-    "about4": "Round 3: Now participants qualifying round2 will be given a theme adn some stationary and they have to implement their own and showcase and they have to implement their own and showcase their art out of it. ",
-    "about5": "Prize - Winner (Rs.2000/-)",
-    "about6": "1st runnerup (Rs. 1000/-)",
-    "about7": "Fees: EVENT REGISTRATION FEES: Rs. 100/- per team of 2 members.",
-    "rules1": "RULES",
-    "rules2": "Each team consists of two members.",
-    "rules3": "Each team will be provided with equal junk",
-    "rules4": "Elimination will be there after each round",
-    "location": "Everywhere",
-    "email": "molly@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "10"
   }, {
     "name": "LAN Gaming",
     "desc":"Brace yourself to rule the world of PC gaming!",
@@ -456,7 +436,7 @@
     "rules10": "•Any unfair means will result in disqualification.",
     "location": "Everywhere",
     "email": "paul@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "9637888440",
     "id": "11"
   }, {
     "name": "Mastermind",
@@ -478,7 +458,7 @@
     "rules2":"Rs. 100/- per Group ( Two members in each group) ",
     "location": "Everywhere",
     "email": "rachel@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "9890239489",
     "id": "12"
   }, {
     "name": "Mod Expo",
@@ -495,7 +475,7 @@
     "about8": "Entry fee- 60 Rs per member (minimum 3 members in a team). ",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "8624011238",
     "id": "13"
   }, {
     "name": "Mystery Hunt",
@@ -514,7 +494,7 @@
     "about10": "Rs. 160/- per Group ( 3-4 members) ",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "8600047061",
     "id": "14"
   }, {
     "name": "PPT-A",
@@ -556,7 +536,7 @@
     "rules6":"• Top 25 teams selected for final presentation: Rs 250/-     ",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "7263804990",
     "id": "15"
   }, {
     "name": "Robotics",
@@ -566,7 +546,7 @@
     "about": "Description.",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "9405709774",
     "id": "16"
   }, {
     "name": "Rubik's Cube",
@@ -605,7 +585,7 @@
     "rules2": "No data found for this session.",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "8605529324",
     "id": "17"
   }, {
     "name": "Sci-Lab",
@@ -634,25 +614,8 @@
     "rules10":"1.No. of steps with accurate reesults  2.Execution time  3.Innovation  4.Systematic approach towards problem",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "7588248263",
     "id": "18"
-  }, {
-    "name": "Truss-A-Maze",
-    "desc":"All the civil engineers in the house! Build the best truss you can and win amazing prizes!",
-    "profilePic": "/assets/img/Events icon/trussmaze.png",
-    "twitter": "ionicframework",
-    "about1": "No Description.",
-    "rules0":"RULES",
-    "rules1":"a) Maximum participants per team 3",
-    "rules2":"b) Fess per team Rs 180/-",
-    "rules3":"c) Time duration 1 hour",
-    "rules4":"d) Truss tower should be hollow from inside",
-    "rules5":"e) No extra cello tape or straws will be provided.",
-    "rules6":"f) participants should bring their truss in time for loading test.",
-    "location": "Everywhere",
-    "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "19"
   }, {
     "name": "Virtual Placement",
     "desc":"Ready for the corporate world ? Participate and find out.",
@@ -674,7 +637,7 @@
     "about14": "Fees: EVENT REGISTRATION FEES: Rs. 100/- per head.",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "7769988501",
     "id": "20"
   }, {
     "name": "Web-Einstein",
@@ -706,7 +669,7 @@
     "rules6":"Topic will be given on spot. One hour will be provided for Designing Web Page.",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "9763661325",
     "id": "21"
   }, {
     "name": "My Idea My Event",
@@ -746,7 +709,7 @@
     "rules3":"• After selection of abstract - 250 rs ",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "7721064020",
     "id": "23"
   }, {
     "name": "PPT-C",
@@ -787,7 +750,7 @@
     "rules5":"• Top 25 teams selected for final presentation: Rs 250/-     ",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "9673202678",
     "id": "24"
   }, {
     "name": "PPT-D",
@@ -844,7 +807,7 @@
     "rules3": "• Solar related projects ",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "9075849909",
     "id": "25"
   }, {
     "name": "Let's Talk",
@@ -860,7 +823,7 @@
     "about7": "• Registration Fee for one person is 100/- only. ",
     "location": "Everywhere",
     "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
+    "phone": "8308409091",
     "id": "26"
   }],
 
