@@ -185,11 +185,11 @@
   }, {
     "name": "Astroquiz",
     "desc":"Test your astonomy knowledge and win the Astroquiz",
-    "profilePic": "/assets/img/icon.png",
+    "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/Events icon/astroquiz.png",
     "twitter": "ionicframework",
     "about1": "INFORMATION:",
     "about2": "• The basic concept of this event is based on your astronomy knowledge. This event is open for any student. This event will improve your knowledge of astronomy.",
-    "rules1": "RULES",
+    "rules1": "RULES:",
     "rules2": "• First round will be taken in four zones(parts). Winners of first round will qualify for second round. ",
     "rules3": "• Second round will be surprise round. ",
     "rules4": "• Free seminar for all participants. ",
@@ -230,7 +230,7 @@
   }, {
     "name": "CAD Strife",
     "desc":"Show off your designing skills with CAD softwares and win amazing prizes!",
-    "profilePic": "/assets/img/Events icon/",
+    "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/Events icon/coding.png",
     "twitter": "ionicframework",
     "about1": "EVENT STRUCTURE: ",
     "about2": "• Team consist of max. 2 members and have to develop 2D Drawing using Autocad software. Only students with proper Ids are allowed",
@@ -307,7 +307,7 @@
   },{
     "name": "Bridge Building",
     "desc": "Merge your ideas and construction skills to build a bridge tower ",
-    "profilePic": "/assets/img/Events icon/bridge.png",
+    "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/Events icon/bridge.png",
     "twitter": "ionicframework",
     "about1": "TASK: ",
     "about2": "Participants have to prepare a bridge using given materials in given duration of 1 hour, with suitable mentioned dimensions in the problem. Participants should tie sticks together by using cello tape only. ",
@@ -671,16 +671,6 @@
     "email": "ted@example.com",
     "phone": "9763661325",
     "id": "21"
-  }, {
-    "name": "My Idea My Event",
-    "desc":"",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-    "twitter": "ionicframework",
-    "about": "Description.",
-    "location": "Everywhere",
-    "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "22"
   }, {
     "name": "PPT-B",
     "desc":"Pull up your socks and gather all your research work to win exciting prizes! ",
