@@ -56,7 +56,7 @@
     "cordova-sqlite-storage": "2.6.0",
     "core-js": "^2.5.7",
     "firebase": "^5.8.2",
-    "ionic": "^4.9.0",
+    "ionic": "^4.10.3",
     "onesignal-cordova-plugin": "^2.4.6",
     "rxjs": "^6.4.0",
     "sw-toolbox": "3.6.0",
