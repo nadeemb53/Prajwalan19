@@ -2,6 +2,21 @@
   "schedule": [{
     "date": "2047-05-17",
     "groups": [{
+      "time": "23 Feb",
+      "sessions": [{
+        "name": "3D Animation",
+        "pic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/anim.jpg",
+        "location": "Seminar hall CSE dept, GCoE, Amravati",
+        "date":" 23-02-2019",
+        "description":"The technive season is on it's full run, in its most newfangled version, Prajwalan'19  presents 3D Animations Animation also allows freedom of expression in ways of visuals. It gives you the opportunity to express your ideas in the most fascination or weird forms. In this workshop you will learn:\n 1. Introduction to 3D Animation \n 2. What are various techniques\n 3. How to use the Animation Techniques\n 4. Software Installation  \n 5. 2 projects & much more..So that you can use if for\n  1. Movies\n2.  Medical\n3. Corporate \n 4. Engineering & much more\n  Grab the Exciting Internship opportunity \n Workshop is under the patronage of Make In India, Digital India and UNESCO \nHere is the opportunity for you to learn about the 3D Animations.So, Grab the opportunity! Note-Partcipants will get certified.",
+        "speakerNames": ["Nihar Chaudhari \nDirector of Strokkes Annimations"],
+        "timeStart": "10 am ",
+        "timeEnd": "5 pm",
+        "contact":"For more Details Contact: \nPrachi Thakur 8208521288 \nVaishnav Vaidya 7709635682 \nKiran Sakhare 8669350992",
+        "tracks": ["angular"],
+        "id": "41"
+      }]
+    },{
       "time": "12 Feb",
       "sessions": [{
         "name": "Automobiles",
@@ -1043,7 +1058,7 @@
     "profilePic":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
     "cards":[{
       "name": "Dr.R.B.Sharma",
-      "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/contact/incharge.jpeg",
+      "profilePic": "https://nadeemb53.github.io/Prajwalan19/src/assets/img/sharma.jpg",
       "post": "Faculty Incharge"
     }],
     "id": "1"
@@ -1358,6 +1373,10 @@
   }],
 
   "feed":[{ 
+    "update": "Workshop on 3D Animation ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/anim.jpg"
+  },{ 
     "update": "Snack Partner \"MotiMahal\" ",
     "desc": "Prajwalan made partnership with \"MotiMahal\" ",
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/moti.jpeg"

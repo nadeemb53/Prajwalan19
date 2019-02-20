@@ -14,7 +14,7 @@ import { AppAvailability } from '@ionic-native/app-availability/ngx';
   styleUrls: ['./schedule.scss'],
 })
 export class SchedulePage implements OnInit {
-  // Gets a reference to the list element
+  //  Gets a reference to the list element
   @ViewChild('scheduleList') scheduleList: IonList;
 
   dayIndex = 0;
@@ -67,7 +67,6 @@ export class SchedulePage implements OnInit {
       this.updateSchedule();
     }
   }
-
   async addFavorite(slidingItem: HTMLIonItemSlidingElement, sessionData: any) {
     if (this.user.hasFavorite(sessionData.name)) {
       // woops, they already favorited it! What shall we do!?
@@ -79,7 +78,7 @@ export class SchedulePage implements OnInit {
 
       // create an alert instance
       const alert = await this.alertCtrl.create({
-        message:'Favorite Added', // cssClass: 'custom-alert-danger',  
+        message: 'Favorite Added', // cssClass: 'custom-alert-danger',  
         buttons: [{
           text: 'OK',
           handler: () => {
@@ -126,17 +125,17 @@ export class SchedulePage implements OnInit {
 
   launchExternalApp(iosSchemaName: string, androidPackageName: string, appUrl: string, httpUrl: string, username: string) {
     let app: string;
-      app = androidPackageName;
+    app = androidPackageName;
     this.AppAvail.check(app).then(
       () => { // success callback
-       this.IAB.create(appUrl + username, '_system');
-       console.log('app opened');
+        this.IAB.create(appUrl + username, '_system');
+        console.log('app opened');
       },
       (data) => { // error callback
 
-      this.IAB.create(httpUrl + username, '_system');
-       console.log('ERROR');
-       console.log(data);
+        this.IAB.create(httpUrl + username, '_system');
+        console.log('ERROR');
+        console.log(data);
       }
     );
   }
