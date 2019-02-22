@@ -601,7 +601,12 @@
     "name": "Robotics",
     "desc":"Explode into the world of humanoids and bots and compete to be the best.",
     "imageAvailable":"true",
-    "eventPicture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
+    "eventPicture1":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
+    "eventPicture2":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
+    "eventPicture3":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
+    "eventPicture4":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
+    "eventPicture5":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
+    "eventPicture6":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
     "profilePic": "/assets/img/Events icon/robotics.png",
     "twitter": "ionicframework",
     
