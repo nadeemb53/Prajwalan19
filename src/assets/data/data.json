@@ -157,6 +157,7 @@
 
    "speakers": [{
     "name": "Andromaster",
+    "imageAvailable":"false",
     "desc": "Are you an android expert? Participate in AndroMaster and win prizes! ",
     "profilePic": "/assets/img/Events icon/andromaster.png",
     "twitter": "ionicframework",
@@ -599,6 +600,8 @@
   }, {
     "name": "Robotics",
     "desc":"Explode into the world of humanoids and bots and compete to be the best.",
+    "imageAvailable":"true",
+    "eventPicture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/speakers/bear.jpg",
     "profilePic": "/assets/img/Events icon/robotics.png",
     "twitter": "ionicframework",
     

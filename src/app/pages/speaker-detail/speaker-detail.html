@@ -23,6 +23,10 @@
     </ion-button>-->
   </div>
 
+  <div *ngIf="speaker?.imageAvailable==='true'">
+    <img [src]="speaker.eventPicture">
+  </div>
+
   <p>{{speaker?.about1}}</p>
   <p>{{speaker?.about2}}</p>
   <p>{{speaker?.about3}}</p>
