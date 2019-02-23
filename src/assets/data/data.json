@@ -1223,9 +1223,25 @@
   }],
 
   "feed":[{ 
+    "update": "Title Sponsor \"NCDEX\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/ncdex.jpeg"
+  },{ 
+    "update": "Associate Sponsor \"The Institute of Engineers\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/ie.jpeg"
+  },{ 
+    "update":"Associate Sponsor \"Alumni Association\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/alumni.jpeg"
+  },{ 
+    "update": "Associate Sponsor \"ISTE\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/moti.jpeg"
+  },{ 
     "update": "Snack Partner \"MotiMahal\" ",
     "desc": "Prajwalan made partnership with \"MotiMahal\" ",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/moti.jpeg"
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/iste.jpeg"
   },{ 
       "update": "Title Sponsor \"State Bank of India\" ",
       "desc": "Prajwalan made partnership with \"State Bank of India\" ",
