@@ -23,6 +23,15 @@
     </ion-button>-->
   </div>
 
+  <div *ngIf="speaker?.imageAvailable==='true'">
+    <img [src]="speaker.eventPicture1">
+    <img [src]="speaker.eventPicture2">
+    <img [src]="speaker.eventPicture3">
+    <img [src]="speaker.eventPicture4">
+    <img [src]="speaker.eventPicture5">
+    <img [src]="speaker.eventPicture6">
+  </div>
+
   <p>{{speaker?.about1}}</p>
   <p>{{speaker?.about2}}</p>
   <p>{{speaker?.about3}}</p>
@@ -80,4 +89,10 @@
   <p>{{speaker?.rules8}}</p>
   <p>{{speaker?.rules9}}</p>
   <p>{{speaker?.rules10}}</p>
+  <p>{{speaker?.rules11}}</p>
+  <p>{{speaker?.rules12}}</p>
+  <p>{{speaker?.rules13}}</p>
+  <p>{{speaker?.rules14}}</p>
+  <p>{{speaker?.rules15}}</p>
+  <p>{{speaker?.rules16}}</p>
 </ion-content>
