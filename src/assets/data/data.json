@@ -1361,7 +1361,8 @@
     "id": "15"
   }],
 
-  "feed":[{ 
+  "feed":[
+    { 
     "update": "Digital Education Partner \"Foxmula\" ",
     "desc": " ",
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/foxmula.jpeg"
@@ -1476,6 +1477,18 @@
 
     },
     {
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/ncdex.png",
+      "name":"NCDEX",
+      "desc":"Title Sponsor"
+
+    },
+    {
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/sbi.jpg",
+      "name":"SBI",
+      "desc":"Title Sponsor"
+
+    },
+    {
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/ie.jpg",
       "name":"The Institution Of Engineers",
       "desc":"Associate Sponsor"
@@ -1496,6 +1509,23 @@
     "desc":"Associate Sponsor"
   },
   {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/time.png",
+    "name":"T.I.M.E",
+    "desc":"Co-sponsor",
+    "desc1":"Management Education Partner"
+  },
+  {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/moti.jpg",
+    "name":"Moti Mahal",
+    "desc":"Snack Partner"
+  },
+  {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/foxmula.jpeg",
+    "name":"Foxmula",
+    
+    "desc":"Digital Education Partner"
+  },
+  {
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/gateAcademy.jpg",
     "name":"The Gate Academy",
     "desc":"Co-sponsor",
@@ -1506,6 +1536,16 @@
     "name":"S&G Mall",
     "desc":"Co-sponsor",
     "desc1":"Style Partner"
+  },
+  {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/aspa.png",
+    "name":"Aspa Bandsons",
+    "desc":"Event Title Sponsor"
+  },
+  {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/satiji.jpeg",
+    "name":"Shri Satiji Infratech",
+    "desc":"Event Title Sponsor"
   },
   {
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/nescafe.png",
