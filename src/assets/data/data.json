@@ -1362,6 +1362,14 @@
   }],
 
   "feed":[{ 
+    "update": "Management Education Partner \"T.I.M.E.\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/time.jpeg"
+  },{ 
+    "update": "Travel and Tourism Partner \"G.H.Tourism\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/tourism.jpeg"
+  },{ 
     "update": "Digital Education Partner \"Foxmula\" ",
     "desc": " ",
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/foxmula.jpeg"
@@ -1392,7 +1400,7 @@
   },{ 
     "update": "Associate Sponsor \"ISTE\" ",
     "desc": " ",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/moti.jpeg"
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/iste.jpeg"
   },{
     "update": "Workshop on 3D Animation ",
     "desc": " ",
@@ -1400,7 +1408,7 @@
   },{ 
     "update": "Snack Partner \"MotiMahal\" ",
     "desc": "Prajwalan made partnership with \"MotiMahal\" ",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/iste.jpeg"
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/moti.jpeg"
   },{ 
       "update": "Title Sponsor \"State Bank of India\" ",
       "desc": "Prajwalan made partnership with \"State Bank of India\" ",
@@ -1418,10 +1426,6 @@
       "desc": "The technive season is on it's full run, Prajwalan'19 presents Technical Workshops FREE OF COST",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/tech.jpg"
     },{ 
-      "update": "Total Station",
-      "desc": "Prajwalan'19 presents Total Station Workshop",
-      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/total.jpg"
-    },{ 
       "update": "My Idea My Event Announced!",
       "desc": "Submit your ideas and become convener of your own event.",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/myidea.jpeg"
@@ -1437,30 +1441,6 @@
     "update": "Prajwalan Musical \"Bandey\" ",
     "desc": "\"Prajwalan Theme song\" releasing on 30Jan, venue : Electonic Department, time : 5.00 pm",
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/bandey.jpg"
-  },{ 
-    "update": "Augmented Reality",
-    "desc": "Augmented reality workshop is scheduled to be conducted on 1st and 2nd Feb'19",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/augreal.jpeg"
-  },{
-    "update":"Virtual Reality",
-    "desc":"Virtual reality workshop is scheduled to be conducted on 27th Jan'19",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/vr.jpeg"
-  },{
-    "update": "UNESCO",
-    "desc": "Prajwalan received patronage from UNESCO",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/unesco.jpeg"
-  },{
-    "update":"Make in India",
-    "desc": "Prajwalan received patronage from Make in India",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/makeinindia.jpeg"
-  },{
-    "update":"Digital India",
-    "desc": "Prajwalan received patronage from Digital India",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/digitalIndia.jpg"
-  },{
-    "update": "MATLAB",
-    "desc": "MATLAB workshop is scheduled to be conducted on 12th and 13th Jan'19",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/matlab.jpg"
   }],
 
   "sponsors":[
@@ -1500,12 +1480,22 @@
     "name":"The Gate Academy",
     "desc":"Co-sponsor",
     "desc1":"Technical & Educational Partner"
+  },{
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/time.png",
+    "name":"T.I.M.E.",
+    "desc":"Management Education Partner"
+    
   },
   {
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/s&g.jpg",
     "name":"S&G Mall",
     "desc":"Co-sponsor",
     "desc1":"Style Partner"
+  },
+  {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/tourism.png",
+    "name":"G.H.Tourism",
+    "desc":"Travel and Tourism Partner"
   },
   {
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/nescafe.png",
