@@ -180,6 +180,7 @@
     "rules9":"Shivangi Gupta: 8007832920 ",
     "rules10":"Co-Convener:",
     "rules11":"1) Tarshal Nimawat: 9785757949 2) Rutuja Gawande: 9075582247",
+    "rules16": "Location: CS Department ",
     "location": "Everywhere",
     "email": "andromaster@prajwalan.org",
     "phone": "8007832920",
@@ -204,6 +205,7 @@
     "rules12":"Rajdatta Kohale: 9422668737 ",
     "rules13":"Co-Convener:",
     "rules14":"1) Sarang Mankar: 8308334063",
+    "rules16": "Location: Administrative Building ",
     "location": "Everywhere",
     "email": "angrybirds@prajwalan.org",
     "phone": "9422668737",
@@ -230,6 +232,7 @@
     "rules13":"Omkar Gaikwad: 9421368055 ",
     "rules14":"Co-Convener:",
     "rules15":"1) Vaishnavi Gaynar: 7038425168 2) Piyush Dadgal: 8169508237",
+    "rules16": "Location: Civil Department Building ",
     "location": "Everywhere",
     "email": "astroquiz@prajwalan.org",
     "phone": "9421368055",
@@ -254,6 +257,7 @@
     "about13": "• Team consist of 5- 6 Members. ",
     "about14": "REGISTRATION FEE:",
     "about15": "Rs. 300 per team",
+    "rules16": "Location: CS Department",
     "rules1":"Contact: ",
     "rules2":"Convener: ",
     "rules3":"Sarang Vaidya: 9049879802 ",
@@ -283,6 +287,7 @@
     "rules8":"Prajwal Pokale: 7350469622",
     "rules9":"Co-Convener:",
     "rules10":"1) Sachin Pardhi: 9172767048 ",
+    "rules16": "Location: Civil Department",
     "location": "Everywhere",
     "email": "cadstrife@prajwalan.org",
     "phone": "7350469622",
@@ -312,6 +317,7 @@
     "rules11":"Pankaja Tayade: 7507916958",
     "rules12":"Co-Convener:",
     "rules13":"1) Tejal Parde: 8600723013  ",
+    "rules16": "Location: IT Department",
     "location": "Everywhere",
     "email": "chanakya@prajwalan.org",
     "phone": "7507916958",
@@ -351,6 +357,7 @@
     "rules3":"Dolly Dadwal: 8308730051",
     "rules4":"Co-Convener:",
     "rules5":"1) Shubhankar Markandeya : 7875307548 2) Saurabh Girpunje: 9403169593",
+    "rules16": "Location: Electronics Department",
     "location": "Everywhere",
     "email": "circuitmania@prajwalan.org",
     "phone": "8308730051",
@@ -380,6 +387,7 @@
     "rules3":"Surbhi Askar: 8308730051",
     "rules4":"Co-Convener:",
     "rules5":"1) Anjali Pawar : 7083087990",
+    "rules16": "Location: Civil Department",
     "location": "Everywhere",
     "email": "bridgeomania@prajwalan.org",
     "phone": "8308230073",
@@ -405,6 +413,7 @@
     "rules3":"Zoheb Sheikh: 9921018253",
     "rules4":"Co-Convener:",
     "rules5":"1) Ajay Rathi : 8308744950",
+    "rules16": "Location: IT Department",
     "location": "Everywhere",
     "email": "encipher@prajwalan.org",
     "phone": "9921018253",
@@ -434,6 +443,7 @@
     "rules13":"1) Saurabh Talhar: 7875650964 2) Sumedh Wavhal: 8999651410 ",
     "rules14":"Co-Convener:",
     "rules15":"1) Dhanashree Mankar : 9657376691 2) Sneha Pinjani: 8698359525 ",
+    "rules16": "Location: CS Department",
     "location": "Everywhere",
     "email": "googler@prajwalan.org",
     "phone": "8999651410",
@@ -472,7 +482,7 @@
     "rules3":"Swapnil Dudhe: 9637888440 ",
     "rules4":"Co-Convener:",
     "rules5":"1) Rahul Hindocha : 9922360029 2) Niket Lekariya: 9503177382 3) Pranay Patle: 8180875642 ",
-    
+    "rules16": "Location: CS Department",
     "location": "Everywhere",
     "email": "langaming@prajwalan.org",
     "phone": "9637888440",
@@ -500,6 +510,7 @@
     "rules5":"Parikshit Deshmukh: 9890239489 ",
     "rules6":"Co-Convener:",
     "rules7":"1) Shraddha Gandole : 7447319861 2) Bhagyashri Mohod: 7248957449",
+    "rules16": "Location: IT Department",
     "location": "Everywhere",
     "email": "mastermind@prajwalan.org",
     "phone": "9890239489",
@@ -522,6 +533,7 @@
     "rules3":"1) Sohail Sheikh: 8308483824 2) Mohd. Ahfaz Lateef:8624011238 ",
     "rules4":"Co-Convener:",
     "rules5":"1) Divyani Mozare : 7058839100 2) Shravika Ingole: 9766477439 3) Sakshi Kokate: 9975079608 ",
+    "rules16": "Location: Volleyball Ground",
     "location": "Everywhere",
     "email": "modexpo@prajwalan.org",
     "phone": "8624011238",
@@ -546,6 +558,7 @@
     "rules3":"Gauri Kawishwar: 8600047061",
     "rules4":"Co-Convener:",
     "rules5":"1) Aditya Deshmukh : 9420522093",
+    "rules16": "Location: Administrative Building",
     "location": "Everywhere",
     "email": "mysteryhunt@prajwalan.org",
     "phone": "8600047061",
@@ -593,6 +606,7 @@
     "rules9":"Asheena Tanvi: 7263804990",
     "rules10":"Co-Convener:",
     "rules11":"1) Prajwal Nistane : 9834340653",
+    "rules16": "Location: Civil Department",
     "location": "Everywhere",
     "email": "ppta@prajwalan.org",
     "phone": "7263804990",
@@ -610,8 +624,6 @@
     "link": "http://prajwalan.org",
     "profilePic": "/assets/img/Events icon/robotics.png",
     "twitter": "ionicframework",
-    
-
     "about1": "EVENT STRUCTURE:   ",
     "about2": "1. Sumo wrestling 2. Death race 3. Kukabot  4. Maze solver",
     "about3": "1) Death Race:",
@@ -655,7 +667,7 @@
     "rules13":"Shreyash Dhajekar: 9405709774",
     "rules14":"Co-Convener:",
     "rules15":"1) Shubhankar Bhagwat: 8552900087 2) Purvi Lohana: 8668403978",
-  
+    "rules16": "Location: Electronics Department",
     "location": "Everywhere",
     "email": "robotics@prajwalan.org",
     "phone": "9405709774",
@@ -688,7 +700,7 @@
     "rules3":"Samprati Gawande: 8605529324",
     "rules4":"Co-Convener:",
     "rules5":"1) Bhavesh Gaikwad: 9403108172 2) Janhavi Masodkar: 7038620360",
-   
+    "rules16": "Location: Administrative Building",
     "location": "Everywhere",
     "email": "rubikscube@prajwalan.org",
     "phone": "8605529324",
@@ -723,6 +735,7 @@
     "rules8":"Gitanjali Mulkevar: 7588248263",
     "rules9":"Co-Convener:",
     "rules10":"1) Saurabh Walkhe: 9766909626 2) Aditi Deshmukh: 9011843054",
+    "rules16": "Location: Civil Department",
     "location": "2.Execution time",
     "email": "scilab@prajwalan.org",
     "phone": "7588248263",
@@ -736,7 +749,6 @@
     "about1": " Technical event for civil engineering students based on concept of layout planning.",
     "about2": "TASK:",
     "about3": "To plan the Town with given details. Problem statement will be given to the members and they will have to draw the layout showing respective details within given time. Problem statement will consist of plot size and area distribution under certain heads like roads, residential, commercial, etc.",
-    
     "rules1": "Event Details:",
     "rules2": "FEES:",
     "rules3": "• Rs 200 per team",
@@ -747,8 +759,7 @@
     "rules8":"Pritam Nandre: 9403257798",
     "rules9":"Co-Convener:",
     "rules10":"1) Hrushikesh Waghmare: 9370747171 2) Sujit Bante: 7709451604",
-   
-    
+    "rules16": "Location: Civil Department",
     "location": "Everywhere",
     "email": "virtualplacement@prajwalan.org",
     "phone": "9403257798",
@@ -781,6 +792,7 @@
     "rules11":"Poonam Chandak: 7769988501",
     "rules12":"Co-Convener:",
     "rules13":"1) Gaurav Sakharkar: 7083724093 2) Anuj Hanmante: 8381062206",
+    "rules16": "Location: Administrative Department",
     "location": "Everywhere",
     "email": "virtualplacement@prajwalan.org",
     "phone": "7769988501",
@@ -814,6 +826,7 @@
     "rules7":"Nihar Kanse: 7219646432",
     "rules8":"Co-Convener:",
     "rules9":"1) Shweta Agrawal: 8999001730 2) Sunny Kirtkar: 7769073398",
+    "rules16": "Location: IT Department",
     "location": "Everywhere",
     "email": "techkshetra@prajwalan.org",
     "phone": "7219646432",
@@ -855,6 +868,7 @@
     "rules9":"Tanmay Kakde: 9763661325",
     "rules10":"Co-Convener:",
     "rules11":"1) Mayuri Kitukale: 7522930085 ",
+    "rules16": "Location: CS Department",
     "location": "Everywhere",
     "email": "webeinstein@prajwalan.org",
     "phone": "9763661325",
@@ -890,6 +904,7 @@
     "rules6":"Rohini Tembre: 7721064020",
     "rules7":"Co-Convener:",
     "rules8":"1) Aditi Nimbalkar: 8856082788 ",
+    "rules16": "Location: IT Department",
     "location": "Everywhere",
     "email": "pptb@prajwalan.org",
     "phone": "7721064020",
@@ -936,6 +951,7 @@
     "rules8":"Smruti Darwhekar: 9673202678",
     "rules9":"Co-Convener:",
     "rules10":"1) Prasanna Katte: 7719093988 ",
+    "rules16": "Location: Civil Department",
     "location": "Everywhere",
     "email": "pptc@prajwalan.org",
     "phone": "9673202678",
@@ -981,6 +997,7 @@
     "rules6":"Vidhina Bisen: 9075849909",
     "rules7":"Co-Convener:",
     "rules8":"1) Deepak Patil: 9011324156 2) Rushikesh Pawsekar: 8888753784 ",
+    "rules16": "Location: Electronics Department",
     "location": "Everywhere",
     "email": "pptd@prajwalan.org",
     "phone": "9075849909",
@@ -1002,6 +1019,7 @@
     "rules3":"Yamin Lakadkutta: 8308409091",
     "rules4":"Co-Convener:",
     "rules5":"1) Suraj Bhute: 9850015106 2) Jayesh Shelke: 8806651622 ",
+    "rules16": "Location: Language Labortary Building",
     "location": "Everywhere",
     "email": "letstalk@prajwalan.org",
     "phone": "8308409091",
@@ -1014,32 +1032,42 @@
     "lng": 77.756529,
     "center": true
   },{
-    "name": "CS Department \nEvents: ",
+    "name": "CS Department \nEvents: Andromaster, Webeinstein, LAN Gaming, Googler, Box Cricket",
     "lat": 20.959019, 
     "lng": 77.755239,
     "center": true
   },{
-    "name": "IT Department \nEvents: ",
+    "name": "IT Department \nEvents: Chanakya, Encipher, Mastermind, Techkshetra, PPT-B ",
     "lat": 20.958703,
     "lng": 77.755472,
     "center": true
   },{
-    "name": "Civil Department \nEvents: ",
+    "name": "Civil Department \nEvents: Astroquiz, Town & Layout Planning, Bridgo Mania, PPT-A, PPT-C",
     "lat": 20.957094, 
     "lng": 77.757588,
     "center": true
   },{
-    "name": "Electronics Department \nEvents: ",
+    "name": "Electronics Department \nEvents: PPT-D, Robotics, Circuit Mania ",
+    "lat": 20.958700, 
+    "lng": 77.758908,
+    "center": true
+  },{
+    "name": "Old Electrical Department ",
     "lat": 20.958356, 
     "lng": 77.757524,
     "center": true
   },{
-    "name": "Admin Building \nEvents: ",
+    "name": "Admin Building \nEvents: Angry Birds, Mystery Hunt, Rubik's Cube, Virtual Placement, Art-Club Exhibition",
     "lat": 20.957368, 
     "lng": 77.756402, 
     "center": true
   },{
-    "name": "Volleyball Ground \nEvents: ",
+    "name": "Language Labortary Building \nEvents: Let's Talk ",
+    "lat": 20.957983, 
+    "lng": 77.757609, 
+    "center": true
+  },{
+    "name": "Volleyball Ground \nEvents: Mod Expo",
     "lat": 20.957847, 
     "lng": 77.756900, 
     "center": true
@@ -1365,6 +1393,46 @@
   }],
 
   "feed":[{ 
+    "update": "Management Education Partner \"T.I.M.E.\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/time.jpeg"
+  },{ 
+    "update": "Travel and Tourism Partner \"G.H.Tourism\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/tourism.jpeg"
+  },{ 
+    "update": "Digital Education Partner \"Foxmula\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/foxmula.jpeg"
+  },{ 
+    "update": "Event Title Sponsor \"Bandsons\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/bandsons.jpeg"
+  },{ 
+    "update": "Ice-cream Sponsor \"Zero Degree\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/0degree.jpeg"
+  },{ 
+    "update": "Title Sponsor \"NCDEX\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/ncdex.jpeg"
+  },{ 
+    "update": "Event Title Sponsor \"Satiji\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/satiji.jpeg"
+  },{ 
+    "update": "Associate Sponsor \"The Institute of Engineers\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/ie.jpeg"
+  },{ 
+    "update":"Associate Sponsor \"Alumni Association\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/alumni.jpeg"
+  },{ 
+    "update": "Associate Sponsor \"ISTE\" ",
+    "desc": " ",
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/iste.jpeg"
+  },{
     "update": "Workshop on 3D Animation ",
     "desc": " ",
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/anim.jpg"
@@ -1389,10 +1457,6 @@
       "desc": "The technive season is on it's full run, Prajwalan'19 presents Technical Workshops FREE OF COST",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/tech.jpg"
     },{ 
-      "update": "Total Station",
-      "desc": "Prajwalan'19 presents Total Station Workshop",
-      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/workshop/total.jpg"
-    },{ 
       "update": "My Idea My Event Announced!",
       "desc": "Submit your ideas and become convener of your own event.",
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/myidea.jpeg"
@@ -1408,30 +1472,6 @@
     "update": "Prajwalan Musical \"Bandey\" ",
     "desc": "\"Prajwalan Theme song\" releasing on 30Jan, venue : Electonic Department, time : 5.00 pm",
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/bandey.jpg"
-  },{ 
-    "update": "Augmented Reality",
-    "desc": "Augmented reality workshop is scheduled to be conducted on 1st and 2nd Feb'19",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/augreal.jpeg"
-  },{
-    "update":"Virtual Reality",
-    "desc":"Virtual reality workshop is scheduled to be conducted on 27th Jan'19",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/vr.jpeg"
-  },{
-    "update": "UNESCO",
-    "desc": "Prajwalan received patronage from UNESCO",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/unesco.jpeg"
-  },{
-    "update":"Make in India",
-    "desc": "Prajwalan received patronage from Make in India",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/makeinindia.jpeg"
-  },{
-    "update":"Digital India",
-    "desc": "Prajwalan received patronage from Digital India",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/digitalIndia.jpg"
-  },{
-    "update": "MATLAB",
-    "desc": "MATLAB workshop is scheduled to be conducted on 12th and 13th Jan'19",
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/feed/matlab.jpg"
   }],
 
   "sponsors":[
@@ -1473,16 +1513,52 @@
     "desc":"Associate Sponsor"
   },
   {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/time.png",
+    "name":"T.I.M.E",
+    "desc":"Co-sponsor",
+    "desc1":"Management Education Partner"
+  },
+  {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/moti.jpg",
+    "name":"Moti Mahal",
+    "desc":"Snack Partner"
+  },
+  {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/foxmula.jpeg",
+    "name":"Foxmula",
+    
+    "desc":"Digital Education Partner"
+  },
+  {
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/gateAcademy.jpg",
     "name":"The Gate Academy",
     "desc":"Co-sponsor",
     "desc1":"Technical & Educational Partner"
+  },{
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/time.png",
+    "name":"T.I.M.E.",
+    "desc":"Management Education Partner"
+    
   },
   {
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/s&g.jpg",
     "name":"S&G Mall",
     "desc":"Co-sponsor",
     "desc1":"Style Partner"
+  },
+  {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/tourism.png",
+    "name":"G.H.Tourism",
+    "desc":"Travel and Tourism Partner"
+  },{
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/aspa.png",
+    "name":"Aspa Bandsons",
+    "desc":"Event Title Sponsor"
+  },
+  {
+    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/satiji.jpeg",
+    "name":"Shri Satiji Infratech",
+    "desc":"Event Title Sponsor"
   },
   {
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/nescafe.png",
