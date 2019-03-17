@@ -35,6 +35,9 @@
                     <p>
                       {{update.desc}}
                     </p>
+                    <div *ngIf="update?.imageAvailable==='true'">
+                      <a [href]="update.link">Click here</a>
+                    </div>
                   </ion-card-content>
                 </ion-card>
                 </ion-card>

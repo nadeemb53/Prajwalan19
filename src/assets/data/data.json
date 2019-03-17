@@ -621,6 +621,7 @@
     "eventPicture4":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/Events icon/roboticsevent4.jpg",
     "eventPicture5":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/Events icon/roboticsevent5.jpg",
     "eventPicture6":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/Events icon/roboticsevent6.jpg",
+    "link": "http://prajwalan.org",
     "profilePic": "/assets/img/Events icon/robotics.png",
     "twitter": "ionicframework",
     "about1": "EVENT STRUCTURE:   ",
@@ -1491,8 +1492,8 @@
       "desc":"Title Sponsors"
     },
     {
-      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/ncdex.png",
-      "name":"NCDEX",
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/neml.jpeg",
+      "name":"NeML",
       "desc":"Title Sponsor"
     },
     {

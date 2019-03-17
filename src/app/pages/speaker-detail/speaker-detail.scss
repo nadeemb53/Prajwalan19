@@ -1,9 +1,15 @@
 .speaker-detail img {
   max-width: 140px;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 
 .speaker-detail p {
-  color: #a3a8af;
+  color: #dadee4;
+}
+
+.card{
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  border-top: 3px solid #F89321;
+  align-content: center;
 }
 
