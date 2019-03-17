@@ -1486,16 +1486,14 @@
 
     },
     {
+      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/sbi.jpg",
+      "name":"State Bank Of India",
+      "desc":"Title Sponsors"
+    },
+    {
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/ncdex.png",
       "name":"NCDEX",
       "desc":"Title Sponsor"
-
-    },
-    {
-      "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/sbi.jpg",
-      "name":"SBI",
-      "desc":"Title Sponsor"
-
     },
     {
       "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/ie.jpg",
@@ -1623,11 +1621,7 @@
     "desc":"Event Co-Sponsor"
   },
   {
-    "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/sbi.jpg",
-    "name":"State Bank Of India",
-    "desc":"Event Co-Sponsor"
-  },
-  {
+
     "picture":"https://nadeemb53.github.io/Prajwalan19/src/assets/img/sponsorimg/gauri.png",
     "name":"Gouri Inn",
     "desc":"Event Co-Sponsor",
